@@ -1,0 +1,32 @@
+services:
+  api:
+    build: .
+    image: obrapulse:latest
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      OP_DB_PATH: /app/data/runtime/obrapulse.db
+    volumes:
+      - pp_runtime:/app/data/runtime
+    restart: unless-stopped
+
+  # Ejecución batch del pipeline (ej. programada con cron / Task Scheduler):
+  #   docker compose --profile batch run --rm pipeline
+  pipeline:
+    image: obrapulse:latest
+    profiles: ["batch"]
+    command: ["python", "-m", "obrapulse.cli", "run"]
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      OP_DB_PATH: /app/data/runtime/obrapulse.db
+    volumes:
+      - pp_runtime:/app/data/runtime
+      - ./reports:/app/reports
+
+volumes:
+  pp_runtime:

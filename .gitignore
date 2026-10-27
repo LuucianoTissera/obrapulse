@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+# Artefactos generados (se regeneran con `make demo`)
+*.db
+reports/*
+!reports/.gitkeep
+models/*.joblib
+models/*.json
+data/runtime/

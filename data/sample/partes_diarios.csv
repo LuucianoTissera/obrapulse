@@ -1,0 +1,865 @@
+registro_id,fecha,obra,actividad,unidad,cantidad_planificada,cantidad_ejecutada,horas_hombre,precio_unitario,observacion
+PD000001,2026-08-03,VIAL-01,Carpeta asfáltica,tn,165.4,110.5,77.2,52000,pendiente de resolver
+PD000002,2026-08-03,VIAL-01,Base granular,m3,127.7,127.1,58.0,9500,
+PD000003,2026-08-03,VIAL-01,Riego de liga,m2,1598.3,1683.6,31.9,450,
+PD000004,2026-08-03,VIV-02,Hormigón de fundaciones,m3,34.8,34.3,62.4,98000,
+PD000005,2026-08-03,VIV-02,Instalación eléctrica,boca,49.2,49.7,36.8,21000,
+PD000006,2026-08-03,VIV-02,Revoque grueso,m2,101.9,101.4,60.4,9800,
+PD000007,2026-08-03,ILU-03,Excavación de zanjas,m,144.4,47.6,39.1,4200,"poste a trasladar, esperando a la empresa de energia ..."
+PD000008,2026-08-03,ILU-03,Conexionado y tableros,un,3.1,1.2,23.0,640000,"caneria de agua no relevada, esperando al ente"
+PD000009,2026-08-03,ILU-03,Montaje de luminarias,un,12.6,13.0,29.8,185000,
+PD000010,2026-08-03,HOR-04,Curado y sellado,m2,848.6,902.8,29.0,700,
+PD000011,2026-08-03,HOR-04,Movimiento de suelos,m3,382.5,398.9,54.8,3800,
+PD000012,2026-08-03,HOR-04,Colocación de hormigón,m3,154.9,164.1,101.8,105000,se cumplió lo previsto
+PD000013,2026-08-04,VIAL-01,Riego de liga,m2,1500.3,1570.2,30.0,450,
+PD000014,2026-08-04,VIAL-01,Fresado de carpeta,m2,864.3,872.8,47.8,1800,se cumplió lo previsto
+PD000015,2026-08-04,VIAL-01,Demarcación horizontal,m,865.4,864.7,31.3,1300,
+PD000016,2026-08-04,VIV-02,Hormigón de fundaciones,m3,33.4,35.7,58.9,98000,
+PD000017,2026-08-04,VIV-02,Excavación de fundaciones,m3,57.7,57.1,46.8,6200,
+PD000018,2026-08-04,VIV-02,Instalación eléctrica,boca,47.0,48.8,38.6,21000,
+PD000019,2026-08-04,ILU-03,Tendido de cable,m,399.5,393.9,30.7,3100,sin novedades
+PD000020,2026-08-04,ILU-03,Montaje de luminarias,un,11.2,3.3,29.1,185000,"subcontrato sin personal, se reprograma"
+PD000021,2026-08-04,ILU-03,Excavación de zanjas,m,149.6,160.5,37.9,4200,
+PD000022,2026-08-04,HOR-04,Aserrado de juntas,m,301.2,292.9,23.8,2400,
+PD000023,2026-08-04,HOR-04,Movimiento de suelos,m3,371.2,364.5,52.0,3800,
+PD000024,2026-08-04,HOR-04,Compactación de subrasante,m2,1238.3,113.4,39.3,900,esperando aprobacion del proyecto ejecutivo
+PD000025,2026-08-05,VIAL-01,Base granular,m3,115.0,114.8,58.7,9500,
+PD000026,2026-08-05,VIAL-01,Carpeta asfáltica,tn,163.6,176.6,78.0,52000,
+PD000027,2026-08-05,VIAL-01,Fresado de carpeta,m2,970.3,260.6,44.5,1800,"SIN GENTE SUFICIENTE, FALTARON OFICIALES"
+PD000028,2026-08-05,VIV-02,Excavación de fundaciones,m3,55.5,8.5,47.9,6200,"no llegaron las columnas, el proveedor reprogramo"
+PD000029,2026-08-05,VIV-02,Mampostería,m2,90.0,87.4,73.1,14500,
+PD000030,2026-08-05,VIV-02,Revoque grueso,m2,113.9,116.8,61.3,9800,
+PD000031,2026-08-05,ILU-03,Montaje de columnas,un,6.3,0.2,47.8,420000,"lluvia, no se pudo trabajar en montaje de columnas"
+PD000032,2026-08-05,ILU-03,Tendido de cable,m,382.9,63.8,31.9,3100,"TORMENTA ELECTRICA, SE RETIRO AL PERSONAL"
+PD000033,2026-08-05,ILU-03,Excavación de zanjas,m,152.9,60.7,36.9,4200,esperando permiso de corte de energia
+PD000034,2026-08-05,HOR-04,Movimiento de suelos,m3,429.4,436.0,52.8,3800,
+PD000035,2026-08-05,HOR-04,Compactación de subrasante,m2,1236.5,260.5,38.4,900,"SE PINCHÓ EL CAMIÓN VOLCADOR, DEMORA EN EL ACARREO ..."
+PD000036,2026-08-05,HOR-04,Colocación de hormigón,m3,139.4,17.0,101.0,105000,"se termino el cemento, esperando reposicion"
+PD000037,2026-08-06,VIAL-01,Carpeta asfáltica,tn,183.3,21.6,73.5,52000,"pronóstico adverso, se suspendió carpeta asfáltica ..."
+PD000038,2026-08-06,VIAL-01,Fresado de carpeta,m2,852.6,146.1,47.2,1800,"viento fuerte, se suspendió fresado de carpeta"
+PD000039,2026-08-06,VIAL-01,Demarcación horizontal,m,728.3,774.0,31.9,1300,
+PD000040,2026-08-06,VIV-02,Excavación de fundaciones,m3,61.7,2.5,46.3,6200,"viento fuerte, se suspendió excavación de fundaciones"
+PD000041,2026-08-06,VIV-02,Instalación eléctrica,boca,42.9,6.2,37.3,21000,"barro en el frente de obra, no se puede ingresar con equipos"
+PD000042,2026-08-06,VIV-02,Hormigón de fundaciones,m3,34.2,3.0,63.0,98000,"calor extremo, se cortó la jornada antes"
+PD000043,2026-08-06,ILU-03,Montaje de luminarias,un,12.1,1.0,30.8,185000,"lluvia, no se pudo trabajar en montaje de luminarias"
+PD000044,2026-08-06,ILU-03,Tendido de cable,m,367.6,9.3,30.7,3100,"llovio toda la manana, terreno saturado"
+PD000045,2026-08-06,ILU-03,Montaje de columnas,un,6.3,1.8,45.9,420000,"calor extremo, se corto la jornada antes"
+PD000046,2026-08-06,HOR-04,Colocación de hormigón,m3,150.7,36.1,101.8,105000,"LLOVIÓ TODA LA MAÑANA, TERRENO SATURADO"
+PD000047,2026-08-06,HOR-04,Compactación de subrasante,m2,1237.9,287.6,37.1,900,"barro en el frente de obra, no se puede ingresar con equipos"
+PD000048,2026-08-06,HOR-04,Movimiento de suelos,m3,389.1,18.4,53.5,3800,se atrasó movimiento de suelos
+PD000049,2026-08-07,VIAL-01,Carpeta asfáltica,tn,175.5,141.9,77.5,52000,NO SE PUDO AVANZAR CON CARPETA ASFÁLTICA
+PD000050,2026-08-07,VIAL-01,Riego de liga,m2,1353.7,1436.0,30.3,450,
+PD000051,2026-08-07,VIAL-01,Base granular,m3,118.6,127.0,58.3,9500,
+PD000052,2026-08-07,VIV-02,Revoque grueso,m2,105.2,31.5,59.1,9800,"llovio toda la manana, terreno saturado ..."
+PD000053,2026-08-07,VIV-02,Hormigón de fundaciones,m3,32.5,25.2,62.7,98000,ACOPIO INSUFICIENTE DE MATERIAL PARA HORMIGON DE FUNDACIONES
+PD000054,2026-08-07,VIV-02,Losa de cubierta,m2,66.3,15.9,86.8,38000,"lluvia, no se pudo trabajar en losa de cubierta"
+PD000055,2026-08-07,ILU-03,Conexionado y tableros,un,3.1,3.3,23.4,640000,ok
+PD000056,2026-08-07,ILU-03,Excavación de zanjas,m,140.8,147.6,38.4,4200,
+PD000057,2026-08-07,ILU-03,Tendido de cable,m,364.4,355.2,31.1,3100,
+PD000058,2026-08-07,HOR-04,Curado y sellado,m2,986.4,1041.9,30.6,700,
+PD000059,2026-08-07,HOR-04,Movimiento de suelos,m3,371.6,182.6,53.2,3800,"falta de material para movimiento de suelos, el proveedor no entregó"
+PD000060,2026-08-07,HOR-04,Compactación de subrasante,m2,1177.0,1157.1,37.2,900,tarea terminada
+PD000061,2026-08-08,VIAL-01,Fresado de carpeta,m2,884.1,878.7,44.7,1800,
+PD000062,2026-08-08,VIAL-01,Demarcación horizontal,m,725.8,741.9,30.6,1300,
+PD000063,2026-08-08,VIAL-01,Carpeta asfáltica,tn,182.4,101.2,74.9,52000,demora del subcontratista de carpeta asfáltica
+PD000064,2026-08-08,VIV-02,Losa de cubierta,m2,75.4,33.3,87.1,38000,poco personal para losa de cubierta
+PD000065,2026-08-08,VIV-02,Instalación eléctrica,boca,48.1,48.1,36.7,21000,
+PD000066,2026-08-08,VIV-02,Revoque grueso,m2,105.9,26.3,58.4,9800,"viento fuerte, se suspendió revoque grueso"
+PD000067,2026-08-08,ILU-03,Montaje de luminarias,un,12.7,13.3,30.0,185000,
+PD000068,2026-08-08,ILU-03,Tendido de cable,m,411.3,408.4,29.3,3100,
+PD000069,2026-08-08,ILU-03,Montaje de columnas,un,5.6,2.6,45.1,420000,"FERIADO LOCAL, JORNADA REDUCIDA"
+PD000070,2026-08-08,HOR-04,Aserrado de juntas,m,298.2,295.2,21.7,2400,
+PD000071,2026-08-08,HOR-04,Movimiento de suelos,m3,378.6,387.7,53.2,3800,
+PD000072,2026-08-08,HOR-04,Curado y sellado,m2,825.1,876.9,30.9,700,
+PD000073,2026-08-10,VIAL-01,Demarcación horizontal,m,778.7,784.3,30.3,1300,
+PD000074,2026-08-10,VIAL-01,Base granular,m3,126.4,97.7,58.3,9500,"falto la cuadrilla de base granular, ausentismo"
+PD000075,2026-08-10,VIAL-01,Carpeta asfáltica,tn,176.3,26.6,75.6,52000,"ESPERANDO AL SUBCONTRATISTA, NO TERMINO SU TAREA PREVIA"
+PD000076,2026-08-10,VIV-02,Hormigón de fundaciones,m3,33.4,27.9,62.2,98000,el subcontratista no se presentó
+PD000077,2026-08-10,VIV-02,Excavación de fundaciones,m3,65.6,6.4,47.9,6200,se detuvo excavación de fundaciones por condición insegura en el frente
+PD000078,2026-08-10,VIV-02,Instalación eléctrica,boca,43.1,12.7,39.9,21000,demoras en obra
+PD000079,2026-08-10,ILU-03,Tendido de cable,m,423.5,436.7,31.8,3100,
+PD000080,2026-08-10,ILU-03,Montaje de columnas,un,6.4,6.5,43.7,420000,se cumplió lo previsto
+PD000081,2026-08-10,ILU-03,Conexionado y tableros,un,3.1,2.3,23.7,640000,interferencia con servicios enterrados
+PD000082,2026-08-10,HOR-04,Colocación de hormigón,m3,155.3,157.5,108.3,105000,
+PD000083,2026-08-10,HOR-04,Compactación de subrasante,m2,1137.0,824.7,36.8,900,"avería de la grúa, no se pudo montar"
+PD000084,2026-08-10,HOR-04,Movimiento de suelos,m3,366.8,384.8,56.0,3800,
+PD000085,2026-08-11,VIAL-01,Riego de liga,m2,1522.5,770.3,29.0,450,"PLANO DESACTUALIZADO, HAY QUE REPLANTEAR"
+PD000086,2026-08-11,VIAL-01,Base granular,m3,112.8,115.0,59.8,9500,
+PD000087,2026-08-11,VIAL-01,Carpeta asfáltica,tn,177.1,81.4,79.3,52000,esperando aprobación del proyecto ejecutivo
+PD000088,2026-08-11,VIV-02,Mampostería,m2,92.8,92.5,73.2,14500,
+PD000089,2026-08-11,VIV-02,Hormigón de fundaciones,m3,37.6,38.8,62.6,98000,
+PD000090,2026-08-11,VIV-02,Revoque grueso,m2,108.6,117.2,62.8,9800,
+PD000091,2026-08-11,ILU-03,Conexionado y tableros,un,2.8,2.7,23.9,640000,
+PD000092,2026-08-11,ILU-03,Montaje de columnas,un,6.0,5.8,43.7,420000,
+PD000093,2026-08-11,ILU-03,Tendido de cable,m,363.3,355.0,30.5,3100,
+PD000094,2026-08-11,HOR-04,Movimiento de suelos,m3,390.8,409.1,52.1,3800,
+PD000095,2026-08-11,HOR-04,Compactación de subrasante,m2,1174.6,1139.6,39.5,900,sin novedades
+PD000096,2026-08-11,HOR-04,Colocación de hormigón,m3,135.0,138.2,105.6,105000,
+PD000097,2026-08-12,VIAL-01,Carpeta asfáltica,tn,170.7,178.4,74.6,52000,
+PD000098,2026-08-12,VIAL-01,Riego de liga,m2,1629.1,1662.8,29.3,450,
+PD000099,2026-08-12,VIAL-01,Base granular,m3,109.1,116.9,58.8,9500,se cumplió lo previsto
+PD000100,2026-08-12,VIV-02,Revoque grueso,m2,104.3,107.9,57.6,9800,
+PD000101,2026-08-12,VIV-02,Excavación de fundaciones,m3,64.2,63.4,47.3,6200,
+PD000102,2026-08-12,VIV-02,Losa de cubierta,m2,66.6,34.2,94.1,38000,"falla en el compactador, se frenó losa de cubierta"
+PD000103,2026-08-12,ILU-03,Tendido de cable,m,385.4,375.1,28.9,3100,
+PD000104,2026-08-12,ILU-03,Montaje de columnas,un,5.6,3.5,43.9,420000,"plano desactualizado, hay que replantear"
+PD000105,2026-08-12,ILU-03,Excavación de zanjas,m,155.8,159.8,36.0,4200,
+PD000106,2026-08-12,HOR-04,Colocación de hormigón,m3,138.8,63.3,104.1,105000,FALTA DE EPP PARA EL PERSONAL NUEVO
+PD000107,2026-08-12,HOR-04,Movimiento de suelos,m3,413.1,73.8,52.6,3800,terreno anegado por la lluvia de ayer
+PD000108,2026-08-12,HOR-04,Curado y sellado,m2,932.0,600.8,30.5,700,se retiró parte de la cuadrilla a otra obra !!
+PD000109,2026-08-13,VIAL-01,Riego de liga,m2,1468.5,1448.6,29.4,450,
+PD000110,2026-08-13,VIAL-01,Carpeta asfáltica,tn,169.2,30.5,77.9,52000,"carpeta con deficiencias, se repasa"
+PD000111,2026-08-13,VIAL-01,Fresado de carpeta,m2,941.6,83.7,46.8,1800,falta de personal especializado para fresado de carpeta !!
+PD000112,2026-08-13,VIV-02,Revoque grueso,m2,107.3,36.0,63.6,9800,"accidente leve, parada para investigación"
+PD000113,2026-08-13,VIV-02,Mampostería,m2,89.4,90.4,73.0,14500,
+PD000114,2026-08-13,VIV-02,Excavación de fundaciones,m3,56.0,56.4,44.4,6200,
+PD000115,2026-08-13,ILU-03,Tendido de cable,m,430.5,427.2,30.3,3100,se cumplió lo previsto
+PD000116,2026-08-13,ILU-03,Conexionado y tableros,un,2.9,3.0,23.2,640000,
+PD000117,2026-08-13,ILU-03,Excavación de zanjas,m,149.9,149.6,39.1,4200,
+PD000118,2026-08-13,HOR-04,Compactación de subrasante,m2,1316.3,80.4,38.5,900,COMPACTACIÓN DE SUBRASANTE INCOMPLETO
+PD000119,2026-08-13,HOR-04,Aserrado de juntas,m,302.5,301.9,23.6,2400,se cumplió lo previsto
+PD000120,2026-08-13,HOR-04,Curado y sellado,m2,915.2,288.8,29.2,700,"no llegó el hormigón, demora del proveedor"
+PD000121,2026-08-14,VIAL-01,Fresado de carpeta,m2,962.4,977.3,44.4,1800,
+PD000122,2026-08-14,VIAL-01,Riego de liga,m2,1563.1,450.8,31.6,450,se detuvo riego de liga por condicion insegura en el frente
+PD000123,2026-08-14,VIAL-01,Carpeta asfáltica,tn,190.0,194.6,76.3,52000,
+PD000124,2026-08-14,VIV-02,Mampostería,m2,83.3,67.5,73.0,14500,demoras en obra ...
+PD000125,2026-08-14,VIV-02,Excavación de fundaciones,m3,65.0,67.4,45.1,6200,
+PD000126,2026-08-14,VIV-02,Instalación eléctrica,boca,45.3,48.9,39.0,21000,
+PD000127,2026-08-14,ILU-03,Conexionado y tableros,un,2.9,2.9,23.1,640000,
+PD000128,2026-08-14,ILU-03,Montaje de luminarias,un,12.6,9.9,29.7,185000,ACOPIO INSUFICIENTE DE MATERIAL PARA MONTAJE DE LUMINARIAS
+PD000129,2026-08-14,ILU-03,Tendido de cable,m,365.0,359.2,30.1,3100,tarea terminada
+PD000130,2026-08-14,HOR-04,Curado y sellado,m2,940.7,980.8,30.3,700,
+PD000131,2026-08-14,HOR-04,Compactación de subrasante,m2,1308.0,1294.3,39.4,900,
+PD000132,2026-08-14,HOR-04,Movimiento de suelos,m3,363.2,388.0,56.0,3800,
+PD000133,2026-08-15,VIAL-01,Carpeta asfáltica,tn,175.2,83.7,77.2,52000,"se pinchó el camión volcador, demora en el acarreo"
+PD000134,2026-08-15,VIAL-01,Fresado de carpeta,m2,871.6,887.6,46.4,1800,tarea terminada
+PD000135,2026-08-15,VIAL-01,Riego de liga,m2,1546.7,1503.7,29.4,450,
+PD000136,2026-08-15,VIV-02,Excavación de fundaciones,m3,57.0,56.1,43.9,6200,
+PD000137,2026-08-15,VIV-02,Instalación eléctrica,boca,43.1,46.1,38.2,21000,
+PD000138,2026-08-15,VIV-02,Revoque grueso,m2,114.4,24.8,57.7,9800,el subcontratista no se presentó
+PD000139,2026-08-15,ILU-03,Excavación de zanjas,m,153.3,164.5,37.3,4200,
+PD000140,2026-08-15,ILU-03,Montaje de columnas,un,6.1,6.3,44.4,420000,
+PD000141,2026-08-15,ILU-03,Conexionado y tableros,un,3.2,2.7,22.2,640000,ocupación del terreno por terceros
+PD000142,2026-08-15,HOR-04,Curado y sellado,m2,856.4,869.3,31.4,700,
+PD000143,2026-08-15,HOR-04,Colocación de hormigón,m3,160.8,156.1,109.7,105000,
+PD000144,2026-08-15,HOR-04,Aserrado de juntas,m,320.4,338.1,24.0,2400,sin novedades
+PD000145,2026-08-17,VIAL-01,Carpeta asfáltica,tn,184.3,10.9,72.9,52000,problemas varios
+PD000146,2026-08-17,VIAL-01,Fresado de carpeta,m2,959.9,975.8,45.6,1800,
+PD000147,2026-08-17,VIAL-01,Base granular,m3,124.5,134.4,60.9,9500,
+PD000148,2026-08-17,VIV-02,Losa de cubierta,m2,76.7,78.3,86.9,38000,
+PD000149,2026-08-17,VIV-02,Excavación de fundaciones,m3,62.1,65.6,47.1,6200,
+PD000150,2026-08-17,VIV-02,Revoque grueso,m2,108.2,113.9,60.7,9800,
+PD000151,2026-08-17,ILU-03,Tendido de cable,m,367.7,378.3,29.0,3100,tarea terminada
+PD000152,2026-08-17,ILU-03,Montaje de luminarias,un,10.8,11.4,31.4,185000,se cumplió lo previsto
+PD000153,2026-08-17,ILU-03,Excavación de zanjas,m,140.0,149.1,38.2,4200,
+PD000154,2026-08-17,HOR-04,Aserrado de juntas,m,293.7,187.8,22.1,2400,"demora en la entrega de cable, no se pudo avanzar con aserrado de juntas"
+PD000155,2026-08-17,HOR-04,Curado y sellado,m2,945.3,925.9,29.4,700,tarea terminada
+PD000156,2026-08-17,HOR-04,Compactación de subrasante,m2,1277.5,1378.3,37.8,900,tarea terminada
+PD000157,2026-08-18,VIAL-01,Base granular,m3,128.9,128.2,59.5,9500,
+PD000158,2026-08-18,VIAL-01,Fresado de carpeta,m2,942.3,971.1,46.6,1800,
+PD000159,2026-08-18,VIAL-01,Demarcación horizontal,m,724.3,750.5,29.6,1300,
+PD000160,2026-08-18,VIV-02,Mampostería,m2,91.1,91.1,74.5,14500,
+PD000161,2026-08-18,VIV-02,Hormigón de fundaciones,m3,35.4,34.6,59.0,98000,tarea terminada
+PD000162,2026-08-18,VIV-02,Revoque grueso,m2,118.7,117.4,60.6,9800,
+PD000163,2026-08-18,ILU-03,Tendido de cable,m,377.2,374.0,29.5,3100,
+PD000164,2026-08-18,ILU-03,Montaje de columnas,un,5.5,5.6,43.8,420000,sin novedades
+PD000165,2026-08-18,ILU-03,Conexionado y tableros,un,3.2,3.2,22.2,640000,ok
+PD000166,2026-08-18,HOR-04,Curado y sellado,m2,969.9,31.3,31.4,700,demoras en obra
+PD000167,2026-08-18,HOR-04,Compactación de subrasante,m2,1206.3,145.2,36.7,900,"barro en el frente de obra, no se puede ingresar con equipos"
+PD000168,2026-08-18,HOR-04,Aserrado de juntas,m,328.7,336.7,22.5,2400,
+PD000169,2026-08-19,VIAL-01,Demarcación horizontal,m,750.9,799.9,29.9,1300,
+PD000170,2026-08-19,VIAL-01,Carpeta asfáltica,tn,176.7,183.7,79.5,52000,
+PD000171,2026-08-19,VIAL-01,Riego de liga,m2,1467.4,1496.2,30.3,450,
+PD000172,2026-08-19,VIV-02,Hormigón de fundaciones,m3,33.7,34.1,62.2,98000,se cumplió lo previsto
+PD000173,2026-08-19,VIV-02,Losa de cubierta,m2,68.4,70.6,88.9,38000,
+PD000174,2026-08-19,VIV-02,Instalación eléctrica,boca,47.9,27.2,39.8,21000,
+PD000175,2026-08-19,ILU-03,Tendido de cable,m,406.3,395.8,30.6,3100,
+PD000176,2026-08-19,ILU-03,Montaje de luminarias,un,10.9,4.6,30.0,185000,charla de seguridad extendida y capacitación
+PD000177,2026-08-19,ILU-03,Excavación de zanjas,m,152.0,150.1,38.0,4200,
+PD000178,2026-08-19,HOR-04,Colocación de hormigón,m3,163.9,82.8,107.1,105000,"se termino el cemento, esperando reposicion"
+PD000179,2026-08-19,HOR-04,Aserrado de juntas,m,328.9,334.4,22.6,2400,
+PD000180,2026-08-19,HOR-04,Movimiento de suelos,m3,369.5,89.3,53.0,3800,FALTA PERMISO MUNICIPAL PARA CORTAR LA CALLE
+PD000181,2026-08-20,VIAL-01,Fresado de carpeta,m2,921.4,940.6,44.2,1800,
+PD000182,2026-08-20,VIAL-01,Base granular,m3,111.4,112.3,63.7,9500,se cumplió lo previsto
+PD000183,2026-08-20,VIAL-01,Carpeta asfáltica,tn,176.6,12.1,72.3,52000,"feriado local, jornada reducida"
+PD000184,2026-08-20,VIV-02,Losa de cubierta,m2,76.4,80.0,95.1,38000,
+PD000185,2026-08-20,VIV-02,Revoque grueso,m2,100.0,10.0,62.9,9800,
+PD000186,2026-08-20,VIV-02,Hormigón de fundaciones,m3,32.6,34.9,60.1,98000,
+PD000187,2026-08-20,ILU-03,Tendido de cable,m,384.9,385.5,29.1,3100,
+PD000188,2026-08-20,ILU-03,Conexionado y tableros,un,3.2,2.7,22.9,640000,OCUPACIÓN DEL TERRENO POR TERCEROS
+PD000189,2026-08-20,ILU-03,Montaje de columnas,un,6.1,3.7,43.6,420000,demora general en el frente
+PD000190,2026-08-20,HOR-04,Compactación de subrasante,m2,1187.1,35.5,39.7,900,compactación de subrasante incompleto
+PD000191,2026-08-20,HOR-04,Movimiento de suelos,m3,438.2,427.4,50.8,3800,sin novedades
+PD000192,2026-08-20,HOR-04,Colocación de hormigón,m3,140.9,150.8,107.8,105000,
+PD000193,2026-08-21,VIAL-01,Base granular,m3,130.8,128.2,60.4,9500,
+PD000194,2026-08-21,VIAL-01,Demarcación horizontal,m,871.3,919.0,29.4,1300,
+PD000195,2026-08-21,VIAL-01,Carpeta asfáltica,tn,173.5,181.1,73.8,52000,
+PD000196,2026-08-21,VIV-02,Instalación eléctrica,boca,48.9,48.0,38.1,21000,
+PD000197,2026-08-21,VIV-02,Losa de cubierta,m2,70.1,75.7,91.0,38000,
+PD000198,2026-08-21,VIV-02,Revoque grueso,m2,108.3,112.1,61.7,9800,
+PD000199,2026-08-21,ILU-03,Excavación de zanjas,m,161.9,158.1,38.6,4200,
+PD000200,2026-08-21,ILU-03,Tendido de cable,m,422.5,439.5,30.8,3100,
+PD000201,2026-08-21,ILU-03,Montaje de columnas,un,5.8,6.1,45.0,420000,
+PD000202,2026-08-21,HOR-04,Compactación de subrasante,m2,1201.4,220.1,39.6,900,"mixer en el taller, sin hormigon colocado"
+PD000203,2026-08-21,HOR-04,Curado y sellado,m2,859.1,923.7,29.4,700,sin novedades
+PD000204,2026-08-21,HOR-04,Colocación de hormigón,m3,143.7,153.3,108.7,105000,
+PD000205,2026-08-22,VIAL-01,Riego de liga,m2,1432.0,1409.1,31.1,450,
+PD000206,2026-08-22,VIAL-01,Carpeta asfáltica,tn,164.5,173.7,78.5,52000,
+PD000207,2026-08-22,VIAL-01,Base granular,m3,118.8,36.4,62.4,9500,se atrasó base granular
+PD000208,2026-08-22,VIV-02,Hormigón de fundaciones,m3,34.6,35.0,62.5,98000,
+PD000209,2026-08-22,VIV-02,Revoque grueso,m2,119.5,124.4,64.0,9800,
+PD000210,2026-08-22,VIV-02,Excavación de fundaciones,m3,61.4,41.3,45.6,6200,"ENSAYO DE COMPACTACION NO APROBADO, SE REHACE"
+PD000211,2026-08-22,ILU-03,Tendido de cable,m,426.9,424.7,31.5,3100,
+PD000212,2026-08-22,ILU-03,Montaje de columnas,un,6.6,1.8,44.9,420000,charla de seguridad extendida y capacitacion
+PD000213,2026-08-22,ILU-03,Montaje de luminarias,un,12.1,12.0,31.8,185000,ok
+PD000214,2026-08-22,HOR-04,Colocación de hormigón,m3,155.4,153.7,103.8,105000,
+PD000215,2026-08-22,HOR-04,Aserrado de juntas,m,324.8,339.3,22.2,2400,
+PD000216,2026-08-22,HOR-04,Movimiento de suelos,m3,382.1,139.6,55.1,3800,"no llegaron las columnas, el proveedor reprogramó"
+PD000217,2026-08-24,VIAL-01,Fresado de carpeta,m2,988.9,981.9,47.1,1800,
+PD000218,2026-08-24,VIAL-01,Demarcación horizontal,m,734.2,772.5,29.4,1300,
+PD000219,2026-08-24,VIAL-01,Riego de liga,m2,1408.6,1440.6,30.9,450,
+PD000220,2026-08-24,VIV-02,Losa de cubierta,m2,68.6,42.6,88.2,38000,"faltan ladrillos en obra, entrega demorada"
+PD000221,2026-08-24,VIV-02,Mampostería,m2,89.3,94.4,78.4,14500,
+PD000222,2026-08-24,VIV-02,Excavación de fundaciones,m3,57.2,57.1,45.1,6200,sin novedades
+PD000223,2026-08-24,ILU-03,Montaje de columnas,un,5.9,5.8,47.0,420000,
+PD000224,2026-08-24,ILU-03,Tendido de cable,m,376.9,271.8,31.2,3100,charla de seguridad extendida y capacitación
+PD000225,2026-08-24,ILU-03,Montaje de luminarias,un,11.1,6.9,31.4,185000,"ensayo de compactación no aprobado, se rehace"
+PD000226,2026-08-24,HOR-04,Colocación de hormigón,m3,142.2,145.8,105.2,105000,
+PD000227,2026-08-24,HOR-04,Aserrado de juntas,m,317.2,198.6,23.9,2400,"falta de material para aserrado de juntas, el proveedor no entregó"
+PD000228,2026-08-24,HOR-04,Movimiento de suelos,m3,417.7,125.0,55.3,3800,SE REPROGRAMÓ POR INDICACIÓN DE LA JEFATURA
+PD000229,2026-08-25,VIAL-01,Carpeta asfáltica,tn,197.3,129.2,73.8,52000,"sin asfalto, la planta no despachó ..."
+PD000230,2026-08-25,VIAL-01,Base granular,m3,125.1,128.2,63.1,9500,se cumplió lo previsto
+PD000231,2026-08-25,VIAL-01,Riego de liga,m2,1359.3,1459.8,31.2,450,se cumplió lo previsto
+PD000232,2026-08-25,VIV-02,Hormigón de fundaciones,m3,37.7,38.8,59.2,98000,
+PD000233,2026-08-25,VIV-02,Mampostería,m2,85.2,91.6,77.1,14500,
+PD000234,2026-08-25,VIV-02,Losa de cubierta,m2,73.4,75.0,92.5,38000,
+PD000235,2026-08-25,ILU-03,Conexionado y tableros,un,3.2,3.3,23.8,640000,se cumplió lo previsto
+PD000236,2026-08-25,ILU-03,Tendido de cable,m,433.8,428.9,29.1,3100,
+PD000237,2026-08-25,ILU-03,Montaje de columnas,un,5.5,5.9,43.8,420000,tarea terminada
+PD000238,2026-08-25,HOR-04,Curado y sellado,m2,923.6,409.9,29.3,700,"esperando al subcontratista, no terminó su tarea previa"
+PD000239,2026-08-25,HOR-04,Compactación de subrasante,m2,1271.2,1254.5,39.4,900,
+PD000240,2026-08-25,HOR-04,Aserrado de juntas,m,289.8,308.4,22.3,2400,tarea terminada
+PD000241,2026-08-26,VIAL-01,Riego de liga,m2,1438.5,1441.2,30.8,450,
+PD000242,2026-08-26,VIAL-01,Carpeta asfáltica,tn,184.0,181.2,77.4,52000,
+PD000243,2026-08-26,VIAL-01,Base granular,m3,124.4,126.8,58.2,9500,
+PD000244,2026-08-26,VIV-02,Losa de cubierta,m2,66.3,42.9,91.1,38000,falta de personal especializado para losa de cubierta
+PD000245,2026-08-26,VIV-02,Revoque grueso,m2,110.6,116.3,60.7,9800,se cumplió lo previsto
+PD000246,2026-08-26,VIV-02,Hormigón de fundaciones,m3,38.0,38.8,60.5,98000,
+PD000247,2026-08-26,ILU-03,Excavación de zanjas,m,137.9,140.3,38.9,4200,
+PD000248,2026-08-26,ILU-03,Tendido de cable,m,362.6,357.9,29.3,3100,
+PD000249,2026-08-26,ILU-03,Montaje de columnas,un,6.2,6.5,46.8,420000,
+PD000250,2026-08-26,HOR-04,Movimiento de suelos,m3,420.5,80.0,56.0,3800,se reprogramo por indicacion de la jefatura
+PD000251,2026-08-26,HOR-04,Aserrado de juntas,m,329.4,342.7,23.8,2400,
+PD000252,2026-08-26,HOR-04,Compactación de subrasante,m2,1128.9,1198.5,37.8,900,
+PD000253,2026-08-27,VIAL-01,Base granular,m3,114.5,118.0,60.8,9500,
+PD000254,2026-08-27,VIAL-01,Carpeta asfáltica,tn,184.9,194.6,74.6,52000,
+PD000255,2026-08-27,VIAL-01,Demarcación horizontal,m,740.4,787.5,29.5,1300,
+PD000256,2026-08-27,VIV-02,Losa de cubierta,m2,63.3,62.6,89.0,38000,
+PD000257,2026-08-27,VIV-02,Excavación de fundaciones,m3,54.8,56.7,43.9,6200,sin novedades
+PD000258,2026-08-27,VIV-02,Instalación eléctrica,boca,46.0,46.9,39.2,21000,tarea terminada
+PD000259,2026-08-27,ILU-03,Excavación de zanjas,m,162.1,159.9,38.6,4200,
+PD000260,2026-08-27,ILU-03,Montaje de luminarias,un,12.5,13.4,29.8,185000,
+PD000261,2026-08-27,ILU-03,Tendido de cable,m,398.2,396.1,29.9,3100,sin novedades
+PD000262,2026-08-27,HOR-04,Colocación de hormigón,m3,154.3,162.9,108.8,105000,
+PD000263,2026-08-27,HOR-04,Curado y sellado,m2,828.5,858.6,28.9,700,
+PD000264,2026-08-27,HOR-04,Compactación de subrasante,m2,1133.7,1151.3,39.3,900,se cumplió lo previsto
+PD000265,2026-08-28,VIAL-01,Base granular,m3,130.2,29.8,58.1,9500,"lluvia, no se pudo trabajar en base granular"
+PD000266,2026-08-28,VIAL-01,Fresado de carpeta,m2,963.0,999.2,45.9,1800,
+PD000267,2026-08-28,VIAL-01,Carpeta asfáltica,tn,167.5,36.7,77.9,52000,"barro en el frente de obra, no se puede ingresar con equipos"
+PD000268,2026-08-28,VIV-02,Excavación de fundaciones,m3,56.6,60.8,44.2,6200,
+PD000269,2026-08-28,VIV-02,Hormigón de fundaciones,m3,37.5,39.9,61.6,98000,
+PD000270,2026-08-28,VIV-02,Mampostería,m2,97.7,102.2,73.2,14500,
+PD000271,2026-08-28,ILU-03,Tendido de cable,m,365.7,385.1,29.9,3100,
+PD000272,2026-08-28,ILU-03,Excavación de zanjas,m,160.4,170.5,39.8,4200,
+PD000273,2026-08-28,ILU-03,Montaje de luminarias,un,12.4,13.2,29.3,185000,
+PD000274,2026-08-28,HOR-04,Movimiento de suelos,m3,363.8,358.5,52.7,3800,
+PD000275,2026-08-28,HOR-04,Aserrado de juntas,m,301.3,293.3,22.5,2400,
+PD000276,2026-08-28,HOR-04,Compactación de subrasante,m2,1236.3,1201.1,37.8,900,
+PD000277,2026-08-29,VIAL-01,Riego de liga,m2,1528.1,1568.8,30.1,450,
+PD000278,2026-08-29,VIAL-01,Fresado de carpeta,m2,828.1,15.7,46.2,1800,"la inspección observó el armado, se corrige"
+PD000279,2026-08-29,VIAL-01,Carpeta asfáltica,tn,195.4,26.1,75.6,52000,"barro en el frente de obra, no se puede ingresar con equipos !!"
+PD000280,2026-08-29,VIV-02,Instalación eléctrica,boca,49.3,48.5,39.8,21000,se cumplió lo previsto
+PD000281,2026-08-29,VIV-02,Losa de cubierta,m2,66.7,65.4,95.3,38000,
+PD000282,2026-08-29,VIV-02,Excavación de fundaciones,m3,60.0,25.7,45.7,6200,"falta de material para excavacion de fundaciones, el proveedor no entrego"
+PD000283,2026-08-29,ILU-03,Montaje de luminarias,un,11.5,11.7,31.0,185000,
+PD000284,2026-08-29,ILU-03,Conexionado y tableros,un,2.8,2.8,22.4,640000,
+PD000285,2026-08-29,ILU-03,Tendido de cable,m,417.3,421.4,30.6,3100,
+PD000286,2026-08-29,HOR-04,Aserrado de juntas,m,272.3,267.8,23.4,2400,
+PD000287,2026-08-29,HOR-04,Movimiento de suelos,m3,370.5,191.0,51.3,3800,"retrabajo de movimiento de suelos, fuera de plomo"
+PD000288,2026-08-29,HOR-04,Curado y sellado,m2,903.5,894.1,28.8,700,
+PD000289,2026-08-31,VIAL-01,Demarcación horizontal,m,758.4,738.4,29.4,1300,
+PD000290,2026-08-31,VIAL-01,Carpeta asfáltica,tn,175.6,176.9,72.7,52000,
+PD000291,2026-08-31,VIAL-01,Base granular,m3,108.6,114.4,63.5,9500,
+PD000292,2026-08-31,VIV-02,Excavación de fundaciones,m3,57.8,41.5,47.7,6200,consulta a la inspección sin respuesta
+PD000293,2026-08-31,VIV-02,Instalación eléctrica,boca,41.3,3.3,38.4,21000,interferencia con servicios enterrados
+PD000294,2026-08-31,VIV-02,Losa de cubierta,m2,75.0,75.0,86.8,38000,
+PD000295,2026-08-31,ILU-03,Montaje de columnas,un,5.9,4.5,44.4,420000,"faltan ladrillos en obra, entrega demorada"
+PD000296,2026-08-31,ILU-03,Montaje de luminarias,un,12.0,12.1,30.1,185000,
+PD000297,2026-08-31,ILU-03,Tendido de cable,m,425.9,458.6,31.9,3100,
+PD000298,2026-08-31,HOR-04,Movimiento de suelos,m3,373.6,83.7,50.7,3800,el contratista de electricidad no llego a obra
+PD000299,2026-08-31,HOR-04,Aserrado de juntas,m,305.9,47.0,22.0,2400,"lluvia, no se pudo trabajar en aserrado de juntas"
+PD000300,2026-08-31,HOR-04,Compactación de subrasante,m2,1157.6,1214.3,36.6,900,
+PD000301,2026-09-01,VIAL-01,Riego de liga,m2,1611.8,1727.0,31.8,450,tarea terminada
+PD000302,2026-09-01,VIAL-01,Base granular,m3,130.7,131.9,60.3,9500,
+PD000303,2026-09-01,VIAL-01,Demarcación horizontal,m,750.4,449.9,28.9,1300,
+PD000304,2026-09-01,VIV-02,Instalación eléctrica,boca,46.4,49.9,39.5,21000,
+PD000305,2026-09-01,VIV-02,Losa de cubierta,m2,64.9,65.6,89.2,38000,
+PD000306,2026-09-01,VIV-02,Excavación de fundaciones,m3,54.7,54.6,44.1,6200,
+PD000307,2026-09-01,ILU-03,Conexionado y tableros,un,2.9,3.1,23.0,640000,
+PD000308,2026-09-01,ILU-03,Montaje de columnas,un,6.6,7.1,43.5,420000,
+PD000309,2026-09-01,ILU-03,Tendido de cable,m,394.3,425.3,29.1,3100,
+PD000310,2026-09-01,HOR-04,Aserrado de juntas,m,315.1,330.7,23.1,2400,
+PD000311,2026-09-01,HOR-04,Colocación de hormigón,m3,153.4,113.3,107.0,105000,
+PD000312,2026-09-01,HOR-04,Compactación de subrasante,m2,1131.9,404.3,39.6,900,compactación de subrasante incompleto urgente
+PD000313,2026-09-02,VIAL-01,Carpeta asfáltica,tn,187.5,188.2,72.3,52000,
+PD000314,2026-09-02,VIAL-01,Base granular,m3,125.5,121.8,63.7,9500,
+PD000315,2026-09-02,VIAL-01,Fresado de carpeta,m2,946.2,968.4,44.8,1800,
+PD000316,2026-09-02,VIV-02,Revoque grueso,m2,112.2,7.5,62.5,9800,sin motivo declarado
+PD000317,2026-09-02,VIV-02,Losa de cubierta,m2,69.9,1.4,88.4,38000,"llovio toda la manana, terreno saturado"
+PD000318,2026-09-02,VIV-02,Instalación eléctrica,boca,42.3,43.3,37.5,21000,
+PD000319,2026-09-02,ILU-03,Tendido de cable,m,415.2,200.4,29.3,3100,
+PD000320,2026-09-02,ILU-03,Montaje de luminarias,un,11.0,6.8,31.6,185000,
+PD000321,2026-09-02,ILU-03,Excavación de zanjas,m,160.1,155.7,39.4,4200,se cumplió lo previsto
+PD000322,2026-09-02,HOR-04,Colocación de hormigón,m3,158.9,162.9,102.5,105000,
+PD000323,2026-09-02,HOR-04,Curado y sellado,m2,959.5,981.1,30.9,700,
+PD000324,2026-09-02,HOR-04,Movimiento de suelos,m3,414.8,421.5,53.3,3800,
+PD000325,2026-09-03,VIAL-01,Carpeta asfáltica,tn,171.0,168.7,76.8,52000,
+PD000326,2026-09-03,VIAL-01,Base granular,m3,111.2,118.2,58.6,9500,
+PD000327,2026-09-03,VIAL-01,Demarcación horizontal,m,721.4,760.2,28.9,1300,
+PD000328,2026-09-03,VIV-02,Excavación de fundaciones,m3,63.1,61.3,48.0,6200,
+PD000329,2026-09-03,VIV-02,Losa de cubierta,m2,66.6,65.5,92.1,38000,
+PD000330,2026-09-03,VIV-02,Hormigón de fundaciones,m3,37.0,25.3,63.6,98000,falta de EPP para el personal nuevo
+PD000331,2026-09-03,ILU-03,Montaje de columnas,un,6.0,5.9,45.7,420000,
+PD000332,2026-09-03,ILU-03,Tendido de cable,m,365.4,21.7,29.0,3100,"tormenta electrica, se retiro al personal"
+PD000333,2026-09-03,ILU-03,Conexionado y tableros,un,3.1,3.3,23.3,640000,
+PD000334,2026-09-03,HOR-04,Curado y sellado,m2,982.3,1024.6,31.2,700,
+PD000335,2026-09-03,HOR-04,Aserrado de juntas,m,329.9,327.3,22.8,2400,
+PD000336,2026-09-03,HOR-04,Colocación de hormigón,m3,152.1,154.3,107.4,105000,
+PD000337,2026-09-04,VIAL-01,Demarcación horizontal,m,846.4,871.1,29.1,1300,
+PD000338,2026-09-04,VIAL-01,Carpeta asfáltica,tn,171.8,183.1,72.7,52000,
+PD000339,2026-09-04,VIAL-01,Riego de liga,m2,1527.7,1605.2,30.7,450,
+PD000340,2026-09-04,VIV-02,Losa de cubierta,m2,75.1,23.5,87.8,38000,
+PD000341,2026-09-04,VIV-02,Hormigón de fundaciones,m3,32.9,35.3,59.1,98000,
+PD000342,2026-09-04,VIV-02,Mampostería,m2,82.9,87.9,78.2,14500,
+PD000343,2026-09-04,ILU-03,Conexionado y tableros,un,3.1,0.1,23.6,640000,"se pinchó el camión volcador, demora en el acarreo"
+PD000344,2026-09-04,ILU-03,Tendido de cable,m,399.9,417.9,31.5,3100,
+PD000345,2026-09-04,ILU-03,Montaje de luminarias,un,11.5,12.3,30.5,185000,
+PD000346,2026-09-04,HOR-04,Aserrado de juntas,m,295.2,289.5,23.6,2400,
+PD000347,2026-09-04,HOR-04,Colocación de hormigón,m3,139.4,143.6,102.6,105000,
+PD000348,2026-09-04,HOR-04,Curado y sellado,m2,911.4,946.8,29.3,700,
+PD000349,2026-09-05,VIAL-01,Carpeta asfáltica,tn,184.3,192.8,79.7,52000,ok
+PD000350,2026-09-05,VIAL-01,Fresado de carpeta,m2,915.4,9.6,45.7,1800,"mixer en el taller, sin hormigón colocado"
+PD000351,2026-09-05,VIAL-01,Demarcación horizontal,m,780.0,211.9,31.8,1300,"demora en la entrega de cable, no se pudo avanzar con demarcación horizontal"
+PD000352,2026-09-05,VIV-02,Hormigón de fundaciones,m3,33.3,32.4,61.9,98000,
+PD000353,2026-09-05,VIV-02,Instalación eléctrica,boca,47.2,48.9,36.2,21000,
+PD000354,2026-09-05,VIV-02,Losa de cubierta,m2,64.4,69.5,91.8,38000,sin novedades
+PD000355,2026-09-05,ILU-03,Montaje de luminarias,un,12.3,13.1,31.8,185000,ok
+PD000356,2026-09-05,ILU-03,Tendido de cable,m,362.1,21.1,30.2,3100,
+PD000357,2026-09-05,ILU-03,Montaje de columnas,un,5.8,5.9,46.9,420000,
+PD000358,2026-09-05,HOR-04,Compactación de subrasante,m2,1150.9,140.5,37.8,900,"lluvia, no se pudo trabajar en compactación de subrasante"
+PD000359,2026-09-05,HOR-04,Curado y sellado,m2,945.6,932.2,29.5,700,
+PD000360,2026-09-05,HOR-04,Aserrado de juntas,m,310.0,330.9,22.8,2400,
+PD000361,2026-09-07,VIAL-01,Demarcación horizontal,m,857.7,639.7,30.2,1300,hormigon rechazado por asentamiento
+PD000362,2026-09-07,VIAL-01,Fresado de carpeta,m2,910.9,912.5,43.6,1800,
+PD000363,2026-09-07,VIAL-01,Base granular,m3,119.9,53.1,62.2,9500,demora del subcontratista de base granular
+PD000364,2026-09-07,VIV-02,Hormigón de fundaciones,m3,37.5,40.0,62.7,98000,
+PD000365,2026-09-07,VIV-02,Instalación eléctrica,boca,46.5,16.6,38.3,21000,demora general en el frente
+PD000366,2026-09-07,VIV-02,Revoque grueso,m2,101.3,107.6,60.1,9800,
+PD000367,2026-09-07,ILU-03,Montaje de luminarias,un,12.7,2.2,30.7,185000,"viento fuerte, se suspendió montaje de luminarias"
+PD000368,2026-09-07,ILU-03,Tendido de cable,m,400.1,424.1,29.9,3100,
+PD000369,2026-09-07,ILU-03,Montaje de columnas,un,6.4,3.2,44.4,420000,"se terminó el cemento, esperando reposición"
+PD000370,2026-09-07,HOR-04,Colocación de hormigón,m3,161.3,22.7,108.5,105000,"accidente leve, parada para investigacion"
+PD000371,2026-09-07,HOR-04,Compactación de subrasante,m2,1207.9,1279.6,37.9,900,
+PD000372,2026-09-07,HOR-04,Movimiento de suelos,m3,431.4,426.5,55.8,3800,
+PD000373,2026-09-08,VIAL-01,Carpeta asfáltica,tn,170.2,183.6,76.5,52000,tarea terminada
+PD000374,2026-09-08,VIAL-01,Demarcación horizontal,m,802.0,279.7,31.7,1300,NO SE PUDO AVANZAR CON DEMARCACIÓN HORIZONTAL
+PD000375,2026-09-08,VIAL-01,Fresado de carpeta,m2,810.5,835.7,44.5,1800,
+PD000376,2026-09-08,VIV-02,Instalación eléctrica,boca,45.3,3.6,36.8,21000,el contratista de electricidad no llegó a obra
+PD000377,2026-09-08,VIV-02,Mampostería,m2,84.4,82.2,77.8,14500,
+PD000378,2026-09-08,VIV-02,Revoque grueso,m2,117.4,125.3,63.2,9800,
+PD000379,2026-09-08,ILU-03,Excavación de zanjas,m,150.8,161.5,36.3,4200,ok
+PD000380,2026-09-08,ILU-03,Montaje de luminarias,un,13.1,13.7,32.0,185000,
+PD000381,2026-09-08,ILU-03,Montaje de columnas,un,5.6,0.2,44.4,420000,"accidente leve, parada para investigación"
+PD000382,2026-09-08,HOR-04,Colocación de hormigón,m3,154.1,153.1,108.5,105000,
+PD000383,2026-09-08,HOR-04,Movimiento de suelos,m3,403.1,286.4,53.6,3800,se atrasó movimiento de suelos
+PD000384,2026-09-08,HOR-04,Compactación de subrasante,m2,1230.4,1285.5,40.0,900,
+PD000385,2026-09-09,VIAL-01,Base granular,m3,113.9,119.6,58.7,9500,sin novedades
+PD000386,2026-09-09,VIAL-01,Riego de liga,m2,1363.5,46.3,30.6,450,
+PD000387,2026-09-09,VIAL-01,Fresado de carpeta,m2,860.9,876.2,44.6,1800,
+PD000388,2026-09-09,VIV-02,Revoque grueso,m2,120.6,22.6,60.6,9800,faltaron ayudantes en el frente
+PD000389,2026-09-09,VIV-02,Losa de cubierta,m2,74.6,77.6,89.0,38000,
+PD000390,2026-09-09,VIV-02,Mampostería,m2,87.7,92.7,75.5,14500,
+PD000391,2026-09-09,ILU-03,Excavación de zanjas,m,142.0,149.7,37.5,4200,
+PD000392,2026-09-09,ILU-03,Montaje de luminarias,un,11.8,7.6,30.3,185000,"se terminó el cemento, esperando reposición"
+PD000393,2026-09-09,ILU-03,Montaje de columnas,un,5.9,5.9,43.8,420000,se cumplió lo previsto
+PD000394,2026-09-09,HOR-04,Compactación de subrasante,m2,1303.4,1353.4,36.1,900,
+PD000395,2026-09-09,HOR-04,Colocación de hormigón,m3,142.5,141.6,105.3,105000,
+PD000396,2026-09-09,HOR-04,Aserrado de juntas,m,301.7,298.0,22.4,2400,se cumplió lo previsto
+PD000397,2026-09-10,VIAL-01,Demarcación horizontal,m,870.6,856.6,30.8,1300,tarea terminada
+PD000398,2026-09-10,VIAL-01,Base granular,m3,122.6,35.8,63.6,9500,"pronóstico adverso, se suspendió base granular"
+PD000399,2026-09-10,VIAL-01,Carpeta asfáltica,tn,167.4,92.3,73.2,52000,"falla en el compactador, se frenó carpeta asfáltica"
+PD000400,2026-09-10,VIV-02,Losa de cubierta,m2,69.4,69.2,86.7,38000,
+PD000401,2026-09-10,VIV-02,Mampostería,m2,93.8,4.5,74.9,14500,"barro en el frente de obra, no se puede ingresar con equipos"
+PD000402,2026-09-10,VIV-02,Excavación de fundaciones,m3,62.4,62.0,47.4,6200,
+PD000403,2026-09-10,ILU-03,Montaje de luminarias,un,11.6,11.6,29.5,185000,sin novedades
+PD000404,2026-09-10,ILU-03,Excavación de zanjas,m,159.4,159.6,37.3,4200,
+PD000405,2026-09-10,ILU-03,Conexionado y tableros,un,3.2,0.4,22.4,640000,"la ART observo el apuntalamiento, se corrige"
+PD000406,2026-09-10,HOR-04,Movimiento de suelos,m3,433.1,37.1,52.0,3800,hormigon rechazado por asentamiento
+PD000407,2026-09-10,HOR-04,Curado y sellado,m2,913.3,933.0,29.2,700,
+PD000408,2026-09-10,HOR-04,Colocación de hormigón,m3,162.9,172.7,108.8,105000,
+PD000409,2026-09-11,VIAL-01,Base granular,m3,110.4,107.9,58.0,9500,
+PD000410,2026-09-11,VIAL-01,Fresado de carpeta,m2,908.8,942.6,47.1,1800,
+PD000411,2026-09-11,VIAL-01,Carpeta asfáltica,tn,173.1,178.6,77.2,52000,
+PD000412,2026-09-11,VIV-02,Hormigón de fundaciones,m3,32.2,6.7,58.1,98000,el subcontratista no se presentó
+PD000413,2026-09-11,VIV-02,Excavación de fundaciones,m3,63.0,67.3,46.6,6200,
+PD000414,2026-09-11,VIV-02,Revoque grueso,m2,105.1,8.2,60.6,9800,"ensayo de compactacion no aprobado, se rehace"
+PD000415,2026-09-11,ILU-03,Montaje de columnas,un,5.7,1.8,47.9,420000,el subcontratista no se presento
+PD000416,2026-09-11,ILU-03,Conexionado y tableros,un,3.1,3.0,22.5,640000,ok
+PD000417,2026-09-11,ILU-03,Excavación de zanjas,m,162.7,103.7,37.0,4200,"avería de la grúa, no se pudo montar"
+PD000418,2026-09-11,HOR-04,Colocación de hormigón,m3,158.5,162.4,102.5,105000,
+PD000419,2026-09-11,HOR-04,Aserrado de juntas,m,282.9,293.0,22.2,2400,
+PD000420,2026-09-11,HOR-04,Movimiento de suelos,m3,430.6,438.8,51.4,3800,
+PD000421,2026-09-12,VIAL-01,Fresado de carpeta,m2,983.5,726.5,44.3,1800,orden de cambio pendiente de aprobación
+PD000422,2026-09-12,VIAL-01,Riego de liga,m2,1384.2,1461.6,29.8,450,
+PD000423,2026-09-12,VIAL-01,Base granular,m3,112.9,116.3,63.2,9500,
+PD000424,2026-09-12,VIV-02,Revoque grueso,m2,120.2,117.2,59.2,9800,se cumplió lo previsto
+PD000425,2026-09-12,VIV-02,Excavación de fundaciones,m3,56.0,45.7,46.3,6200,"faltan ladrillos en obra, entrega demorada"
+PD000426,2026-09-12,VIV-02,Hormigón de fundaciones,m3,32.8,7.1,61.9,98000,"se terminó el cemento, esperando reposición"
+PD000427,2026-09-12,ILU-03,Montaje de luminarias,un,11.2,11.3,29.4,185000,
+PD000428,2026-09-12,ILU-03,Tendido de cable,m,375.4,369.5,31.8,3100,
+PD000429,2026-09-12,ILU-03,Conexionado y tableros,un,3.0,0.0,22.5,640000,"BARRO EN EL FRENTE DE OBRA, NO SE PUEDE INGRESAR CON EQUIPOS"
+PD000430,2026-09-12,HOR-04,Compactación de subrasante,m2,1319.0,1399.4,38.9,900,
+PD000431,2026-09-12,HOR-04,Colocación de hormigón,m3,156.4,0.1,101.6,105000,"sin asfalto, la planta no despacho"
+PD000432,2026-09-12,HOR-04,Movimiento de suelos,m3,364.6,304.4,54.3,3800,"faltan ladrillos en obra, entrega demorada"
+PD000433,2026-09-14,VIAL-01,Riego de liga,m2,1646.0,1725.3,31.0,450,
+PD000434,2026-09-14,VIAL-01,Carpeta asfáltica,tn,163.4,0.6,73.4,52000,"falla en el compactador, se frenó carpeta asfáltica"
+PD000435,2026-09-14,VIAL-01,Fresado de carpeta,m2,820.4,861.4,43.9,1800,
+PD000436,2026-09-14,VIV-02,Revoque grueso,m2,111.2,115.8,61.2,9800,
+PD000437,2026-09-14,VIV-02,Hormigón de fundaciones,m3,32.2,34.5,63.5,98000,
+PD000438,2026-09-14,VIV-02,Mampostería,m2,97.5,104.5,72.0,14500,
+PD000439,2026-09-14,ILU-03,Montaje de luminarias,un,11.0,11.5,30.7,185000,
+PD000440,2026-09-14,ILU-03,Conexionado y tableros,un,2.8,0.0,23.3,640000,se rompio la retroexcavadora
+PD000441,2026-09-14,ILU-03,Excavación de zanjas,m,139.2,23.1,38.1,4200,"cambio de diseño, se frena excavación de zanjas"
+PD000442,2026-09-14,HOR-04,Movimiento de suelos,m3,436.3,440.3,55.4,3800,
+PD000443,2026-09-14,HOR-04,Colocación de hormigón,m3,151.9,14.8,106.1,105000,"falta de material para colocacion de hormigon, el proveedor no entrego"
+PD000444,2026-09-14,HOR-04,Compactación de subrasante,m2,1313.1,1312.8,36.1,900,
+PD000445,2026-09-15,VIAL-01,Carpeta asfáltica,tn,163.5,171.1,75.8,52000,ok
+PD000446,2026-09-15,VIAL-01,Demarcación horizontal,m,774.2,767.1,31.8,1300,
+PD000447,2026-09-15,VIAL-01,Fresado de carpeta,m2,835.2,455.5,44.8,1800,el contratista de electricidad no llegó a obra
+PD000448,2026-09-15,VIV-02,Mampostería,m2,81.6,80.0,77.0,14500,tarea terminada
+PD000449,2026-09-15,VIV-02,Excavación de fundaciones,m3,59.1,60.1,46.7,6200,
+PD000450,2026-09-15,VIV-02,Instalación eléctrica,boca,45.7,46.8,39.0,21000,
+PD000451,2026-09-15,ILU-03,Montaje de luminarias,un,10.9,2.4,30.7,185000,"NO LLEGO EL HORMIGON, DEMORA DEL PROVEEDOR ..."
+PD000452,2026-09-15,ILU-03,Tendido de cable,m,365.7,169.7,29.1,3100,"la inspeccion observo el armado, se corrige"
+PD000453,2026-09-15,ILU-03,Montaje de columnas,un,5.8,5.9,47.0,420000,
+PD000454,2026-09-15,HOR-04,Aserrado de juntas,m,294.4,55.8,22.4,2400,ausentismo alto por el fin de semana largo
+PD000455,2026-09-15,HOR-04,Colocación de hormigón,m3,150.7,66.7,106.4,105000,"sin asfalto, la planta no despachó"
+PD000456,2026-09-15,HOR-04,Movimiento de suelos,m3,413.8,272.2,53.2,3800,EL SUBCONTRATISTA SE ATRASO CON LA TAREA PREVIA
+PD000457,2026-09-16,VIAL-01,Riego de liga,m2,1553.4,1561.1,30.7,450,
+PD000458,2026-09-16,VIAL-01,Fresado de carpeta,m2,917.4,923.2,46.3,1800,
+PD000459,2026-09-16,VIAL-01,Demarcación horizontal,m,741.6,792.2,29.3,1300,tarea terminada
+PD000460,2026-09-16,VIV-02,Hormigón de fundaciones,m3,31.6,25.6,62.0,98000,la terminadora quedó parada por falla hidráulica
+PD000461,2026-09-16,VIV-02,Losa de cubierta,m2,70.7,16.1,95.3,38000,losa de cubierta incompleto !!
+PD000462,2026-09-16,VIV-02,Revoque grueso,m2,100.6,105.2,58.0,9800,
+PD000463,2026-09-16,ILU-03,Montaje de columnas,un,6.5,2.9,45.7,420000,ocupacion del terreno por terceros
+PD000464,2026-09-16,ILU-03,Conexionado y tableros,un,2.7,2.7,23.5,640000,
+PD000465,2026-09-16,ILU-03,Montaje de luminarias,un,10.9,3.2,29.1,185000,charla de seguridad extendida y capacitación
+PD000466,2026-09-16,HOR-04,Aserrado de juntas,m,303.8,327.6,21.8,2400,
+PD000467,2026-09-16,HOR-04,Colocación de hormigón,m3,151.9,152.7,107.5,105000,tarea terminada
+PD000468,2026-09-16,HOR-04,Curado y sellado,m2,857.5,835.6,31.6,700,
+PD000469,2026-09-17,VIAL-01,Riego de liga,m2,1596.5,1646.8,28.9,450,se cumplió lo previsto
+PD000470,2026-09-17,VIAL-01,Fresado de carpeta,m2,988.4,758.1,47.0,1800,
+PD000471,2026-09-17,VIAL-01,Carpeta asfáltica,tn,178.2,15.4,79.7,52000,"lluvia, no se pudo trabajar en carpeta asfáltica"
+PD000472,2026-09-17,VIV-02,Mampostería,m2,90.9,93.7,78.6,14500,
+PD000473,2026-09-17,VIV-02,Losa de cubierta,m2,75.7,28.5,92.9,38000,"faltó la cuadrilla de losa de cubierta, ausentismo"
+PD000474,2026-09-17,VIV-02,Instalación eléctrica,boca,47.2,48.4,36.0,21000,
+PD000475,2026-09-17,ILU-03,Montaje de columnas,un,5.6,3.6,46.3,420000,"plano desactualizado, hay que replantear (ver foto)"
+PD000476,2026-09-17,ILU-03,Conexionado y tableros,un,3.1,3.2,23.2,640000,
+PD000477,2026-09-17,ILU-03,Montaje de luminarias,un,11.5,9.7,30.5,185000,"plano desactualizado, hay que replantear"
+PD000478,2026-09-17,HOR-04,Colocación de hormigón,m3,161.0,162.9,105.6,105000,
+PD000479,2026-09-17,HOR-04,Curado y sellado,m2,829.5,881.0,29.0,700,
+PD000480,2026-09-17,HOR-04,Aserrado de juntas,m,271.0,267.8,23.5,2400,
+PD000481,2026-09-18,VIAL-01,Carpeta asfáltica,tn,194.0,207.1,74.6,52000,
+PD000482,2026-09-18,VIAL-01,Demarcación horizontal,m,795.4,858.8,31.5,1300,se cumplió lo previsto
+PD000483,2026-09-18,VIAL-01,Riego de liga,m2,1609.1,1621.7,29.7,450,
+PD000484,2026-09-18,VIV-02,Excavación de fundaciones,m3,61.5,64.5,47.5,6200,
+PD000485,2026-09-18,VIV-02,Revoque grueso,m2,103.1,75.4,58.5,9800,ocupación del terreno por terceros
+PD000486,2026-09-18,VIV-02,Losa de cubierta,m2,67.3,67.7,94.3,38000,
+PD000487,2026-09-18,ILU-03,Montaje de luminarias,un,12.6,7.7,31.3,185000,se rompió la retroexcavadora
+PD000488,2026-09-18,ILU-03,Tendido de cable,m,383.4,262.7,31.8,3100,no se pudo avanzar con tendido de cable
+PD000489,2026-09-18,ILU-03,Conexionado y tableros,un,3.0,3.0,22.1,640000,
+PD000490,2026-09-18,HOR-04,Compactación de subrasante,m2,1114.4,1105.4,38.6,900,
+PD000491,2026-09-18,HOR-04,Movimiento de suelos,m3,386.2,412.4,54.3,3800,
+PD000492,2026-09-18,HOR-04,Curado y sellado,m2,875.8,880.4,30.8,700,
+PD000493,2026-09-19,VIAL-01,Base granular,m3,121.5,66.4,60.3,9500,pendiente de resolver
+PD000494,2026-09-19,VIAL-01,Riego de liga,m2,1526.7,1619.0,31.4,450,
+PD000495,2026-09-19,VIAL-01,Fresado de carpeta,m2,906.2,882.0,44.0,1800,
+PD000496,2026-09-19,VIV-02,Excavación de fundaciones,m3,58.7,62.5,44.2,6200,
+PD000497,2026-09-19,VIV-02,Hormigón de fundaciones,m3,33.7,33.9,58.6,98000,se cumplió lo previsto
+PD000498,2026-09-19,VIV-02,Instalación eléctrica,boca,44.3,2.8,36.8,21000,"tormenta eléctrica, se retiró al personal"
+PD000499,2026-09-19,ILU-03,Tendido de cable,m,406.1,421.2,29.9,3100,
+PD000500,2026-09-19,ILU-03,Montaje de columnas,un,6.3,3.1,45.5,420000,falta hierro para armaduras
+PD000501,2026-09-19,ILU-03,Excavación de zanjas,m,140.5,141.7,38.5,4200,
+PD000502,2026-09-19,HOR-04,Compactación de subrasante,m2,1224.1,1260.4,37.7,900,
+PD000503,2026-09-19,HOR-04,Movimiento de suelos,m3,384.0,373.5,55.3,3800,
+PD000504,2026-09-19,HOR-04,Curado y sellado,m2,853.9,892.6,29.9,700,sin novedades
+PD000505,2026-09-21,VIAL-01,Fresado de carpeta,m2,966.2,619.5,45.5,1800,"feriado local, jornada reducida"
+PD000506,2026-09-21,VIAL-01,Carpeta asfáltica,tn,185.0,196.8,78.6,52000,
+PD000507,2026-09-21,VIAL-01,Riego de liga,m2,1589.8,958.9,30.7,450,falta hierro para armaduras
+PD000508,2026-09-21,VIV-02,Excavación de fundaciones,m3,62.7,11.3,44.4,6200,no se pudo avanzar con excavación de fundaciones !!
+PD000509,2026-09-21,VIV-02,Losa de cubierta,m2,75.3,74.7,91.3,38000,ok
+PD000510,2026-09-21,VIV-02,Instalación eléctrica,boca,44.6,13.0,37.3,21000,"sin gente suficiente, faltaron oficiales"
+PD000511,2026-09-21,ILU-03,Tendido de cable,m,364.7,104.5,31.4,3100,"sin gente suficiente, faltaron oficiales"
+PD000512,2026-09-21,ILU-03,Conexionado y tableros,un,3.2,3.4,23.4,640000,ok
+PD000513,2026-09-21,ILU-03,Excavación de zanjas,m,163.9,174.1,36.9,4200,
+PD000514,2026-09-21,HOR-04,Colocación de hormigón,m3,138.8,145.3,104.4,105000,
+PD000515,2026-09-21,HOR-04,Compactación de subrasante,m2,1085.6,1120.2,38.6,900,
+PD000516,2026-09-21,HOR-04,Aserrado de juntas,m,316.7,316.7,22.1,2400,tarea terminada
+PD000517,2026-09-22,VIAL-01,Fresado de carpeta,m2,929.9,997.7,45.9,1800,
+PD000518,2026-09-22,VIAL-01,Demarcación horizontal,m,742.0,724.8,30.0,1300,
+PD000519,2026-09-22,VIAL-01,Base granular,m3,118.3,123.7,62.5,9500,
+PD000520,2026-09-22,VIV-02,Losa de cubierta,m2,63.4,14.6,90.4,38000,se retiró parte de la cuadrilla a otra obra
+PD000521,2026-09-22,VIV-02,Mampostería,m2,89.5,91.1,72.3,14500,
+PD000522,2026-09-22,VIV-02,Excavación de fundaciones,m3,63.5,66.4,46.3,6200,
+PD000523,2026-09-22,ILU-03,Montaje de luminarias,un,12.0,2.4,30.7,185000,"falta detalle constructivo, esperando ingenieria"
+PD000524,2026-09-22,ILU-03,Excavación de zanjas,m,141.6,85.0,37.4,4200,DEMORAS EN OBRA
+PD000525,2026-09-22,ILU-03,Montaje de columnas,un,6.5,6.7,46.2,420000,
+PD000526,2026-09-22,HOR-04,Colocación de hormigón,m3,138.3,149.3,100.8,105000,
+PD000527,2026-09-22,HOR-04,Movimiento de suelos,m3,436.2,443.2,55.5,3800,
+PD000528,2026-09-22,HOR-04,Compactación de subrasante,m2,1251.1,1347.7,39.9,900,sin novedades
+PD000529,2026-09-23,VIAL-01,Demarcación horizontal,m,826.1,848.9,30.8,1300,
+PD000530,2026-09-23,VIAL-01,Carpeta asfáltica,tn,173.2,170.5,73.1,52000,sin novedades
+PD000531,2026-09-23,VIAL-01,Riego de liga,m2,1593.1,506.9,30.4,450,"faltó la cuadrilla de riego de liga, ausentismo"
+PD000532,2026-09-23,VIV-02,Losa de cubierta,m2,68.4,68.6,91.6,38000,
+PD000533,2026-09-23,VIV-02,Excavación de fundaciones,m3,61.9,61.5,44.9,6200,
+PD000534,2026-09-23,VIV-02,Mampostería,m2,97.6,100.7,78.6,14500,
+PD000535,2026-09-23,ILU-03,Excavación de zanjas,m,152.6,148.6,37.1,4200,
+PD000536,2026-09-23,ILU-03,Montaje de luminarias,un,11.6,11.9,29.0,185000,ok
+PD000537,2026-09-23,ILU-03,Conexionado y tableros,un,2.8,2.9,22.1,640000,sin novedades
+PD000538,2026-09-23,HOR-04,Colocación de hormigón,m3,143.9,154.8,108.8,105000,
+PD000539,2026-09-23,HOR-04,Aserrado de juntas,m,274.1,295.7,21.9,2400,
+PD000540,2026-09-23,HOR-04,Movimiento de suelos,m3,391.7,385.5,51.9,3800,
+PD000541,2026-09-24,VIAL-01,Base granular,m3,118.4,127.3,60.9,9500,sin novedades
+PD000542,2026-09-24,VIAL-01,Riego de liga,m2,1409.1,1398.2,30.4,450,ok
+PD000543,2026-09-24,VIAL-01,Fresado de carpeta,m2,927.3,944.5,44.3,1800,
+PD000544,2026-09-24,VIV-02,Instalación eléctrica,boca,42.5,45.9,39.9,21000,
+PD000545,2026-09-24,VIV-02,Mampostería,m2,88.6,89.1,72.1,14500,
+PD000546,2026-09-24,VIV-02,Excavación de fundaciones,m3,55.1,55.5,44.9,6200,ok
+PD000547,2026-09-24,ILU-03,Conexionado y tableros,un,3.0,3.1,23.1,640000,se cumplió lo previsto
+PD000548,2026-09-24,ILU-03,Montaje de columnas,un,5.7,6.1,45.9,420000,sin novedades
+PD000549,2026-09-24,ILU-03,Montaje de luminarias,un,12.1,12.3,29.5,185000,se cumplió lo previsto
+PD000550,2026-09-24,HOR-04,Movimiento de suelos,m3,432.2,239.5,54.0,3800,se rehace movimiento de suelos por defecto de ejecución
+PD000551,2026-09-24,HOR-04,Colocación de hormigón,m3,151.4,153.4,110.3,105000,
+PD000552,2026-09-24,HOR-04,Aserrado de juntas,m,292.7,187.5,22.2,2400,demoras en obra
+PD000553,2026-09-25,VIAL-01,Carpeta asfáltica,tn,186.1,189.7,78.8,52000,
+PD000554,2026-09-25,VIAL-01,Base granular,m3,115.0,78.2,58.4,9500,"se pinchó el camión volcador, demora en el acarreo"
+PD000555,2026-09-25,VIAL-01,Fresado de carpeta,m2,952.0,996.2,44.1,1800,
+PD000556,2026-09-25,VIV-02,Losa de cubierta,m2,65.4,66.4,91.9,38000,
+PD000557,2026-09-25,VIV-02,Mampostería,m2,83.8,84.7,77.8,14500,
+PD000558,2026-09-25,VIV-02,Hormigón de fundaciones,m3,33.7,36.1,61.5,98000,
+PD000559,2026-09-25,ILU-03,Excavación de zanjas,m,138.0,21.9,39.6,4200,"poste a trasladar, esperando a la empresa de energía"
+PD000560,2026-09-25,ILU-03,Tendido de cable,m,383.6,395.7,31.7,3100,
+PD000561,2026-09-25,ILU-03,Conexionado y tableros,un,2.8,2.2,22.8,640000,"cambio de diseno, se frena conexionado y tableros"
+PD000562,2026-09-25,HOR-04,Curado y sellado,m2,965.7,988.1,31.4,700,
+PD000563,2026-09-25,HOR-04,Aserrado de juntas,m,323.2,348.9,22.8,2400,ok
+PD000564,2026-09-25,HOR-04,Compactación de subrasante,m2,1195.0,742.7,38.0,900,"ensayo de compactación no aprobado, se rehace urgente"
+PD000565,2026-09-26,VIAL-01,Riego de liga,m2,1508.7,1527.0,29.6,450,
+PD000566,2026-09-26,VIAL-01,Carpeta asfáltica,tn,163.1,166.0,74.0,52000,
+PD000567,2026-09-26,VIAL-01,Fresado de carpeta,m2,906.8,926.9,43.2,1800,
+PD000568,2026-09-26,VIV-02,Mampostería,m2,89.1,91.6,78.9,14500,
+PD000569,2026-09-26,VIV-02,Revoque grueso,m2,107.7,107.4,61.0,9800,tarea terminada
+PD000570,2026-09-26,VIV-02,Hormigón de fundaciones,m3,34.7,29.4,63.9,98000,"plano desactualizado, hay que replantear"
+PD000571,2026-09-26,ILU-03,Montaje de luminarias,un,11.1,11.4,31.4,185000,
+PD000572,2026-09-26,ILU-03,Montaje de columnas,un,5.5,5.4,43.6,420000,
+PD000573,2026-09-26,ILU-03,Conexionado y tableros,un,3.1,3.3,22.8,640000,
+PD000574,2026-09-26,HOR-04,Movimiento de suelos,m3,374.0,371.2,51.0,3800,
+PD000575,2026-09-26,HOR-04,Aserrado de juntas,m,306.9,49.6,22.7,2400,
+PD000576,2026-09-26,HOR-04,Colocación de hormigón,m3,141.1,142.4,102.1,105000,
+PD000577,2026-09-28,VIAL-01,Carpeta asfáltica,tn,197.1,195.1,74.7,52000,sin novedades
+PD000578,2026-09-28,VIAL-01,Fresado de carpeta,m2,837.5,892.8,44.0,1800,
+PD000579,2026-09-28,VIAL-01,Demarcación horizontal,m,809.1,871.7,31.3,1300,se cumplió lo previsto
+PD000580,2026-09-28,VIV-02,Excavación de fundaciones,m3,58.6,32.6,44.5,6200,faltaron ayudantes en el frente
+PD000581,2026-09-28,VIV-02,Mampostería,m2,96.4,95.6,74.7,14500,
+PD000582,2026-09-28,VIV-02,Losa de cubierta,m2,65.1,66.9,87.1,38000,
+PD000583,2026-09-28,ILU-03,Excavación de zanjas,m,163.7,176.1,37.1,4200,
+PD000584,2026-09-28,ILU-03,Montaje de columnas,un,6.4,6.6,47.1,420000,
+PD000585,2026-09-28,ILU-03,Montaje de luminarias,un,12.7,5.2,31.5,185000,CORTE DE ENERGIA GENERAL
+PD000586,2026-09-28,HOR-04,Colocación de hormigón,m3,135.2,140.3,102.6,105000,sin novedades
+PD000587,2026-09-28,HOR-04,Compactación de subrasante,m2,1298.4,1401.5,36.3,900,
+PD000588,2026-09-28,HOR-04,Aserrado de juntas,m,273.9,283.5,22.6,2400,
+PD000589,2026-09-29,VIAL-01,Riego de liga,m2,1556.4,1631.9,29.9,450,
+PD000590,2026-09-29,VIAL-01,Fresado de carpeta,m2,812.2,837.3,47.7,1800,
+PD000591,2026-09-29,VIAL-01,Demarcación horizontal,m,820.4,867.8,31.4,1300,
+PD000592,2026-09-29,VIV-02,Mampostería,m2,95.2,66.7,76.4,14500,"SE PINCHÓ EL CAMIÓN VOLCADOR, DEMORA EN EL ACARREO"
+PD000593,2026-09-29,VIV-02,Hormigón de fundaciones,m3,31.9,25.0,58.0,98000,problemas varios
+PD000594,2026-09-29,VIV-02,Excavación de fundaciones,m3,54.2,55.6,43.8,6200,
+PD000595,2026-09-29,ILU-03,Montaje de columnas,un,5.7,3.7,46.3,420000,"ensayo de laboratorio no conforme, se detiene montaje de columnas ..."
+PD000596,2026-09-29,ILU-03,Excavación de zanjas,m,136.6,110.6,38.6,4200,orden de cambio pendiente de aprobación
+PD000597,2026-09-29,ILU-03,Conexionado y tableros,un,3.3,0.5,21.9,640000,"tormenta electrica, se retiro al personal"
+PD000598,2026-09-29,HOR-04,Movimiento de suelos,m3,373.6,284.6,53.3,3800,
+PD000599,2026-09-29,HOR-04,Colocación de hormigón,m3,144.6,147.8,111.1,105000,
+PD000600,2026-09-29,HOR-04,Compactación de subrasante,m2,1152.8,1209.5,36.8,900,
+PD000601,2026-09-30,VIAL-01,Riego de liga,m2,1457.8,1443.0,29.3,450,
+PD000602,2026-09-30,VIAL-01,Carpeta asfáltica,tn,190.0,3.1,79.0,52000,incompatibilidad entre planos y obra real
+PD000603,2026-09-30,VIAL-01,Base granular,m3,111.9,109.2,58.6,9500,
+PD000604,2026-09-30,VIV-02,Hormigón de fundaciones,m3,35.2,34.2,59.6,98000,
+PD000605,2026-09-30,VIV-02,Losa de cubierta,m2,65.5,65.2,90.0,38000,
+PD000606,2026-09-30,VIV-02,Revoque grueso,m2,103.1,102.7,63.4,9800,tarea terminada
+PD000607,2026-09-30,ILU-03,Montaje de luminarias,un,12.2,12.9,29.7,185000,
+PD000608,2026-09-30,ILU-03,Conexionado y tableros,un,2.9,2.9,23.8,640000,
+PD000609,2026-09-30,ILU-03,Excavación de zanjas,m,138.3,140.0,38.2,4200,
+PD000610,2026-09-30,HOR-04,Colocación de hormigón,m3,154.6,158.9,102.5,105000,
+PD000611,2026-09-30,HOR-04,Movimiento de suelos,m3,406.7,431.4,52.7,3800,
+PD000612,2026-09-30,HOR-04,Curado y sellado,m2,868.9,111.8,31.7,700,curado y sellado incompleto
+PD000613,2026-10-01,VIAL-01,Demarcación horizontal,m,824.7,821.5,31.9,1300,
+PD000614,2026-10-01,VIAL-01,Riego de liga,m2,1487.8,1572.5,31.6,450,
+PD000615,2026-10-01,VIAL-01,Fresado de carpeta,m2,860.4,74.4,43.7,1800,"tormenta eléctrica, se retiró al personal"
+PD000616,2026-10-01,VIV-02,Excavación de fundaciones,m3,59.9,1.0,45.1,6200,interferencia con servicios enterrados
+PD000617,2026-10-01,VIV-02,Revoque grueso,m2,108.1,113.9,61.4,9800,
+PD000618,2026-10-01,VIV-02,Hormigón de fundaciones,m3,35.1,1.2,58.1,98000,"calor extremo, se corto la jornada antes"
+PD000619,2026-10-01,ILU-03,Tendido de cable,m,428.0,263.5,30.9,3100,se retiró parte de la cuadrilla a otra obra
+PD000620,2026-10-01,ILU-03,Montaje de columnas,un,6.0,5.9,47.4,420000,
+PD000621,2026-10-01,ILU-03,Conexionado y tableros,un,2.8,2.7,24.0,640000,sin novedades
+PD000622,2026-10-01,HOR-04,Colocación de hormigón,m3,164.4,172.6,101.6,105000,
+PD000623,2026-10-01,HOR-04,Movimiento de suelos,m3,414.7,433.1,54.6,3800,
+PD000624,2026-10-01,HOR-04,Compactación de subrasante,m2,1264.7,267.0,36.6,900,"viento fuerte, se suspendio compactacion de subrasante"
+PD000625,2026-10-02,VIAL-01,Base granular,m3,121.8,129.9,59.9,9500,ok
+PD000626,2026-10-02,VIAL-01,Carpeta asfáltica,tn,192.6,204.2,72.6,52000,tarea terminada
+PD000627,2026-10-02,VIAL-01,Riego de liga,m2,1553.4,1295.6,30.9,450,interferencia con servicios enterrados
+PD000628,2026-10-02,VIV-02,Revoque grueso,m2,115.1,114.3,60.4,9800,
+PD000629,2026-10-02,VIV-02,Instalación eléctrica,boca,42.1,42.7,39.7,21000,
+PD000630,2026-10-02,VIV-02,Excavación de fundaciones,m3,65.8,68.9,47.3,6200,
+PD000631,2026-10-02,ILU-03,Montaje de luminarias,un,13.1,7.5,30.2,185000,FALTA HIERRO PARA ARMADURAS
+PD000632,2026-10-02,ILU-03,Tendido de cable,m,401.0,430.4,31.7,3100,
+PD000633,2026-10-02,ILU-03,Conexionado y tableros,un,2.8,3.0,22.1,640000,
+PD000634,2026-10-02,HOR-04,Compactación de subrasante,m2,1187.3,1187.1,36.2,900,
+PD000635,2026-10-02,HOR-04,Movimiento de suelos,m3,387.2,383.1,51.5,3800,
+PD000636,2026-10-02,HOR-04,Aserrado de juntas,m,270.1,263.2,24.0,2400,
+PD000637,2026-10-03,VIAL-01,Demarcación horizontal,m,855.1,31.9,30.6,1300,"tormenta eléctrica, se retiró al personal"
+PD000638,2026-10-03,VIAL-01,Carpeta asfáltica,tn,167.6,179.5,72.7,52000,
+PD000639,2026-10-03,VIAL-01,Fresado de carpeta,m2,914.3,968.4,47.4,1800,
+PD000640,2026-10-03,VIV-02,Hormigón de fundaciones,m3,31.7,33.1,58.3,98000,se cumplió lo previsto
+PD000641,2026-10-03,VIV-02,Instalación eléctrica,boca,41.7,44.5,36.2,21000,
+PD000642,2026-10-03,VIV-02,Mampostería,m2,94.7,28.0,74.0,14500,no se pudo avanzar
+PD000643,2026-10-03,ILU-03,Tendido de cable,m,392.0,397.5,30.5,3100,
+PD000644,2026-10-03,ILU-03,Montaje de luminarias,un,12.7,3.7,29.3,185000,"MIXER EN EL TALLER, SIN HORMIGON COLOCADO"
+PD000645,2026-10-03,ILU-03,Conexionado y tableros,un,2.9,1.5,23.0,640000,"falta de material para conexionado y tableros, el proveedor no entregó"
+PD000646,2026-10-03,HOR-04,Colocación de hormigón,m3,151.3,157.0,104.6,105000,se cumplió lo previsto
+PD000647,2026-10-03,HOR-04,Compactación de subrasante,m2,1273.0,1319.6,37.3,900,
+PD000648,2026-10-03,HOR-04,Movimiento de suelos,m3,433.3,431.6,54.6,3800,
+PD000649,2026-10-05,VIAL-01,Carpeta asfáltica,tn,169.5,178.9,72.6,52000,
+PD000650,2026-10-05,VIAL-01,Base granular,m3,108.9,113.0,58.3,9500,
+PD000651,2026-10-05,VIAL-01,Fresado de carpeta,m2,845.4,853.9,47.6,1800,
+PD000652,2026-10-05,VIV-02,Losa de cubierta,m2,76.9,82.5,91.2,38000,
+PD000653,2026-10-05,VIV-02,Mampostería,m2,97.6,99.4,77.3,14500,
+PD000654,2026-10-05,VIV-02,Hormigón de fundaciones,m3,35.5,37.2,60.1,98000,
+PD000655,2026-10-05,ILU-03,Tendido de cable,m,366.0,358.3,30.9,3100,
+PD000656,2026-10-05,ILU-03,Conexionado y tableros,un,2.9,1.4,21.9,640000,"ensayo de compactación no aprobado, se rehace"
+PD000657,2026-10-05,ILU-03,Excavación de zanjas,m,155.5,151.1,39.8,4200,
+PD000658,2026-10-05,HOR-04,Curado y sellado,m2,896.3,332.8,31.1,700,consulta a la inspeccion sin respuesta
+PD000659,2026-10-05,HOR-04,Aserrado de juntas,m,294.5,299.8,22.8,2400,
+PD000660,2026-10-05,HOR-04,Compactación de subrasante,m2,1243.4,1334.7,36.1,900,
+PD000661,2026-10-06,VIAL-01,Riego de liga,m2,1564.4,1631.9,30.1,450,
+PD000662,2026-10-06,VIAL-01,Demarcación horizontal,m,784.3,796.5,31.7,1300,
+PD000663,2026-10-06,VIAL-01,Carpeta asfáltica,tn,183.4,191.7,74.7,52000,
+PD000664,2026-10-06,VIV-02,Losa de cubierta,m2,63.2,62.4,90.5,38000,
+PD000665,2026-10-06,VIV-02,Mampostería,m2,85.9,87.1,73.1,14500,
+PD000666,2026-10-06,VIV-02,Instalación eléctrica,boca,46.4,49.0,38.9,21000,
+PD000667,2026-10-06,ILU-03,Tendido de cable,m,436.0,453.1,29.7,3100,sin novedades
+PD000668,2026-10-06,ILU-03,Montaje de luminarias,un,12.0,7.9,30.8,185000,acopio insuficiente de material para montaje de luminarias
+PD000669,2026-10-06,ILU-03,Excavación de zanjas,m,148.0,154.9,38.1,4200,
+PD000670,2026-10-06,HOR-04,Compactación de subrasante,m2,1243.3,1255.7,38.4,900,tarea terminada
+PD000671,2026-10-06,HOR-04,Movimiento de suelos,m3,387.2,35.9,52.0,3800,vecinos bloquean el acceso al frente
+PD000672,2026-10-06,HOR-04,Colocación de hormigón,m3,148.3,155.1,103.3,105000,
+PD000673,2026-10-07,VIAL-01,Base granular,m3,114.9,122.6,61.3,9500,
+PD000674,2026-10-07,VIAL-01,Carpeta asfáltica,tn,193.7,202.4,73.0,52000,
+PD000675,2026-10-07,VIAL-01,Demarcación horizontal,m,794.5,852.9,31.4,1300,
+PD000676,2026-10-07,VIV-02,Revoque grueso,m2,119.2,120.7,63.2,9800,ok
+PD000677,2026-10-07,VIV-02,Instalación eléctrica,boca,44.8,44.5,38.9,21000,
+PD000678,2026-10-07,VIV-02,Hormigón de fundaciones,m3,33.5,22.4,62.2,98000,demora del subcontratista de hormigón de fundaciones
+PD000679,2026-10-07,ILU-03,Montaje de luminarias,un,10.9,11.8,31.4,185000,
+PD000680,2026-10-07,ILU-03,Conexionado y tableros,un,3.1,1.8,22.1,640000,el subcontratista se atrasó con la tarea previa
+PD000681,2026-10-07,ILU-03,Montaje de columnas,un,5.7,1.7,44.3,420000,"sin asfalto, la planta no despacho"
+PD000682,2026-10-07,HOR-04,Compactación de subrasante,m2,1156.4,1200.7,36.3,900,
+PD000683,2026-10-07,HOR-04,Curado y sellado,m2,867.1,303.6,29.5,700,el contratista de electricidad no llegó a obra
+PD000684,2026-10-07,HOR-04,Movimiento de suelos,m3,384.9,386.4,53.9,3800,
+PD000685,2026-10-08,VIAL-01,Carpeta asfáltica,tn,162.2,49.0,76.9,52000,"cambio de diseno, se frena carpeta asfaltica"
+PD000686,2026-10-08,VIAL-01,Demarcación horizontal,m,754.9,795.9,28.9,1300,sin novedades
+PD000687,2026-10-08,VIAL-01,Fresado de carpeta,m2,889.1,530.4,44.1,1800,demora del subcontratista de fresado de carpeta
+PD000688,2026-10-08,VIV-02,Excavación de fundaciones,m3,59.8,60.9,47.2,6200,
+PD000689,2026-10-08,VIV-02,Instalación eléctrica,boca,48.4,50.3,37.7,21000,
+PD000690,2026-10-08,VIV-02,Hormigón de fundaciones,m3,33.8,32.9,57.9,98000,tarea terminada
+PD000691,2026-10-08,ILU-03,Conexionado y tableros,un,2.8,2.1,22.2,640000,"falta de material para conexionado y tableros, el proveedor no entrego"
+PD000692,2026-10-08,ILU-03,Montaje de luminarias,un,13.2,14.0,31.9,185000,sin novedades
+PD000693,2026-10-08,ILU-03,Montaje de columnas,un,5.7,5.9,44.5,420000,ok
+PD000694,2026-10-08,HOR-04,Colocación de hormigón,m3,153.1,151.3,102.4,105000,tarea terminada
+PD000695,2026-10-08,HOR-04,Movimiento de suelos,m3,433.8,450.5,51.9,3800,
+PD000696,2026-10-08,HOR-04,Curado y sellado,m2,900.6,907.6,30.4,700,
+PD000697,2026-10-09,VIAL-01,Base granular,m3,111.6,117.1,60.3,9500,se cumplió lo previsto
+PD000698,2026-10-09,VIAL-01,Fresado de carpeta,m2,819.3,545.9,46.8,1800,"falla en el compactador, se frenó fresado de carpeta"
+PD000699,2026-10-09,VIAL-01,Riego de liga,m2,1453.1,1568.5,31.0,450,
+PD000700,2026-10-09,VIV-02,Losa de cubierta,m2,70.9,69.0,94.3,38000,
+PD000701,2026-10-09,VIV-02,Instalación eléctrica,boca,44.6,44.7,39.3,21000,
+PD000702,2026-10-09,VIV-02,Revoque grueso,m2,102.8,108.2,58.3,9800,
+PD000703,2026-10-09,ILU-03,Conexionado y tableros,un,3.2,3.3,22.3,640000,
+PD000704,2026-10-09,ILU-03,Excavación de zanjas,m,147.9,152.5,36.9,4200,ok
+PD000705,2026-10-09,ILU-03,Montaje de columnas,un,6.5,1.0,43.5,420000,"faltan ladrillos en obra, entrega demorada"
+PD000706,2026-10-09,HOR-04,Aserrado de juntas,m,307.3,308.9,22.4,2400,
+PD000707,2026-10-09,HOR-04,Curado y sellado,m2,960.3,730.0,29.5,700,SE RETIRÓ PARTE DE LA CUADRILLA A OTRA OBRA
+PD000708,2026-10-09,HOR-04,Movimiento de suelos,m3,365.0,367.1,52.9,3800,
+PD000709,2026-10-10,VIAL-01,Riego de liga,m2,1474.5,1549.2,31.2,450,
+PD000710,2026-10-10,VIAL-01,Carpeta asfáltica,tn,166.5,174.6,78.7,52000,
+PD000711,2026-10-10,VIAL-01,Demarcación horizontal,m,727.5,709.6,28.8,1300,sin novedades
+PD000712,2026-10-10,VIV-02,Revoque grueso,m2,107.5,112.2,63.1,9800,ok
+PD000713,2026-10-10,VIV-02,Excavación de fundaciones,m3,54.3,58.0,46.1,6200,
+PD000714,2026-10-10,VIV-02,Mampostería,m2,93.3,97.4,79.8,14500,
+PD000715,2026-10-10,ILU-03,Montaje de columnas,un,6.1,6.0,45.4,420000,tarea terminada
+PD000716,2026-10-10,ILU-03,Conexionado y tableros,un,2.8,2.7,21.8,640000,
+PD000717,2026-10-10,ILU-03,Tendido de cable,m,365.9,364.8,31.7,3100,
+PD000718,2026-10-10,HOR-04,Colocación de hormigón,m3,136.1,133.9,107.1,105000,se cumplió lo previsto
+PD000719,2026-10-10,HOR-04,Movimiento de suelos,m3,367.9,376.3,51.2,3800,
+PD000720,2026-10-10,HOR-04,Compactación de subrasante,m2,1081.1,1076.7,39.7,900,
+PD000721,2026-10-12,VIAL-01,Fresado de carpeta,m2,843.1,858.4,43.9,1800,
+PD000722,2026-10-12,VIAL-01,Base granular,m3,115.0,114.9,61.8,9500,
+PD000723,2026-10-12,VIAL-01,Carpeta asfáltica,tn,180.3,176.9,75.8,52000,
+PD000724,2026-10-12,VIV-02,Excavación de fundaciones,m3,63.6,32.5,43.9,6200,se detuvo excavacion de fundaciones por condicion insegura en el frente
+PD000725,2026-10-12,VIV-02,Mampostería,m2,96.9,94.5,79.0,14500,
+PD000726,2026-10-12,VIV-02,Losa de cubierta,m2,75.8,81.5,94.3,38000,
+PD000727,2026-10-12,ILU-03,Conexionado y tableros,un,3.2,3.4,23.9,640000,ok
+PD000728,2026-10-12,ILU-03,Tendido de cable,m,384.2,65.2,30.7,3100,pendiente de resolver
+PD000729,2026-10-12,ILU-03,Montaje de luminarias,un,11.6,12.4,31.2,185000,
+PD000730,2026-10-12,HOR-04,Colocación de hormigón,m3,142.9,147.3,108.9,105000,
+PD000731,2026-10-12,HOR-04,Aserrado de juntas,m,290.1,301.6,22.3,2400,
+PD000732,2026-10-12,HOR-04,Compactación de subrasante,m2,1124.1,1143.0,37.4,900,
+PD000733,2026-10-13,VIAL-01,Riego de liga,m2,1362.0,379.9,29.3,450,PENDIENTE DE RESOLVER
+PD000734,2026-10-13,VIAL-01,Base granular,m3,122.5,35.8,59.9,9500,"avería de la grúa, no se pudo montar"
+PD000735,2026-10-13,VIAL-01,Fresado de carpeta,m2,949.6,990.7,44.5,1800,
+PD000736,2026-10-13,VIV-02,Instalación eléctrica,boca,45.7,44.7,39.0,21000,
+PD000737,2026-10-13,VIV-02,Hormigón de fundaciones,m3,36.2,38.8,61.8,98000,
+PD000738,2026-10-13,VIV-02,Losa de cubierta,m2,72.1,36.5,87.1,38000,"carpeta con deficiencias, se repasa"
+PD000739,2026-10-13,ILU-03,Excavación de zanjas,m,163.6,172.8,37.3,4200,
+PD000740,2026-10-13,ILU-03,Montaje de columnas,un,5.6,1.0,44.2,420000,"pronóstico adverso, se suspendió montaje de columnas"
+PD000741,2026-10-13,ILU-03,Montaje de luminarias,un,12.8,13.4,29.4,185000,
+PD000742,2026-10-13,HOR-04,Movimiento de suelos,m3,375.3,402.4,52.6,3800,
+PD000743,2026-10-13,HOR-04,Aserrado de juntas,m,328.7,334.5,22.3,2400,
+PD000744,2026-10-13,HOR-04,Curado y sellado,m2,868.6,846.4,29.4,700,
+PD000745,2026-10-14,VIAL-01,Demarcación horizontal,m,836.7,826.6,31.4,1300,
+PD000746,2026-10-14,VIAL-01,Riego de liga,m2,1430.3,229.5,29.9,450,"mixer en el taller, sin hormigon colocado"
+PD000747,2026-10-14,VIAL-01,Fresado de carpeta,m2,879.3,928.9,47.7,1800,se cumplió lo previsto
+PD000748,2026-10-14,VIV-02,Losa de cubierta,m2,76.0,76.7,92.7,38000,
+PD000749,2026-10-14,VIV-02,Excavación de fundaciones,m3,59.1,14.7,47.1,6200,terreno anegado por la lluvia de ayer
+PD000750,2026-10-14,VIV-02,Revoque grueso,m2,117.0,26.9,61.3,9800,"retrabajo de revoque grueso, fuera de plomo urgente"
+PD000751,2026-10-14,ILU-03,Conexionado y tableros,un,3.0,3.1,21.8,640000,tarea terminada
+PD000752,2026-10-14,ILU-03,Montaje de columnas,un,6.2,6.1,43.5,420000,
+PD000753,2026-10-14,ILU-03,Tendido de cable,m,424.8,187.2,31.0,3100,demoras en obra
+PD000754,2026-10-14,HOR-04,Movimiento de suelos,m3,396.1,427.7,52.4,3800,sin novedades
+PD000755,2026-10-14,HOR-04,Compactación de subrasante,m2,1167.9,874.1,38.7,900,se atrasó compactación de subrasante
+PD000756,2026-10-14,HOR-04,Curado y sellado,m2,852.7,907.8,31.9,700,
+PD000757,2026-10-15,VIAL-01,Riego de liga,m2,1502.0,1560.4,30.0,450,
+PD000758,2026-10-15,VIAL-01,Carpeta asfáltica,tn,168.1,177.6,72.8,52000,
+PD000759,2026-10-15,VIAL-01,Fresado de carpeta,m2,906.7,912.1,47.9,1800,sin novedades
+PD000760,2026-10-15,VIV-02,Excavación de fundaciones,m3,60.8,60.6,46.4,6200,
+PD000761,2026-10-15,VIV-02,Revoque grueso,m2,105.2,17.7,60.9,9800,"falta de material para revoque grueso, el proveedor no entregó"
+PD000762,2026-10-15,VIV-02,Mampostería,m2,87.2,22.1,76.8,14500,"plano desactualizado, hay que replantear"
+PD000763,2026-10-15,ILU-03,Montaje de columnas,un,5.7,3.3,46.4,420000,el subcontratista se atraso con la tarea previa
+PD000764,2026-10-15,ILU-03,Montaje de luminarias,un,12.9,13.0,29.3,185000,
+PD000765,2026-10-15,ILU-03,Tendido de cable,m,434.4,426.2,31.8,3100,se cumplió lo previsto
+PD000766,2026-10-15,HOR-04,Colocación de hormigón,m3,140.8,2.2,111.8,105000,"falta de material para colocación de hormigón, el proveedor no entregó"
+PD000767,2026-10-15,HOR-04,Aserrado de juntas,m,310.6,184.3,23.0,2400,"falta detalle constructivo, esperando ingeniería"
+PD000768,2026-10-15,HOR-04,Movimiento de suelos,m3,383.6,398.0,54.8,3800,
+PD000769,2026-10-16,VIAL-01,Fresado de carpeta,m2,924.0,451.2,45.8,1800,"se pincho el camion volcador, demora en el acarreo"
+PD000770,2026-10-16,VIAL-01,Riego de liga,m2,1517.0,1571.3,31.1,450,
+PD000771,2026-10-16,VIAL-01,Demarcación horizontal,m,727.5,403.0,30.7,1300,"demora en la entrega de cable, no se pudo avanzar con demarcacion horizontal"
+PD000772,2026-10-16,VIV-02,Revoque grueso,m2,113.1,109.8,62.3,9800,
+PD000773,2026-10-16,VIV-02,Losa de cubierta,m2,73.8,74.1,88.1,38000,
+PD000774,2026-10-16,VIV-02,Excavación de fundaciones,m3,59.0,58.0,44.5,6200,
+PD000775,2026-10-16,ILU-03,Conexionado y tableros,un,3.0,3.2,22.5,640000,
+PD000776,2026-10-16,ILU-03,Excavación de zanjas,m,153.7,158.9,36.7,4200,tarea terminada
+PD000777,2026-10-16,ILU-03,Montaje de luminarias,un,12.9,13.4,29.7,185000,
+PD000778,2026-10-16,HOR-04,Compactación de subrasante,m2,1271.9,1338.2,36.1,900,
+PD000779,2026-10-16,HOR-04,Aserrado de juntas,m,301.7,299.6,22.2,2400,
+PD000780,2026-10-16,HOR-04,Curado y sellado,m2,970.5,1030.2,31.6,700,
+PD000781,2026-10-17,VIAL-01,Base granular,m3,112.0,117.9,63.2,9500,
+PD000782,2026-10-17,VIAL-01,Demarcación horizontal,m,779.7,806.4,28.8,1300,
+PD000783,2026-10-17,VIAL-01,Riego de liga,m2,1371.0,1445.9,30.5,450,
+PD000784,2026-10-17,VIV-02,Revoque grueso,m2,117.8,12.4,58.0,9800,"no llegaron las columnas, el proveedor reprogramo (ver foto)"
+PD000785,2026-10-17,VIV-02,Excavación de fundaciones,m3,63.1,64.1,47.2,6200,
+PD000786,2026-10-17,VIV-02,Losa de cubierta,m2,63.8,67.3,95.8,38000,
+PD000787,2026-10-17,ILU-03,Montaje de luminarias,un,12.8,0.4,31.4,185000,"LLOVIO TODA LA MANANA, TERRENO SATURADO"
+PD000788,2026-10-17,ILU-03,Conexionado y tableros,un,3.2,3.2,22.3,640000,
+PD000789,2026-10-17,ILU-03,Montaje de columnas,un,5.7,4.3,45.0,420000,demoras en obra
+PD000790,2026-10-17,HOR-04,Aserrado de juntas,m,317.3,18.2,22.5,2400,aserrado de juntas incompleto (ver foto)
+PD000791,2026-10-17,HOR-04,Movimiento de suelos,m3,420.8,76.9,55.5,3800,PENDIENTE DE RESOLVER urgente
+PD000792,2026-10-17,HOR-04,Colocación de hormigón,m3,157.3,55.3,110.6,105000,se retiró parte de la cuadrilla a otra obra
+PD000793,2026-10-19,VIAL-01,Carpeta asfáltica,tn,163.4,100.5,73.9,52000,demoras en obra
+PD000794,2026-10-19,VIAL-01,Riego de liga,m2,1571.3,1084.2,29.2,450,ocupación del terreno por terceros
+PD000795,2026-10-19,VIAL-01,Base granular,m3,126.5,129.9,61.8,9500,
+PD000796,2026-10-19,VIV-02,Mampostería,m2,94.7,58.5,76.1,14500,"SE TERMINÓ EL CEMENTO, ESPERANDO REPOSICIÓN"
+PD000797,2026-10-19,VIV-02,Revoque grueso,m2,100.6,44.8,62.1,9800,la terminadora quedo parada por falla hidraulica
+PD000798,2026-10-19,VIV-02,Hormigón de fundaciones,m3,37.4,11.6,62.7,98000,no se pudo avanzar con hormigón de fundaciones
+PD000799,2026-10-19,ILU-03,Conexionado y tableros,un,3.1,3.0,22.8,640000,
+PD000800,2026-10-19,ILU-03,Montaje de columnas,un,6.0,6.1,44.5,420000,
+PD000801,2026-10-19,ILU-03,Tendido de cable,m,405.4,432.9,29.5,3100,
+PD000802,2026-10-19,HOR-04,Movimiento de suelos,m3,439.6,33.1,55.0,3800,
+PD000803,2026-10-19,HOR-04,Colocación de hormigón,m3,152.4,157.1,107.5,105000,
+PD000804,2026-10-19,HOR-04,Curado y sellado,m2,815.5,856.9,29.9,700,
+PD000805,2026-10-20,VIAL-01,Riego de liga,m2,1541.1,1515.1,29.3,450,sin novedades
+PD000806,2026-10-20,VIAL-01,Fresado de carpeta,m2,896.0,886.5,44.5,1800,
+PD000807,2026-10-20,VIAL-01,Base granular,m3,115.5,122.0,60.8,9500,
+PD000808,2026-10-20,VIV-02,Excavación de fundaciones,m3,64.1,69.0,45.7,6200,
+PD000809,2026-10-20,VIV-02,Mampostería,m2,96.3,101.6,78.7,14500,sin novedades
+PD000810,2026-10-20,VIV-02,Hormigón de fundaciones,m3,35.2,37.4,62.7,98000,ok
+PD000811,2026-10-20,ILU-03,Montaje de columnas,un,6.2,6.2,43.7,420000,ok
+PD000812,2026-10-20,ILU-03,Montaje de luminarias,un,12.1,12.1,31.4,185000,
+PD000813,2026-10-20,ILU-03,Excavación de zanjas,m,158.3,62.7,39.0,4200,
+PD000814,2026-10-20,HOR-04,Compactación de subrasante,m2,1120.6,835.8,40.0,900,
+PD000815,2026-10-20,HOR-04,Aserrado de juntas,m,284.9,284.2,22.9,2400,
+PD000816,2026-10-20,HOR-04,Colocación de hormigón,m3,142.2,148.2,108.6,105000,
+PD000817,2026-10-21,VIAL-01,Riego de liga,m2,1429.3,1491.4,30.9,450,
+PD000818,2026-10-21,VIAL-01,Fresado de carpeta,m2,872.5,890.3,45.3,1800,sin novedades
+PD000819,2026-10-21,VIAL-01,Base granular,m3,123.4,120.7,59.6,9500,
+PD000820,2026-10-21,VIV-02,Revoque grueso,m2,105.8,69.5,57.9,9800,"demora en la entrega de cable, no se pudo avanzar con revoque grueso"
+PD000821,2026-10-21,VIV-02,Excavación de fundaciones,m3,60.4,11.3,45.8,6200,"retrabajo de excavacion de fundaciones, fuera de plomo"
+PD000822,2026-10-21,VIV-02,Losa de cubierta,m2,74.6,23.2,90.0,38000,
+PD000823,2026-10-21,ILU-03,Montaje de columnas,un,5.5,5.9,45.9,420000,
+PD000824,2026-10-21,ILU-03,Tendido de cable,m,390.1,413.4,31.4,3100,
+PD000825,2026-10-21,ILU-03,Conexionado y tableros,un,3.0,3.1,22.8,640000,ok
+PD000826,2026-10-21,HOR-04,Movimiento de suelos,m3,422.6,252.6,53.9,3800,
+PD000827,2026-10-21,HOR-04,Colocación de hormigón,m3,138.6,136.8,109.1,105000,
+PD000828,2026-10-21,HOR-04,Aserrado de juntas,m,326.9,36.9,23.8,2400,"inspección de seguridad, se frenó el trabajo en altura"
+PD000829,2026-10-22,VIAL-01,Base granular,m3,111.0,119.8,63.4,9500,
+PD000830,2026-10-22,VIAL-01,Demarcación horizontal,m,765.5,778.4,28.8,1300,
+PD000831,2026-10-22,VIAL-01,Riego de liga,m2,1583.8,522.7,30.5,450,"los operarios no vinieron, sin cobertura"
+PD000832,2026-10-22,VIV-02,Instalación eléctrica,boca,40.7,40.1,39.2,21000,
+PD000833,2026-10-22,VIV-02,Excavación de fundaciones,m3,64.6,8.5,44.6,6200,falta hierro para armaduras
+PD000834,2026-10-22,VIV-02,Revoque grueso,m2,102.0,0.4,59.9,9800,no se pudo avanzar con revoque grueso
+PD000835,2026-10-22,ILU-03,Excavación de zanjas,m,136.0,133.2,39.2,4200,sin novedades
+PD000836,2026-10-22,ILU-03,Montaje de columnas,un,6.0,6.1,43.5,420000,
+PD000837,2026-10-22,ILU-03,Conexionado y tableros,un,2.8,2.9,22.5,640000,
+PD000838,2026-10-22,HOR-04,Curado y sellado,m2,835.1,828.2,31.5,700,
+PD000839,2026-10-22,HOR-04,Compactación de subrasante,m2,1183.1,130.0,37.0,900,SE REPROGRAMÓ POR INDICACIÓN DE LA JEFATURA
+PD000840,2026-10-22,HOR-04,Movimiento de suelos,m3,436.2,459.7,51.1,3800,
+PD000841,2026-10-23,VIAL-01,Demarcación horizontal,m,829.9,811.1,29.6,1300,
+PD000842,2026-10-23,VIAL-01,Fresado de carpeta,m2,811.0,797.1,46.3,1800,
+PD000843,2026-10-23,VIAL-01,Base granular,m3,125.4,126.2,63.7,9500,
+PD000844,2026-10-23,VIV-02,Losa de cubierta,m2,69.2,68.3,92.3,38000,se cumplió lo previsto
+PD000845,2026-10-23,VIV-02,Hormigón de fundaciones,m3,36.1,28.2,59.4,98000,"se terminó el cemento, esperando reposición"
+PD000846,2026-10-23,VIV-02,Revoque grueso,m2,108.3,110.4,63.6,9800,se cumplió lo previsto
+PD000847,2026-10-23,ILU-03,Conexionado y tableros,un,2.9,3.1,23.0,640000,
+PD000848,2026-10-23,ILU-03,Montaje de luminarias,un,11.9,12.5,30.2,185000,
+PD000849,2026-10-23,ILU-03,Excavación de zanjas,m,146.8,149.3,38.8,4200,
+PD000850,2026-10-23,HOR-04,Compactación de subrasante,m2,1088.8,1153.3,36.8,900,
+PD000851,2026-10-23,HOR-04,Curado y sellado,m2,941.0,498.2,30.4,700,"FALTAN LADRILLOS EN OBRA, ENTREGA DEMORADA"
+PD000852,2026-10-23,HOR-04,Aserrado de juntas,m,272.6,288.1,24.0,2400,tarea terminada
+PD000853,2026-10-24,VIAL-01,Riego de liga,m2,1405.8,1468.4,29.7,450,
+PD000854,2026-10-24,VIAL-01,Carpeta asfáltica,tn,163.1,36.7,77.6,52000,"calor extremo, se corto la jornada antes"
+PD000855,2026-10-24,VIAL-01,Base granular,m3,112.7,114.8,61.2,9500,
+PD000856,2026-10-24,VIV-02,Mampostería,m2,83.0,31.9,74.8,14500,"demora en la entrega de cable, no se pudo avanzar con mampostería"
+PD000857,2026-10-24,VIV-02,Revoque grueso,m2,100.7,71.7,58.7,9800,"se pinchó el camión volcador, demora en el acarreo !!"
+PD000858,2026-10-24,VIV-02,Excavación de fundaciones,m3,55.1,28.9,44.9,6200,"ensayo de laboratorio no conforme, se detiene excavación de fundaciones"
+PD000859,2026-10-24,ILU-03,Excavación de zanjas,m,138.3,137.9,36.6,4200,
+PD000860,2026-10-24,ILU-03,Montaje de luminarias,un,10.9,7.8,29.5,185000,PROBLEMAS VARIOS (ver foto)
+PD000861,2026-10-24,ILU-03,Montaje de columnas,un,6.1,5.9,44.2,420000,
+PD000862,2026-10-24,HOR-04,Aserrado de juntas,m,273.6,90.6,22.4,2400,aserrado de juntas incompleto
+PD000863,2026-10-24,HOR-04,Colocación de hormigón,m3,161.7,124.8,108.0,105000,"ensayo de laboratorio no conforme, se detiene colocacion de hormigon"
+PD000864,2026-10-24,HOR-04,Compactación de subrasante,m2,1146.9,487.0,39.4,900,"SE TERMINÓ EL CEMENTO, ESPERANDO REPOSICIÓN"

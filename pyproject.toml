@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "obrapulse"
+version = "1.0.0"
+description = "Automatización del control de planificación de obra (PPC) y análisis de causas de incumplimiento con IA"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "pandas>=2.2",
+  "numpy>=1.26",
+  "scikit-learn>=1.4",
+  "joblib>=1.3",
+  "jinja2>=3.1",
+  "matplotlib>=3.8",
+  "fastapi>=0.110",
+  "uvicorn>=0.29",
+  "pydantic>=2.6",
+  "scipy>=1.11",
+]
+
+[project.optional-dependencies]
+llm = ["anthropic>=0.40"]
+dev = ["pytest>=8", "httpx>=0.27", "ruff>=0.5", "anthropic>=0.40"]
+
+[project.scripts]
+obrapulse = "obrapulse.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+obrapulse = ["templates/*.j2"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]  # textos en español largos en taxonomía y tests
+
+[tool.ruff.lint.flake8-bugbear]
+extend-immutable-calls = ["fastapi.Depends", "fastapi.Query", "fastapi.Header"]

@@ -1,0 +1,1378 @@
+descripcion,categoria
+"llovió toda la mañana, terreno saturado",CLIMA
+"falta de material para demarcacion horizontal, el proveedor no entrego",MATERIALES
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"llovió toda la mañana, terreno saturado",CLIMA
+faltaron ayudantes en el frente,MANO_OBRA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+orden de cambio pendiente de aprobación,PROYECTO
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"pronóstico adverso, se suspendió riego de liga ...",CLIMA
+"viento fuerte, se suspendió revoque grueso",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"se terminó el cemento, esperando reposición",MATERIALES
+"calor extremo, se cortó la jornada antes",CLIMA
+pendiente de resolver,CLIMA
+problemas varios,CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+ocupacion del terreno por terceros,INTERFERENCIAS
+"FERIADO LOCAL, JORNADA REDUCIDA (ver foto)",OTROS
+"pronostico adverso, se suspendio riego de liga",CLIMA
+falta definición en planos de carpeta asfáltica,PROYECTO
+SUBCONTRATISTA SIN EQUIPOS PARA BASE GRANULAR,SUBCONTRATISTA
+demora del subcontratista de mampostería,SUBCONTRATISTA
+"LOS OPERARIOS NO VINIERON, SIN COBERTURA",MANO_OBRA
+"se terminó el cemento, esperando reposición",MATERIALES
+falta definición en planos de excavación de zanjas,PROYECTO
+"SE PINCHÓ EL CAMIÓN VOLCADOR, DEMORA EN EL ACARREO",EQUIPOS
+no se pudo avanzar con demarcacion horizontal,MANO_OBRA
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+se rompio la retroexcavadora,EQUIPOS
+falta hierro para armaduras (ver foto),MATERIALES
+demoras en obra,PROYECTO
+consulta a la inspeccion sin respuesta,PROYECTO
+NO SE PUDO AVANZAR CON EXCAVACIÓN DE ZANJAS,MATERIALES
+terreno anegado por la lluvia de ayer,CLIMA
+subcontratista sin equipos para conexionado y tableros,SUBCONTRATISTA
+"DEMORA EN LA ENTREGA DE CABLE, NO SE PUDO AVANZAR CON INSTALACION ELECTRICA",MATERIALES
+se retiro parte de la cuadrilla a otra obra,MANO_OBRA
+DEMORAS EN OBRA,CLIMA
+"llovio toda la manana, terreno saturado",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"llovio toda la manana, terreno saturado",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"PRONÓSTICO ADVERSO, SE SUSPENDIÓ MONTAJE DE LUMINARIAS (ver foto)",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"LLOVIÓ TODA LA MAÑANA, TERRENO SATURADO",CLIMA
+TERRENO ANEGADO POR LA LLUVIA DE AYER,CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+subcontratista sin equipos para base granular,SUBCONTRATISTA
+"ensayo de compactación no aprobado, se rehace",CALIDAD
+se reprogramo por indicacion de la jefatura,OTROS
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+"FALLA EN EL COMPACTADOR, SE FRENO FRESADO DE CARPETA",EQUIPOS
+"calor extremo, se corto la jornada antes",CLIMA
+no se pudo avanzar con carpeta asfáltica,INTERFERENCIAS
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+falta de personal especializado para mampostería,MANO_OBRA
+falta andamio certificado (ver foto),SEGURIDAD
+falta hierro para armaduras,MATERIALES
+"faltó la cuadrilla de instalación eléctrica, ausentismo",MANO_OBRA
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+ORDEN DE CAMBIO PENDIENTE DE APROBACIÓN,PROYECTO
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"sin asfalto, la planta no despachó",MATERIALES
+se atrasó tendido de cable,CLIMA
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"falla en el compactador, se freno tendido de cable",EQUIPOS
+corte de energia general,OTROS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+fresado de carpeta incompleto,INTERFERENCIAS
+"plano desactualizado, hay que replantear !!",PROYECTO
+"accidente leve, parada para investigación",SEGURIDAD
+consulta a la inspección sin respuesta,PROYECTO
+"falta de material para riego de liga, el proveedor no entrego",MATERIALES
+"la inspeccion observo el armado, se corrige urgente",CALIDAD
+se detuvo excavacion de fundaciones por condicion insegura en el frente,SEGURIDAD
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"TRÁNSITO SIN DESVÍO HABILITADO, NO SE PUEDE TRABAJAR",INTERFERENCIAS
+"calor extremo, se corto la jornada antes",CLIMA
+se rehace hormigon de fundaciones por defecto de ejecucion,CALIDAD
+"no llegó el hormigón, demora del proveedor ...",MATERIALES
+"pronostico adverso, se suspendio demarcacion horizontal",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"no llegó el hormigón, demora del proveedor",MATERIALES
+"averia de la grua, no se pudo montar",EQUIPOS
+se atrasó aserrado de juntas,MATERIALES
+"se terminó el cemento, esperando reposición",MATERIALES
+ocupación del terreno por terceros,INTERFERENCIAS
+"LA INSPECCIÓN OBSERVÓ EL ARMADO, SE CORRIGE",CALIDAD
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+el contratista de electricidad no llegó a obra,SUBCONTRATISTA
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+falta de EPP para el personal nuevo,SEGURIDAD
+INTERFERENCIA CON SERVICIOS ENTERRADOS,INTERFERENCIAS
+se retiró parte de la cuadrilla a otra obra ...,MANO_OBRA
+"llovió toda la mañana, terreno saturado",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"viento fuerte, se suspendió colocación de hormigón",CLIMA
+falta permiso municipal para cortar la calle,INTERFERENCIAS
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"SE TERMINÓ EL CEMENTO, ESPERANDO REPOSICIÓN",MATERIALES
+"carpeta con deficiencias, se repasa",CALIDAD
+se rompió la retroexcavadora (ver foto),EQUIPOS
+se rompió la retroexcavadora,EQUIPOS
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"llovió toda la mañana, terreno saturado !!",CLIMA
+"plano desactualizado, hay que replantear",PROYECTO
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"calor extremo, se corto la jornada antes",CLIMA
+FALTA HIERRO PARA ARMADURAS,MATERIALES
+charla de seguridad extendida y capacitación,SEGURIDAD
+no se pudo avanzar,OTROS
+problemas varios,PROYECTO
+"se pinchó el camión volcador, demora en el acarreo",EQUIPOS
+"equipo de losa de cubierta sin repuestos, parado",EQUIPOS
+"falla en el compactador, se frenó aserrado de juntas",EQUIPOS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+falta de EPP para el personal nuevo,SEGURIDAD
+"pronóstico adverso, se suspendió conexionado y tableros",CLIMA
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+"accidente leve, parada para investigacion",SEGURIDAD
+"demora en la entrega de cable, no se pudo avanzar con compactación de subrasante",MATERIALES
+consulta a la inspeccion sin respuesta,PROYECTO
+faltaron ayudantes en el frente,MANO_OBRA
+"ensayo de compactación no aprobado, se rehace",CALIDAD
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+sin motivo declarado,OTROS
+PROBLEMAS VARIOS,EQUIPOS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+esperando aprobación del proyecto ejecutivo,PROYECTO
+"tormenta electrica, se retiro al personal",CLIMA
+"viento fuerte, se suspendió demarcación horizontal",CLIMA
+"TORMENTA ELÉCTRICA, SE RETIRÓ AL PERSONAL",CLIMA
+"TORMENTA ELECTRICA, SE RETIRO AL PERSONAL",CLIMA
+"viento fuerte, se suspendió conexionado y tableros",CLIMA
+no se pudo avanzar con montaje de columnas,CLIMA
+"lluvia, no se pudo trabajar en curado y sellado",CLIMA
+pendiente de resolver,OTROS
+movimiento de suelos incompleto,CLIMA
+ESPERANDO APROBACIÓN DEL PROYECTO EJECUTIVO,PROYECTO
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"lluvia, no se pudo trabajar en instalación eléctrica",CLIMA
+"sin asfalto, la planta no despachó",MATERIALES
+se retiro parte de la cuadrilla a otra obra,MANO_OBRA
+falta definición en planos de compactación de subrasante,PROYECTO
+"los operarios no vinieron, sin cobertura urgente",MANO_OBRA
+"se termino el cemento, esperando reposicion urgente",MATERIALES
+"demora en la entrega de cable, no se pudo avanzar con aserrado de juntas",MATERIALES
+"FALTA DE MATERIAL PARA HORMIGON DE FUNDACIONES, EL PROVEEDOR NO ENTREGO",MATERIALES
+demoras en obra,CLIMA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"caneria de agua no relevada, esperando al ente",INTERFERENCIAS
+"tormenta eléctrica, se retiró al personal",CLIMA
+"pronóstico adverso, se suspendió carpeta asfáltica",CLIMA
+"pronostico adverso, se suspendio demarcacion horizontal",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"llovio toda la manana, terreno saturado",CLIMA
+"viento fuerte, se suspendió mampostería",CLIMA
+"accidente leve, parada para investigación",SEGURIDAD
+falta hierro para armaduras,MATERIALES
+se atraso compactacion de subrasante,CLIMA
+interferencia con servicios enterrados,INTERFERENCIAS
+"DEMORA EN LA ENTREGA DE CABLE, NO SE PUDO AVANZAR CON ASERRADO DE JUNTAS",MATERIALES
+"faltó la cuadrilla de base granular, ausentismo",MANO_OBRA
+"la ART observo el apuntalamiento, se corrige",SEGURIDAD
+esperando permiso de corte de energía,INTERFERENCIAS
+"SE TERMINÓ EL CEMENTO, ESPERANDO REPOSICIÓN",MATERIALES
+"lluvia, no se pudo trabajar en base granular",CLIMA
+"ensayo de compactacion no aprobado, se rehace",CALIDAD
+"faltó la cuadrilla de montaje de columnas, ausentismo",MANO_OBRA
+no se pudo avanzar con fresado de carpeta,CLIMA
+"tormenta electrica, se retiro al personal",CLIMA
+"se termino el cemento, esperando reposicion",MATERIALES
+ESPERANDO APROBACION DEL PROYECTO EJECUTIVO,PROYECTO
+se detuvo base granular por condición insegura en el frente,SEGURIDAD
+se atrasó excavación de fundaciones,MANO_OBRA
+"LLOVIÓ TODA LA MAÑANA, TERRENO SATURADO",CLIMA
+"viento fuerte, se suspendio fresado de carpeta",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"retrabajo de compactacion de subrasante, fuera de plomo",CALIDAD
+falta hierro para armaduras !!,MATERIALES
+"SIN ASFALTO, LA PLANTA NO DESPACHÓ",MATERIALES
+subcontratista sin equipos para compactación de subrasante,SUBCONTRATISTA
+falta hierro para armaduras,MATERIALES
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"carpeta con deficiencias, se repasa",CALIDAD
+pendiente de resolver,MATERIALES
+LA TERMINADORA QUEDÓ PARADA POR FALLA HIDRÁULICA,EQUIPOS
+"falta de material para revoque grueso, el proveedor no entregó urgente",MATERIALES
+"FALTA DE MATERIAL PARA FRESADO DE CARPETA, EL PROVEEDOR NO ENTREGO",MATERIALES
+"lluvia, no se pudo trabajar en losa de cubierta",CLIMA
+se retiro parte de la cuadrilla a otra obra,MANO_OBRA
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"NO LLEGO EL HORMIGON, DEMORA DEL PROVEEDOR",MATERIALES
+"pronóstico adverso, se suspendió losa de cubierta",CLIMA
+falta hierro para armaduras,MATERIALES
+SE DETUVO ASERRADO DE JUNTAS POR CONDICIÓN INSEGURA EN EL FRENTE,SEGURIDAD
+"lluvia, no se pudo trabajar en base granular !!",CLIMA
+se atraso carpeta asfaltica,INTERFERENCIAS
+INSTALACION ELECTRICA INCOMPLETO,MATERIALES
+incompatibilidad entre planos y obra real,PROYECTO
+"TORMENTA ELECTRICA, SE RETIRO AL PERSONAL",CLIMA
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+"la inspeccion observo el armado, se corrige",CALIDAD
+"accidente leve, parada para investigación",SEGURIDAD
+"MOTONIVELADORA SIN DISPONIBILIDAD, LA USAN EN OTRA OBRA",EQUIPOS
+"avería de la grúa, no se pudo montar",EQUIPOS
+se atrasó fresado de carpeta,MATERIALES
+no se pudo avanzar con aserrado de juntas,EQUIPOS
+SE ATRASÓ DEMARCACIÓN HORIZONTAL,MATERIALES
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+se detuvo riego de liga por condición insegura en el frente,SEGURIDAD
+falta definición en planos de revoque grueso,PROYECTO
+FALTA ANDAMIO CERTIFICADO,SEGURIDAD
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+el subcontratista se atrasó con la tarea previa,SUBCONTRATISTA
+mamposteria incompleto,MATERIALES
+problemas varios,OTROS
+"se terminó el cemento, esperando reposición",MATERIALES
+mampostería incompleto,CLIMA
+"SUBCONTRATO SIN PERSONAL, SE REPROGRAMA urgente",SUBCONTRATISTA
+sin motivo declarado,OTROS
+falta definicion en planos de fresado de carpeta,PROYECTO
+acopio insuficiente de material para demarcacion horizontal,MATERIALES
+se atraso instalacion electrica,SUBCONTRATISTA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"retrabajo de tendido de cable, fuera de plomo",CALIDAD
+"EQUIPO DE COLOCACION DE HORMIGON SIN REPUESTOS, PARADO",EQUIPOS
+"viento fuerte, se suspendió revoque grueso",CLIMA
+"MOTONIVELADORA SIN DISPONIBILIDAD, LA USAN EN OTRA OBRA",EQUIPOS
+"poste a trasladar, esperando a la empresa de energía",INTERFERENCIAS
+falta permiso municipal para cortar la calle urgente,INTERFERENCIAS
+el subcontratista no se presento,SUBCONTRATISTA
+"falta de material para base granular, el proveedor no entregó (ver foto)",MATERIALES
+"viento fuerte, se suspendió excavación de fundaciones",CLIMA
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"poste a trasladar, esperando a la empresa de energía ...",INTERFERENCIAS
+orden de cambio pendiente de aprobación,PROYECTO
+no se pudo avanzar con carpeta asfáltica,EQUIPOS
+ocupación del terreno por terceros,INTERFERENCIAS
+poco personal para hormigon de fundaciones,MANO_OBRA
+incompatibilidad entre planos y obra real,PROYECTO
+problemas varios,MATERIALES
+problemas varios,CLIMA
+DEMORAS EN OBRA,MANO_OBRA
+"LA INSPECCIÓN OBSERVÓ EL ARMADO, SE CORRIGE",CALIDAD
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+subcontratista sin equipos para colocación de hormigón,SUBCONTRATISTA
+se atraso demarcacion horizontal,CLIMA
+"pronóstico adverso, se suspendió base granular",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"viento fuerte, se suspendió tendido de cable",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos (ver foto)",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"calor extremo, se cortó la jornada antes urgente",CLIMA
+consulta a la inspección sin respuesta,PROYECTO
+faltaron ayudantes en el frente,MANO_OBRA
+"demora en la entrega de cable, no se pudo avanzar con curado y sellado",MATERIALES
+problemas varios,MANO_OBRA
+"MIXER EN EL TALLER, SIN HORMIGON COLOCADO",EQUIPOS
+"calor extremo, se cortó la jornada antes",CLIMA
+"viento fuerte, se suspendió base granular",CLIMA
+"BARRO EN EL FRENTE DE OBRA, NO SE PUEDE INGRESAR CON EQUIPOS",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+revoque grueso incompleto,CLIMA
+"TORMENTA ELECTRICA, SE RETIRO AL PERSONAL",CLIMA
+"lluvia, no se pudo trabajar en montaje de columnas",CLIMA
+"lluvia, no se pudo trabajar en montaje de luminarias",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+TERRENO ANEGADO POR LA LLUVIA DE AYER,CLIMA
+problemas varios,CLIMA
+"LLOVIO TODA LA MANANA, TERRENO SATURADO",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+excavación de zanjas incompleto,OTROS
+ausentismo alto por el fin de semana largo,MANO_OBRA
+ocupación del terreno por terceros,INTERFERENCIAS
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+esperando permiso de corte de energía,INTERFERENCIAS
+"calor extremo, se corto la jornada antes ...",CLIMA
+sin motivo declarado,OTROS
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+"equipo de colocación de hormigón sin repuestos, parado",EQUIPOS
+"pronóstico adverso, se suspendió fresado de carpeta",CLIMA
+"LLOVIO TODA LA MANANA, TERRENO SATURADO",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"lluvia, no se pudo trabajar en hormigon de fundaciones",CLIMA
+"lluvia, no se pudo trabajar en mampostería",CLIMA
+"CALOR EXTREMO, SE CORTÓ LA JORNADA ANTES",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"pronostico adverso, se suspendio montaje de columnas",CLIMA
+"PRONÓSTICO ADVERSO, SE SUSPENDIÓ COMPACTACIÓN DE SUBRASANTE",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"se pinchó el camión volcador, demora en el acarreo",EQUIPOS
+consulta a la inspección sin respuesta,PROYECTO
+"feriado local, jornada reducida",OTROS
+ausentismo alto por el fin de semana largo,MANO_OBRA
+demora general en el frente,OTROS
+"avería de la grúa, no se pudo montar",EQUIPOS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"falla en el compactador, se freno aserrado de juntas",EQUIPOS
+"tormenta eléctrica, se retiró al personal",CLIMA
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"ensayo de compactacion no aprobado, se rehace",CALIDAD
+no se pudo avanzar,OTROS
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"LLOVIO TODA LA MANANA, TERRENO SATURADO",CLIMA
+"pronóstico adverso, se suspendió excavación de fundaciones urgente",CLIMA
+"poste a trasladar, esperando a la empresa de energia",INTERFERENCIAS
+subcontratista sin equipos para fresado de carpeta,SUBCONTRATISTA
+esperando aprobación del proyecto ejecutivo,PROYECTO
+"falta de material para revoque grueso, el proveedor no entregó",MATERIALES
+"LLOVIO TODA LA MANANA, TERRENO SATURADO",CLIMA
+ocupacion del terreno por terceros,INTERFERENCIAS
+fresado de carpeta incompleto,SUBCONTRATISTA
+se atraso revoque grueso,MATERIALES
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"plano desactualizado, hay que replantear",PROYECTO
+demoras en obra,PROYECTO
+mamposteria incompleto,MANO_OBRA
+problemas varios,SUBCONTRATISTA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"plano desactualizado, hay que replantear",PROYECTO
+"ensayo de laboratorio no conforme, se detiene demarcación horizontal",CALIDAD
+"cambio de diseno, se frena mamposteria",PROYECTO
+consulta a la inspeccion sin respuesta,PROYECTO
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+TERRENO ANEGADO POR LA LLUVIA DE AYER,CLIMA
+"INSPECCIÓN DE SEGURIDAD, SE FRENÓ EL TRABAJO EN ALTURA",SEGURIDAD
+esperando permiso de corte de energía,INTERFERENCIAS
+esperando aprobación del proyecto ejecutivo,PROYECTO
+problemas varios,CLIMA
+"FALTA DETALLE CONSTRUCTIVO, ESPERANDO INGENIERÍA",PROYECTO
+consulta a la inspección sin respuesta,PROYECTO
+"NO LLEGO EL HORMIGON, DEMORA DEL PROVEEDOR",MATERIALES
+"falta de material para montaje de columnas, el proveedor no entregó ...",MATERIALES
+faltaron ayudantes en el frente,MANO_OBRA
+demoras en obra,PROYECTO
+"RETRABAJO DE FRESADO DE CARPETA, FUERA DE PLOMO",CALIDAD
+falta hierro para armaduras,MATERIALES
+"no llegó el hormigón, demora del proveedor",MATERIALES
+"FALTAN LADRILLOS EN OBRA, ENTREGA DEMORADA",MATERIALES
+"LOS OPERARIOS NO VINIERON, SIN COBERTURA",MANO_OBRA
+EL SUBCONTRATISTA SE ATRASÓ CON LA TAREA PREVIA,SUBCONTRATISTA
+"falta detalle constructivo, esperando ingenieria",PROYECTO
+"pronóstico adverso, se suspendió curado y sellado !!",CLIMA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"BARRO EN EL FRENTE DE OBRA, NO SE PUEDE INGRESAR CON EQUIPOS",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"lluvia, no se pudo trabajar en base granular",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+TERRENO ANEGADO POR LA LLUVIA DE AYER,CLIMA
+SE ATRASÓ REVOQUE GRUESO,CLIMA
+"LLOVIÓ TODA LA MAÑANA, TERRENO SATURADO",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+terreno anegado por la lluvia de ayer !!,CLIMA
+"pronóstico adverso, se suspendió curado y sellado",CLIMA
+revoque grueso incompleto urgente,MANO_OBRA
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+EL SUBCONTRATISTA NO SE PRESENTO,SUBCONTRATISTA
+"tormenta electrica, se retiro al personal",CLIMA
+pendiente de resolver,CLIMA
+"tormenta electrica, se retiro al personal",CLIMA
+"pronóstico adverso, se suspendió excavación de fundaciones",CLIMA
+"tormenta electrica, se retiro al personal",CLIMA
+"llovio toda la manana, terreno saturado",CLIMA
+terreno anegado por la lluvia de ayer ...,CLIMA
+demoras en obra,CLIMA
+"pronóstico adverso, se suspendió tendido de cable",CLIMA
+TERRENO ANEGADO POR LA LLUVIA DE AYER,CLIMA
+"llovió toda la mañana, terreno saturado (ver foto)",CLIMA
+falta hierro para armaduras,MATERIALES
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+"tormenta electrica, se retiro al personal",CLIMA
+el subcontratista no se presentó,SUBCONTRATISTA
+"la ART observó el apuntalamiento, se corrige",SEGURIDAD
+"pronostico adverso, se suspendio tendido de cable",CLIMA
+subcontratista sin equipos para montaje de columnas,SUBCONTRATISTA
+se atraso movimiento de suelos,SEGURIDAD
+FALTA PERMISO MUNICIPAL PARA CORTAR LA CALLE,INTERFERENCIAS
+"avería de la grúa, no se pudo montar",EQUIPOS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"equipo de excavacion de fundaciones sin repuestos, parado",EQUIPOS
+"la ART observó el apuntalamiento, se corrige",SEGURIDAD
+acopio insuficiente de material para montaje de columnas,MATERIALES
+"lluvia, no se pudo trabajar en riego de liga",CLIMA
+"lluvia, no se pudo trabajar en demarcación horizontal",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"CANERIA DE AGUA NO RELEVADA, ESPERANDO AL ENTE",INTERFERENCIAS
+"calor extremo, se cortó la jornada antes",CLIMA
+problemas varios,CLIMA
+"pronostico adverso, se suspendio tendido de cable",CLIMA
+"cambio de diseno, se frena montaje de luminarias (ver foto)",PROYECTO
+DEMORAS EN OBRA,CLIMA
+"llovio toda la manana, terreno saturado ...",CLIMA
+"lluvia, no se pudo trabajar en compactación de subrasante",CLIMA
+terreno anegado por la lluvia de ayer urgente,CLIMA
+"sin asfalto, la planta no despacho",MATERIALES
+"inspeccion de seguridad, se freno el trabajo en altura",SEGURIDAD
+"viento fuerte, se suspendio demarcacion horizontal",CLIMA
+terreno anegado por la lluvia de ayer urgente,CLIMA
+"VIENTO FUERTE, SE SUSPENDIÓ FRESADO DE CARPETA",CLIMA
+subcontratista sin equipos para hormigón de fundaciones,SUBCONTRATISTA
+"llovio toda la manana, terreno saturado urgente",CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+"BARRO EN EL FRENTE DE OBRA, NO SE PUEDE INGRESAR CON EQUIPOS",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+problemas varios,CLIMA
+"TORMENTA ELECTRICA, SE RETIRO AL PERSONAL",CLIMA
+"LLOVIO TODA LA MANANA, TERRENO SATURADO",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"se pinchó el camión volcador, demora en el acarreo",EQUIPOS
+"no llegó el hormigón, demora del proveedor",MATERIALES
+demoras en obra,EQUIPOS
+se retiro parte de la cuadrilla a otra obra,MANO_OBRA
+FALTARON AYUDANTES EN EL FRENTE,MANO_OBRA
+esperando aprobación del proyecto ejecutivo,PROYECTO
+EL SUBCONTRATISTA NO SE PRESENTÓ,SUBCONTRATISTA
+demora del subcontratista de aserrado de juntas,SUBCONTRATISTA
+sin motivo declarado,OTROS
+"PLANO DESACTUALIZADO, HAY QUE REPLANTEAR",PROYECTO
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"FALTA DE MATERIAL PARA ASERRADO DE JUNTAS, EL PROVEEDOR NO ENTREGÓ",MATERIALES
+"la inspeccion observo el armado, se corrige",CALIDAD
+"falta de material para revoque grueso, el proveedor no entregó",MATERIALES
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"demora en la entrega de cable, no se pudo avanzar con aserrado de juntas",MATERIALES
+"faltó la cuadrilla de riego de liga, ausentismo",MANO_OBRA
+vecinos bloquean el acceso al frente,INTERFERENCIAS
+orden de cambio pendiente de aprobación,PROYECTO
+falta de EPP para el personal nuevo,SEGURIDAD
+demora del subcontratista de aserrado de juntas,SUBCONTRATISTA
+"ensayo de laboratorio no conforme, se detiene tendido de cable",CALIDAD
+falta de EPP para el personal nuevo,SEGURIDAD
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+SE REPROGRAMO POR INDICACION DE LA JEFATURA !!,OTROS
+"avería de la grúa, no se pudo montar",EQUIPOS
+se atrasó instalación eléctrica,MATERIALES
+el subcontratista se atrasó con la tarea previa,SUBCONTRATISTA
+vecinos bloquean el acceso al frente,INTERFERENCIAS
+falta de personal especializado para colocacion de hormigon,MANO_OBRA
+"FALTA DE MATERIAL PARA LOSA DE CUBIERTA, EL PROVEEDOR NO ENTREGO",MATERIALES
+demora del subcontratista de curado y sellado,SUBCONTRATISTA
+hormigón rechazado por asentamiento,CALIDAD
+incompatibilidad entre planos y obra real !!,PROYECTO
+carpeta asfáltica incompleto,CALIDAD
+charla de seguridad extendida y capacitación,SEGURIDAD
+falta hierro para armaduras,MATERIALES
+"accidente leve, parada para investigacion",SEGURIDAD
+"falla en el compactador, se freno aserrado de juntas",EQUIPOS
+subcontratista sin equipos para revoque grueso,SUBCONTRATISTA
+"faltan ladrillos en obra, entrega demorada !!",MATERIALES
+falta andamio certificado,SEGURIDAD
+OCUPACIÓN DEL TERRENO POR TERCEROS,INTERFERENCIAS
+"SE TERMINÓ EL CEMENTO, ESPERANDO REPOSICIÓN",MATERIALES
+"demora en la entrega de cable, no se pudo avanzar con montaje de luminarias",MATERIALES
+falta permiso municipal para cortar la calle,INTERFERENCIAS
+terreno anegado por la lluvia de ayer,CLIMA
+SE RETIRO PARTE DE LA CUADRILLA A OTRA OBRA,MANO_OBRA
+"ESPERANDO AL SUBCONTRATISTA, NO TERMINÓ SU TAREA PREVIA",SUBCONTRATISTA
+se retiro parte de la cuadrilla a otra obra,MANO_OBRA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"tránsito sin desvío habilitado, no se puede trabajar",INTERFERENCIAS
+problemas varios,CLIMA
+"VIENTO FUERTE, SE SUSPENDIO BASE GRANULAR",CLIMA
+no se pudo avanzar con carpeta asfaltica,CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+"viento fuerte, se suspendió losa de cubierta",CLIMA
+"LLUVIA, NO SE PUDO TRABAJAR EN REVOQUE GRUESO urgente",CLIMA
+problemas varios,CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"pronóstico adverso, se suspendió colocación de hormigón urgente",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"plano desactualizado, hay que replantear !!",PROYECTO
+"no llegó el hormigón, demora del proveedor",MATERIALES
+"ENSAYO DE COMPACTACIÓN NO APROBADO, SE REHACE",CALIDAD
+POCO PERSONAL PARA MOVIMIENTO DE SUELOS,MANO_OBRA
+esperando permiso de corte de energía,INTERFERENCIAS
+"ensayo de compactación no aprobado, se rehace (ver foto)",CALIDAD
+"demora en la entrega de cable, no se pudo avanzar con riego de liga",MATERIALES
+"viento fuerte, se suspendió aserrado de juntas",CLIMA
+"se pincho el camion volcador, demora en el acarreo ...",EQUIPOS
+"FALLA EN EL COMPACTADOR, SE FRENÓ COLOCACIÓN DE HORMIGÓN",EQUIPOS
+"inspección de seguridad, se frenó el trabajo en altura",SEGURIDAD
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+SUBCONTRATISTA SIN EQUIPOS PARA FRESADO DE CARPETA,SUBCONTRATISTA
+demoras en obra,CLIMA
+FALTA DEFINICION EN PLANOS DE EXCAVACION DE ZANJAS,PROYECTO
+"esperando al subcontratista, no termino su tarea previa",SUBCONTRATISTA
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"calor extremo, se cortó la jornada antes",CLIMA
+montaje de luminarias incompleto,MANO_OBRA
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+SE ROMPIO LA RETROEXCAVADORA,EQUIPOS
+pendiente de resolver,CALIDAD
+esperando aprobacion del proyecto ejecutivo,PROYECTO
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+esperando permiso de corte de energia,INTERFERENCIAS
+"NO LLEGO EL HORMIGON, DEMORA DEL PROVEEDOR",MATERIALES
+"se terminó el cemento, esperando reposición",MATERIALES
+poco personal para colocación de hormigón,MANO_OBRA
+se detuvo losa de cubierta por condición insegura en el frente,SEGURIDAD
+"FALTA DETALLE CONSTRUCTIVO, ESPERANDO INGENIERÍA",PROYECTO
+"PRONÓSTICO ADVERSO, SE SUSPENDIÓ CONEXIONADO Y TABLEROS",CLIMA
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+corte de energía general,OTROS
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"demora en la entrega de cable, no se pudo avanzar con excavacion de zanjas",MATERIALES
+consulta a la inspección sin respuesta,PROYECTO
+"cañería de agua no relevada, esperando al ente",INTERFERENCIAS
+"llovio toda la manana, terreno saturado",CLIMA
+consulta a la inspección sin respuesta,PROYECTO
+FALTA DEFINICION EN PLANOS DE CONEXIONADO Y TABLEROS,PROYECTO
+se atrasó carpeta asfáltica,CLIMA
+falta hierro para armaduras,MATERIALES
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"calor extremo, se cortó la jornada antes",CLIMA
+ORDEN DE CAMBIO PENDIENTE DE APROBACIÓN ...,PROYECTO
+"LA ART OBSERVÓ EL APUNTALAMIENTO, SE CORRIGE",SEGURIDAD
+"LOS OPERARIOS NO VINIERON, SIN COBERTURA",MANO_OBRA
+no se pudo avanzar con riego de liga,CLIMA
+"lluvia, no se pudo trabajar en fresado de carpeta",CLIMA
+terreno anegado por la lluvia de ayer ...,CLIMA
+demoras en obra,CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"lluvia, no se pudo trabajar en mamposteria",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"tormenta eléctrica, se retiró al personal urgente",CLIMA
+MONTAJE DE COLUMNAS INCOMPLETO,CLIMA
+"llovio toda la manana, terreno saturado",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"falta de material para movimiento de suelos, el proveedor no entregó",MATERIALES
+no se pudo avanzar con demarcacion horizontal,MANO_OBRA
+"llovio toda la manana, terreno saturado",CLIMA
+"equipo de instalación eléctrica sin repuestos, parado",EQUIPOS
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"PRONÓSTICO ADVERSO, SE SUSPENDIÓ ASERRADO DE JUNTAS",CLIMA
+ocupación del terreno por terceros ...,INTERFERENCIAS
+pendiente de resolver,MATERIALES
+orden de cambio pendiente de aprobación,PROYECTO
+demora del subcontratista de riego de liga,SUBCONTRATISTA
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+demora del subcontratista de compactación de subrasante,SUBCONTRATISTA
+terreno anegado por la lluvia de ayer,CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+ESPERANDO APROBACION DEL PROYECTO EJECUTIVO,PROYECTO
+"la inspeccion observo el armado, se corrige",CALIDAD
+"sin asfalto, la planta no despachó",MATERIALES
+"no llego el hormigon, demora del proveedor",MATERIALES
+faltaron ayudantes en el frente,MANO_OBRA
+NO SE PUDO AVANZAR CON RIEGO DE LIGA,EQUIPOS
+terreno anegado por la lluvia de ayer,CLIMA
+esperando aprobacion del proyecto ejecutivo,PROYECTO
+"viento fuerte, se suspendió montaje de columnas",CLIMA
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+terreno anegado por la lluvia de ayer urgente,CLIMA
+"FALTAN LADRILLOS EN OBRA, ENTREGA DEMORADA (ver foto)",MATERIALES
+terreno anegado por la lluvia de ayer,CLIMA
+"poste a trasladar, esperando a la empresa de energía",INTERFERENCIAS
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+orden de cambio pendiente de aprobación,PROYECTO
+"pronóstico adverso, se suspendió compactación de subrasante",CLIMA
+subcontratista sin equipos para riego de liga,SUBCONTRATISTA
+problemas varios,CLIMA
+el subcontratista no se presentó,SUBCONTRATISTA
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"ensayo de laboratorio no conforme, se detiene conexionado y tableros",CALIDAD
+"FERIADO LOCAL, JORNADA REDUCIDA",OTROS
+"falta de material para excavacion de fundaciones, el proveedor no entrego",MATERIALES
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"tránsito sin desvío habilitado, no se puede trabajar",INTERFERENCIAS
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+se rehace excavacion de fundaciones por defecto de ejecucion,CALIDAD
+PENDIENTE DE RESOLVER,PROYECTO
+"accidente leve, parada para investigacion (ver foto)",SEGURIDAD
+riego de liga incompleto,INTERFERENCIAS
+"transito sin desvio habilitado, no se puede trabajar",INTERFERENCIAS
+"LOS OPERARIOS NO VINIERON, SIN COBERTURA urgente",MANO_OBRA
+el subcontratista no se presentó,SUBCONTRATISTA
+no se pudo avanzar con riego de liga,MANO_OBRA
+problemas varios,PROYECTO
+instalacion electrica incompleto,MANO_OBRA
+"lluvia, no se pudo trabajar en mampostería",CLIMA
+"motoniveladora sin disponibilidad, la usan en otra obra !!",EQUIPOS
+"sin asfalto, la planta no despachó",MATERIALES
+"sin asfalto, la planta no despachó",MATERIALES
+curado y sellado incompleto,EQUIPOS
+"pronóstico adverso, se suspendió demarcación horizontal",CLIMA
+"equipo de fresado de carpeta sin repuestos, parado",EQUIPOS
+"sin asfalto, la planta no despachó",MATERIALES
+"pronostico adverso, se suspendio losa de cubierta",CLIMA
+el contratista de electricidad no llego a obra,SUBCONTRATISTA
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+pendiente de resolver,MATERIALES
+"no llegó el hormigón, demora del proveedor",MATERIALES
+interferencia con servicios enterrados,INTERFERENCIAS
+"ensayo de compactación no aprobado, se rehace",CALIDAD
+el subcontratista se atrasó con la tarea previa,SUBCONTRATISTA
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"INSPECCION DE SEGURIDAD, SE FRENO EL TRABAJO EN ALTURA",SEGURIDAD
+se rompió la retroexcavadora,EQUIPOS
+corte de energia general,OTROS
+"llovió toda la mañana, terreno saturado",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+"cambio de diseño, se frena instalación eléctrica",PROYECTO
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+se rehace conexionado y tableros por defecto de ejecución,CALIDAD
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+la terminadora quedó parada por falla hidráulica,EQUIPOS
+"POSTE A TRASLADAR, ESPERANDO A LA EMPRESA DE ENERGIA",INTERFERENCIAS
+"no llego el hormigon, demora del proveedor",MATERIALES
+"SIN ASFALTO, LA PLANTA NO DESPACHÓ",MATERIALES
+"MIXER EN EL TALLER, SIN HORMIGON COLOCADO",EQUIPOS
+terreno anegado por la lluvia de ayer,CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+el contratista de electricidad no llegó a obra,SUBCONTRATISTA
+la terminadora quedó parada por falla hidráulica,EQUIPOS
+ocupación del terreno por terceros,INTERFERENCIAS
+charla de seguridad extendida y capacitacion,SEGURIDAD
+demoras en obra,PROYECTO
+"no llego el hormigon, demora del proveedor",MATERIALES
+"transito sin desvio habilitado, no se puede trabajar",INTERFERENCIAS
+se retiro parte de la cuadrilla a otra obra,MANO_OBRA
+se rehace tendido de cable por defecto de ejecución,CALIDAD
+charla de seguridad extendida y capacitación,SEGURIDAD
+"FALTÓ LA CUADRILLA DE MAMPOSTERÍA, AUSENTISMO",MANO_OBRA
+"carpeta con deficiencias, se repasa !!",CALIDAD
+"transito sin desvio habilitado, no se puede trabajar urgente",INTERFERENCIAS
+"BARRO EN EL FRENTE DE OBRA, NO SE PUEDE INGRESAR CON EQUIPOS",CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+"falta de material para base granular, el proveedor no entregó",MATERIALES
+"sin asfalto, la planta no despachó",MATERIALES
+"avería de la grúa, no se pudo montar",EQUIPOS
+orden de cambio pendiente de aprobación,PROYECTO
+incompatibilidad entre planos y obra real !!,PROYECTO
+"no llego el hormigon, demora del proveedor",MATERIALES
+"motoniveladora sin disponibilidad, la usan en otra obra !!",EQUIPOS
+"plano desactualizado, hay que replantear",PROYECTO
+"avería de la grúa, no se pudo montar",EQUIPOS
+"cambio de diseño, se frena base granular urgente",PROYECTO
+falta andamio certificado,SEGURIDAD
+falta hierro para armaduras,MATERIALES
+"calor extremo, se cortó la jornada antes",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+TERRENO ANEGADO POR LA LLUVIA DE AYER ...,CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"pronóstico adverso, se suspendió montaje de luminarias",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"viento fuerte, se suspendio montaje de columnas",CLIMA
+"viento fuerte, se suspendió colocación de hormigón",CLIMA
+"pronóstico adverso, se suspendió compactación de subrasante",CLIMA
+"viento fuerte, se suspendió curado y sellado",CLIMA
+no se pudo avanzar con losa de cubierta,SUBCONTRATISTA
+PROBLEMAS VARIOS (ver foto),MANO_OBRA
+"SIN GENTE SUFICIENTE, FALTARON OFICIALES",MANO_OBRA
+falta de EPP para el personal nuevo,SEGURIDAD
+pendiente de resolver,MANO_OBRA
+falta permiso municipal para cortar la calle,INTERFERENCIAS
+"accidente leve, parada para investigación",SEGURIDAD
+"CAMBIO DE DISENO, SE FRENA MAMPOSTERIA",PROYECTO
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+se atraso aserrado de juntas urgente,SUBCONTRATISTA
+no se pudo avanzar con conexionado y tableros,CLIMA
+"PLANO DESACTUALIZADO, HAY QUE REPLANTEAR",PROYECTO
+"cambio de diseño, se frena base granular",PROYECTO
+consulta a la inspeccion sin respuesta ...,PROYECTO
+incompatibilidad entre planos y obra real,PROYECTO
+demora del subcontratista de riego de liga,SUBCONTRATISTA
+"SE PINCHO EL CAMION VOLCADOR, DEMORA EN EL ACARREO urgente",EQUIPOS
+"plano desactualizado, hay que replantear",PROYECTO
+compactación de subrasante incompleto,SUBCONTRATISTA
+carpeta asfaltica incompleto,EQUIPOS
+pendiente de resolver,PROYECTO
+"tormenta electrica, se retiro al personal",CLIMA
+"falto la cuadrilla de mamposteria, ausentismo",MANO_OBRA
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"esperando al subcontratista, no termino su tarea previa urgente",SUBCONTRATISTA
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"falta de material para fresado de carpeta, el proveedor no entregó",MATERIALES
+se rompio la retroexcavadora,EQUIPOS
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+"no llegó el hormigón, demora del proveedor",MATERIALES
+"calor extremo, se corto la jornada antes",CLIMA
+"retrabajo de demarcación horizontal, fuera de plomo !!",CALIDAD
+"calor extremo, se cortó la jornada antes",CLIMA
+"calor extremo, se corto la jornada antes",CLIMA
+"viento fuerte, se suspendió losa de cubierta",CLIMA
+"pronóstico adverso, se suspendió instalación eléctrica !!",CLIMA
+"CALOR EXTREMO, SE CORTO LA JORNADA ANTES",CLIMA
+"pronostico adverso, se suspendio montaje de luminarias",CLIMA
+"tormenta electrica, se retiro al personal",CLIMA
+colocacion de hormigon incompleto,CLIMA
+no se pudo avanzar con compactación de subrasante,CLIMA
+DEMORAS EN OBRA,CLIMA
+"falla en el compactador, se freno revoque grueso",EQUIPOS
+falta de EPP para el personal nuevo,SEGURIDAD
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+la terminadora quedo parada por falla hidraulica urgente,EQUIPOS
+"inspeccion de seguridad, se freno el trabajo en altura",SEGURIDAD
+"cañería de agua no relevada, esperando al ente",INTERFERENCIAS
+falta de personal especializado para montaje de luminarias,MANO_OBRA
+faltaron ayudantes en el frente,MANO_OBRA
+falta hierro para armaduras,MATERIALES
+"viento fuerte, se suspendio curado y sellado",CLIMA
+"demora en la entrega de cable, no se pudo avanzar con hormigón de fundaciones (ver foto)",MATERIALES
+faltaron ayudantes en el frente,MANO_OBRA
+consulta a la inspeccion sin respuesta,PROYECTO
+falta definicion en planos de colocacion de hormigon,PROYECTO
+"VIENTO FUERTE, SE SUSPENDIÓ EXCAVACIÓN DE FUNDACIONES",CLIMA
+"no llego el hormigon, demora del proveedor",MATERIALES
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+EL SUBCONTRATISTA NO SE PRESENTÓ,SUBCONTRATISTA
+problemas varios,OTROS
+"retrabajo de conexionado y tableros, fuera de plomo",CALIDAD
+falta permiso municipal para cortar la calle,INTERFERENCIAS
+"DEMORA EN LA ENTREGA DE CABLE, NO SE PUDO AVANZAR CON COMPACTACION DE SUBRASANTE !!",MATERIALES
+"cambio de diseno, se frena fresado de carpeta",PROYECTO
+FALTA DE PERSONAL ESPECIALIZADO PARA REVOQUE GRUESO,MANO_OBRA
+"FALTA DE MATERIAL PARA EXCAVACIÓN DE FUNDACIONES, EL PROVEEDOR NO ENTREGÓ",MATERIALES
+EXCAVACIÓN DE ZANJAS INCOMPLETO,MATERIALES
+CONSULTA A LA INSPECCION SIN RESPUESTA,PROYECTO
+"avería de la grúa, no se pudo montar",EQUIPOS
+falta hierro para armaduras,MATERIALES
+"viento fuerte, se suspendio losa de cubierta",CLIMA
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"plano desactualizado, hay que replantear",PROYECTO
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"transito sin desvio habilitado, no se puede trabajar",INTERFERENCIAS
+"pronóstico adverso, se suspendió carpeta asfáltica",CLIMA
+"pronóstico adverso, se suspendió mampostería",CLIMA
+"viento fuerte, se suspendió excavación de fundaciones",CLIMA
+"cambio de diseno, se frena revoque grueso",PROYECTO
+TERRENO ANEGADO POR LA LLUVIA DE AYER,CLIMA
+"TORMENTA ELÉCTRICA, SE RETIRÓ AL PERSONAL",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"viento fuerte, se suspendio colocacion de hormigon",CLIMA
+no se pudo avanzar con base granular,MANO_OBRA
+"falla en el compactador, se frenó carpeta asfáltica",EQUIPOS
+"faltó la cuadrilla de revoque grueso, ausentismo",MANO_OBRA
+la terminadora quedó parada por falla hidráulica,EQUIPOS
+demora general en el frente,OTROS
+"falta de material para tendido de cable, el proveedor no entregó",MATERIALES
+"llovio toda la manana, terreno saturado",CLIMA
+no se pudo avanzar con compactación de subrasante,MATERIALES
+"averia de la grua, no se pudo montar",EQUIPOS
+"lluvia, no se pudo trabajar en revoque grueso",CLIMA
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+hormigón rechazado por asentamiento,CALIDAD
+"cambio de diseno, se frena demarcacion horizontal",PROYECTO
+"lluvia, no se pudo trabajar en excavación de fundaciones",CLIMA
+corte de energia general,OTROS
+DEMORA DEL SUBCONTRATISTA DE MAMPOSTERÍA urgente,SUBCONTRATISTA
+falta de personal especializado para conexionado y tableros,MANO_OBRA
+acopio insuficiente de material para colocación de hormigón,MATERIALES
+NO SE PUDO AVANZAR CON DEMARCACION HORIZONTAL,MATERIALES
+falta andamio certificado,SEGURIDAD
+"lluvia, no se pudo trabajar en montaje de luminarias",CLIMA
+aserrado de juntas incompleto,SUBCONTRATISTA
+esperando aprobación del proyecto ejecutivo,PROYECTO
+SE RETIRÓ PARTE DE LA CUADRILLA A OTRA OBRA,MANO_OBRA
+"sin asfalto, la planta no despachó",MATERIALES
+demoras en obra,EQUIPOS
+"subcontrato sin personal, se reprograma (ver foto)",SUBCONTRATISTA
+FALTARON AYUDANTES EN EL FRENTE,MANO_OBRA
+instalación eléctrica incompleto,MATERIALES
+"DEMORA EN LA ENTREGA DE CABLE, NO SE PUDO AVANZAR CON EXCAVACION DE ZANJAS",MATERIALES
+"feriado local, jornada reducida",OTROS
+"sin asfalto, la planta no despachó",MATERIALES
+"ENSAYO DE LABORATORIO NO CONFORME, SE DETIENE EXCAVACIÓN DE FUNDACIONES",CALIDAD
+falta hierro para armaduras,MATERIALES
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+"calor extremo, se cortó la jornada antes",CLIMA
+"se terminó el cemento, esperando reposición",MATERIALES
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"faltó la cuadrilla de mampostería, ausentismo",MANO_OBRA
+falta definición en planos de tendido de cable,PROYECTO
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+DEMORA DEL SUBCONTRATISTA DE COLOCACIÓN DE HORMIGÓN,SUBCONTRATISTA
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"DEMORA EN LA ENTREGA DE CABLE, NO SE PUDO AVANZAR CON EXCAVACIÓN DE FUNDACIONES",MATERIALES
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"equipo de montaje de luminarias sin repuestos, parado",EQUIPOS
+"se termino el cemento, esperando reposicion",MATERIALES
+FALTA DEFINICIÓN EN PLANOS DE COLOCACIÓN DE HORMIGÓN,PROYECTO
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+demoras en obra,MANO_OBRA
+"no llegó el hormigón, demora del proveedor",MATERIALES
+esperando aprobacion del proyecto ejecutivo,PROYECTO
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+orden de cambio pendiente de aprobación,PROYECTO
+SE ROMPIO LA RETROEXCAVADORA,EQUIPOS
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"FALTA DE MATERIAL PARA EXCAVACIÓN DE FUNDACIONES, EL PROVEEDOR NO ENTREGÓ",MATERIALES
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+"sin asfalto, la planta no despacho",MATERIALES
+"SIN ASFALTO, LA PLANTA NO DESPACHÓ urgente",MATERIALES
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+incompatibilidad entre planos y obra real,PROYECTO
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"llovió toda la mañana, terreno saturado",CLIMA
+falta de personal especializado para conexionado y tableros,MANO_OBRA
+"poste a trasladar, esperando a la empresa de energía",INTERFERENCIAS
+falta de EPP para el personal nuevo,SEGURIDAD
+"pronóstico adverso, se suspendió demarcación horizontal urgente",CLIMA
+"pronostico adverso, se suspendio revoque grueso",CLIMA
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+se retiro parte de la cuadrilla a otra obra,MANO_OBRA
+"se pinchó el camión volcador, demora en el acarreo",EQUIPOS
+interferencia con servicios enterrados,INTERFERENCIAS
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+"sin asfalto, la planta no despacho",MATERIALES
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+acopio insuficiente de material para instalación eléctrica,MATERIALES
+poco personal para curado y sellado,MANO_OBRA
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"FALTAN LADRILLOS EN OBRA, ENTREGA DEMORADA",MATERIALES
+se atrasó instalación eléctrica,CLIMA
+demoras en obra,CALIDAD
+faltaron ayudantes en el frente,MANO_OBRA
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+acopio insuficiente de material para mamposteria,MATERIALES
+subcontratista sin equipos para hormigón de fundaciones,SUBCONTRATISTA
+consulta a la inspección sin respuesta,PROYECTO
+"llovio toda la manana, terreno saturado",CLIMA
+poco personal para fresado de carpeta,MANO_OBRA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+SE RETIRÓ PARTE DE LA CUADRILLA A OTRA OBRA,MANO_OBRA
+"FALTA DETALLE CONSTRUCTIVO, ESPERANDO INGENIERÍA",PROYECTO
+"inspección de seguridad, se frenó el trabajo en altura",SEGURIDAD
+acopio insuficiente de material para tendido de cable,MATERIALES
+terreno anegado por la lluvia de ayer,CLIMA
+"plano desactualizado, hay que replantear",PROYECTO
+"la ART observó el apuntalamiento, se corrige",SEGURIDAD
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+FALTA HIERRO PARA ARMADURAS,MATERIALES
+se rehace montaje de columnas por defecto de ejecucion ...,CALIDAD
+problemas varios,PROYECTO
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"falta de material para base granular, el proveedor no entregó",MATERIALES
+"transito sin desvio habilitado, no se puede trabajar",INTERFERENCIAS
+"VIENTO FUERTE, SE SUSPENDIÓ MAMPOSTERÍA (ver foto)",CLIMA
+"VIENTO FUERTE, SE SUSPENDIÓ BASE GRANULAR",CLIMA
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"se pinchó el camión volcador, demora en el acarreo ...",EQUIPOS
+"se terminó el cemento, esperando reposición",MATERIALES
+esperando permiso de corte de energia,INTERFERENCIAS
+se reprogramo por indicacion de la jefatura,OTROS
+orden de cambio pendiente de aprobación,PROYECTO
+SE ATRASÓ DEMARCACIÓN HORIZONTAL,CLIMA
+la terminadora quedó parada por falla hidráulica !!,EQUIPOS
+falta andamio certificado,SEGURIDAD
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+el contratista de electricidad no llego a obra,SUBCONTRATISTA
+esperando permiso de corte de energia,INTERFERENCIAS
+INTERFERENCIA CON SERVICIOS ENTERRADOS,INTERFERENCIAS
+"llovió toda la mañana, terreno saturado",CLIMA
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+demoras en obra,EQUIPOS
+sin motivo declarado (ver foto),OTROS
+DEMORAS EN OBRA,SUBCONTRATISTA
+conexionado y tableros incompleto,MANO_OBRA
+"equipo de fresado de carpeta sin repuestos, parado",EQUIPOS
+"accidente leve, parada para investigación",SEGURIDAD
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+el subcontratista se atraso con la tarea previa,SUBCONTRATISTA
+fresado de carpeta incompleto,CLIMA
+"pronóstico adverso, se suspendió excavación de fundaciones",CLIMA
+demoras en obra,CLIMA
+"tormenta electrica, se retiro al personal",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"VIENTO FUERTE, SE SUSPENDIO COLOCACION DE HORMIGON",CLIMA
+"lluvia, no se pudo trabajar en aserrado de juntas",CLIMA
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+se retiró parte de la cuadrilla a otra obra (ver foto),MANO_OBRA
+SIN MOTIVO DECLARADO,OTROS
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"lluvia, no se pudo trabajar en montaje de luminarias",CLIMA
+"ENSAYO DE LABORATORIO NO CONFORME, SE DETIENE RIEGO DE LIGA",CALIDAD
+"poste a trasladar, esperando a la empresa de energía (ver foto)",INTERFERENCIAS
+se rehace hormigón de fundaciones por defecto de ejecución,CALIDAD
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+compactación de subrasante incompleto,PROYECTO
+"SIN ASFALTO, LA PLANTA NO DESPACHÓ",MATERIALES
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"INSPECCIÓN DE SEGURIDAD, SE FRENÓ EL TRABAJO EN ALTURA",SEGURIDAD
+"accidente leve, parada para investigacion",SEGURIDAD
+"retrabajo de aserrado de juntas, fuera de plomo",CALIDAD
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"averia de la grua, no se pudo montar",EQUIPOS
+"calor extremo, se cortó la jornada antes !!",CLIMA
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+demoras en obra,SUBCONTRATISTA
+"equipo de revoque grueso sin repuestos, parado",EQUIPOS
+hormigón rechazado por asentamiento,CALIDAD
+esperando aprobación del proyecto ejecutivo,PROYECTO
+instalación eléctrica incompleto,EQUIPOS
+EXCAVACION DE ZANJAS INCOMPLETO,MANO_OBRA
+sin motivo declarado,OTROS
+"no llegó el hormigón, demora del proveedor !!",MATERIALES
+"no llego el hormigon, demora del proveedor",MATERIALES
+falta permiso municipal para cortar la calle,INTERFERENCIAS
+"MOTONIVELADORA SIN DISPONIBILIDAD, LA USAN EN OTRA OBRA ...",EQUIPOS
+"avería de la grúa, no se pudo montar",EQUIPOS
+ocupación del terreno por terceros,INTERFERENCIAS
+"inspección de seguridad, se frenó el trabajo en altura",SEGURIDAD
+"FALTAN LADRILLOS EN OBRA, ENTREGA DEMORADA",MATERIALES
+falta hierro para armaduras,MATERIALES
+"ensayo de laboratorio no conforme, se detiene fresado de carpeta",CALIDAD
+demora del subcontratista de carpeta asfaltica,SUBCONTRATISTA
+"pronostico adverso, se suspendio revoque grueso urgente",CLIMA
+"motoniveladora sin disponibilidad, la usan en otra obra (ver foto)",EQUIPOS
+pendiente de resolver,MANO_OBRA
+"NO LLEGÓ EL HORMIGÓN, DEMORA DEL PROVEEDOR",MATERIALES
+movimiento de suelos incompleto,MANO_OBRA
+"llovio toda la manana, terreno saturado",CLIMA
+"se termino el cemento, esperando reposicion",MATERIALES
+"AVERÍA DE LA GRÚA, NO SE PUDO MONTAR",EQUIPOS
+"ensayo de compactación no aprobado, se rehace",CALIDAD
+"equipo de tendido de cable sin repuestos, parado",EQUIPOS
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+CORTE DE ENERGIA GENERAL,OTROS
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+pendiente de resolver,OTROS
+"se terminó el cemento, esperando reposición (ver foto)",MATERIALES
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+hormigón rechazado por asentamiento,CALIDAD
+EL SUBCONTRATISTA NO SE PRESENTÓ,SUBCONTRATISTA
+"pronostico adverso, se suspendio demarcacion horizontal",CLIMA
+"viento fuerte, se suspendió carpeta asfáltica",CLIMA
+"cañería de agua no relevada, esperando al ente",INTERFERENCIAS
+"pronóstico adverso, se suspendió conexionado y tableros",CLIMA
+falta permiso municipal para cortar la calle urgente,INTERFERENCIAS
+"SE PINCHÓ EL CAMIÓN VOLCADOR, DEMORA EN EL ACARREO",EQUIPOS
+"TRANSITO SIN DESVIO HABILITADO, NO SE PUEDE TRABAJAR",INTERFERENCIAS
+SE ATRASÓ FRESADO DE CARPETA (ver foto),INTERFERENCIAS
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"lluvia, no se pudo trabajar en conexionado y tableros",CLIMA
+"FALTAN LADRILLOS EN OBRA, ENTREGA DEMORADA",MATERIALES
+falta hierro para armaduras,MATERIALES
+falta de EPP para el personal nuevo,SEGURIDAD
+faltaron ayudantes en el frente urgente,MANO_OBRA
+interferencia con servicios enterrados,INTERFERENCIAS
+DEMORA GENERAL EN EL FRENTE !!,OTROS
+pendiente de resolver,CLIMA
+"faltan ladrillos en obra, entrega demorada urgente",MATERIALES
+"falta detalle constructivo, esperando ingenieria",PROYECTO
+SE ROMPIO LA RETROEXCAVADORA,EQUIPOS
+"cambio de diseño, se frena colocación de hormigón",PROYECTO
+la terminadora quedó parada por falla hidráulica,EQUIPOS
+problemas varios,SUBCONTRATISTA
+"ensayo de laboratorio no conforme, se detiene compactación de subrasante",CALIDAD
+poco personal para movimiento de suelos,MANO_OBRA
+se atrasó montaje de luminarias,MANO_OBRA
+hormigón rechazado por asentamiento,CALIDAD
+poco personal para tendido de cable,MANO_OBRA
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"llovió toda la mañana, terreno saturado",CLIMA
+se rompió la retroexcavadora,EQUIPOS
+se atrasó instalación eléctrica,EQUIPOS
+"pronóstico adverso, se suspendió colocación de hormigón",CLIMA
+"llovió toda la mañana, terreno saturado (ver foto)",CLIMA
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+ausentismo alto por el fin de semana largo,MANO_OBRA
+DEMORAS EN OBRA,CLIMA
+"SE TERMINO EL CEMENTO, ESPERANDO REPOSICION",MATERIALES
+"accidente leve, parada para investigacion",SEGURIDAD
+"demora en la entrega de cable, no se pudo avanzar con riego de liga",MATERIALES
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"falla en el compactador, se frenó mampostería",EQUIPOS
+falta definición en planos de excavación de fundaciones,PROYECTO
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+falta hierro para armaduras,MATERIALES
+ORDEN DE CAMBIO PENDIENTE DE APROBACIÓN,PROYECTO
+hormigón de fundaciones incompleto,PROYECTO
+se atrasó aserrado de juntas,PROYECTO
+poco personal para compactación de subrasante,MANO_OBRA
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+problemas varios,EQUIPOS
+falta de personal especializado para losa de cubierta,MANO_OBRA
+"FALTAN LADRILLOS EN OBRA, ENTREGA DEMORADA",MATERIALES
+"falta de material para montaje de columnas, el proveedor no entrego",MATERIALES
+el subcontratista se atrasó con la tarea previa,SUBCONTRATISTA
+acopio insuficiente de material para base granular,MATERIALES
+"falta de material para demarcación horizontal, el proveedor no entregó",MATERIALES
+"PLANO DESACTUALIZADO, HAY QUE REPLANTEAR",PROYECTO
+"tránsito sin desvío habilitado, no se puede trabajar",INTERFERENCIAS
+"cambio de diseño, se frena demarcación horizontal",PROYECTO
+"ensayo de compactación no aprobado, se rehace",CALIDAD
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"sin asfalto, la planta no despachó",MATERIALES
+SE REPROGRAMO POR INDICACION DE LA JEFATURA,OTROS
+"tormenta eléctrica, se retiró al personal",CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+el subcontratista se atraso con la tarea previa,SUBCONTRATISTA
+SE ROMPIÓ LA RETROEXCAVADORA,EQUIPOS
+FALTA DE EPP PARA EL PERSONAL NUEVO urgente,SEGURIDAD
+"pronóstico adverso, se suspendió compactación de subrasante",CLIMA
+"inspeccion de seguridad, se freno el trabajo en altura",SEGURIDAD
+"falta de material para fresado de carpeta, el proveedor no entregó",MATERIALES
+"sin gente suficiente, faltaron oficiales ...",MANO_OBRA
+poco personal para aserrado de juntas,MANO_OBRA
+pendiente de resolver,EQUIPOS
+"TRANSITO SIN DESVIO HABILITADO, NO SE PUEDE TRABAJAR urgente",INTERFERENCIAS
+acopio insuficiente de material para compactacion de subrasante,MATERIALES
+ocupación del terreno por terceros,INTERFERENCIAS
+"TORMENTA ELECTRICA, SE RETIRO AL PERSONAL",CLIMA
+"demora en la entrega de cable, no se pudo avanzar con losa de cubierta",MATERIALES
+no se pudo avanzar con excavacion de zanjas ...,EQUIPOS
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"la inspeccion observo el armado, se corrige",CALIDAD
+"accidente leve, parada para investigación",SEGURIDAD
+el contratista de electricidad no llegó a obra,SUBCONTRATISTA
+"avería de la grúa, no se pudo montar",EQUIPOS
+"LA INSPECCION OBSERVO EL ARMADO, SE CORRIGE",CALIDAD
+se detuvo movimiento de suelos por condicion insegura en el frente,SEGURIDAD
+el subcontratista no se presentó,SUBCONTRATISTA
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+el subcontratista se atraso con la tarea previa,SUBCONTRATISTA
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"lluvia, no se pudo trabajar en compactación de subrasante",CLIMA
+"viento fuerte, se suspendió riego de liga",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"pronostico adverso, se suspendio carpeta asfaltica urgente",CLIMA
+"LLOVIO TODA LA MANANA, TERRENO SATURADO",CLIMA
+"pronóstico adverso, se suspendió hormigón de fundaciones",CLIMA
+"pronostico adverso, se suspendio excavacion de zanjas",CLIMA
+"viento fuerte, se suspendió tendido de cable",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+"pronóstico adverso, se suspendió movimiento de suelos !!",CLIMA
+carpeta asfáltica incompleto,CLIMA
+"tránsito sin desvío habilitado, no se puede trabajar",INTERFERENCIAS
+interferencia con servicios enterrados,INTERFERENCIAS
+"ensayo de laboratorio no conforme, se detiene montaje de columnas",CALIDAD
+se retiró parte de la cuadrilla a otra obra urgente,MANO_OBRA
+"accidente leve, parada para investigación",SEGURIDAD
+no se pudo avanzar con revoque grueso,PROYECTO
+"ensayo de compactacion no aprobado, se rehace",CALIDAD
+"no llegó el hormigón, demora del proveedor",MATERIALES
+CONSULTA A LA INSPECCIÓN SIN RESPUESTA,PROYECTO
+ocupación del terreno por terceros,INTERFERENCIAS
+interferencia con servicios enterrados,INTERFERENCIAS
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+no se pudo avanzar con conexionado y tableros,PROYECTO
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+el contratista de electricidad no llegó a obra,SUBCONTRATISTA
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"lluvia, no se pudo trabajar en excavación de fundaciones",CLIMA
+no se pudo avanzar con tendido de cable,PROYECTO
+pendiente de resolver,EQUIPOS
+"TORMENTA ELÉCTRICA, SE RETIRÓ AL PERSONAL",CLIMA
+faltaron ayudantes en el frente,MANO_OBRA
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+incompatibilidad entre planos y obra real,PROYECTO
+el contratista de electricidad no llegó a obra,SUBCONTRATISTA
+SE RETIRO PARTE DE LA CUADRILLA A OTRA OBRA,MANO_OBRA
+se rompió la retroexcavadora,EQUIPOS
+"falla en el compactador, se frenó curado y sellado",EQUIPOS
+"calor extremo, se cortó la jornada antes",CLIMA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"viento fuerte, se suspendio curado y sellado",CLIMA
+"ensayo de compactación no aprobado, se rehace",CALIDAD
+"avería de la grúa, no se pudo montar",EQUIPOS
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+subcontratista sin equipos para excavacion de fundaciones,SUBCONTRATISTA
+hormigón rechazado por asentamiento,CALIDAD
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"falta de material para conexionado y tableros, el proveedor no entrego",MATERIALES
+FALTA HIERRO PARA ARMADURAS,MATERIALES
+falta definicion en planos de excavacion de fundaciones,PROYECTO
+"SIN ASFALTO, LA PLANTA NO DESPACHÓ",MATERIALES
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+falta permiso municipal para cortar la calle urgente,INTERFERENCIAS
+incompatibilidad entre planos y obra real,PROYECTO
+demora del subcontratista de compactacion de subrasante,SUBCONTRATISTA
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"falta de material para fresado de carpeta, el proveedor no entregó",MATERIALES
+falta andamio certificado,SEGURIDAD
+"LOS OPERARIOS NO VINIERON, SIN COBERTURA",MANO_OBRA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+consulta a la inspección sin respuesta,PROYECTO
+interferencia con servicios enterrados,INTERFERENCIAS
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"la inspeccion observo el armado, se corrige",CALIDAD
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+demoras en obra,CLIMA
+"falta de material para montaje de luminarias, el proveedor no entrego",MATERIALES
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+montaje de columnas incompleto,PROYECTO
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+no se pudo avanzar con fresado de carpeta,SEGURIDAD
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+terreno anegado por la lluvia de ayer,CLIMA
+consulta a la inspección sin respuesta,PROYECTO
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"avería de la grúa, no se pudo montar",EQUIPOS
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+esperando aprobacion del proyecto ejecutivo,PROYECTO
+no se pudo avanzar con conexionado y tableros (ver foto),PROYECTO
+"se pinchó el camión volcador, demora en el acarreo",EQUIPOS
+se detuvo conexionado y tableros por condicion insegura en el frente,SEGURIDAD
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+demora del subcontratista de curado y sellado,SUBCONTRATISTA
+interferencia con servicios enterrados,INTERFERENCIAS
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+falta hierro para armaduras,MATERIALES
+"faltó la cuadrilla de riego de liga, ausentismo",MANO_OBRA
+"se termino el cemento, esperando reposicion",MATERIALES
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+no se pudo avanzar con riego de liga,CLIMA
+"lluvia, no se pudo trabajar en fresado de carpeta",CLIMA
+demarcación horizontal incompleto,CLIMA
+"TORMENTA ELECTRICA, SE RETIRO AL PERSONAL",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"lluvia, no se pudo trabajar en montaje de columnas",CLIMA
+"poste a trasladar, esperando a la empresa de energía",INTERFERENCIAS
+"pronostico adverso, se suspendio tendido de cable (ver foto)",CLIMA
+"tormenta eléctrica, se retiró al personal",CLIMA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+"faltan ladrillos en obra, entrega demorada !!",MATERIALES
+POCO PERSONAL PARA HORMIGON DE FUNDACIONES,MANO_OBRA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"BARRO EN EL FRENTE DE OBRA, NO SE PUEDE INGRESAR CON EQUIPOS",CLIMA
+se atraso aserrado de juntas,EQUIPOS
+"falta detalle constructivo, esperando ingeniería",PROYECTO
+"FERIADO LOCAL, JORNADA REDUCIDA",OTROS
+"averia de la grua, no se pudo montar",EQUIPOS
+pendiente de resolver urgente,PROYECTO
+"pronostico adverso, se suspendio carpeta asfaltica",CLIMA
+se detuvo instalación eléctrica por condición insegura en el frente,SEGURIDAD
+pendiente de resolver,MANO_OBRA
+"motoniveladora sin disponibilidad, la usan en otra obra",EQUIPOS
+falta andamio certificado (ver foto),SEGURIDAD
+falta de personal especializado para movimiento de suelos,MANO_OBRA
+"falto la cuadrilla de carpeta asfaltica, ausentismo",MANO_OBRA
+"plano desactualizado, hay que replantear",PROYECTO
+"se terminó el cemento, esperando reposición",MATERIALES
+"LOS OPERARIOS NO VINIERON, SIN COBERTURA",MANO_OBRA
+SE REHACE MONTAJE DE COLUMNAS POR DEFECTO DE EJECUCIÓN,CALIDAD
+SE RETIRÓ PARTE DE LA CUADRILLA A OTRA OBRA,MANO_OBRA
+acopio insuficiente de material para conexionado y tableros,MATERIALES
+"faltó la cuadrilla de movimiento de suelos, ausentismo",MANO_OBRA
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+riego de liga incompleto,MATERIALES
+se rompió la retroexcavadora,EQUIPOS
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"EQUIPO DE BASE GRANULAR SIN REPUESTOS, PARADO",EQUIPOS
+problemas varios,MANO_OBRA
+falta permiso municipal para cortar la calle,INTERFERENCIAS
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+"se terminó el cemento, esperando reposición",MATERIALES
+el contratista de electricidad no llegó a obra,SUBCONTRATISTA
+"se termino el cemento, esperando reposicion",MATERIALES
+SE REHACE CURADO Y SELLADO POR DEFECTO DE EJECUCIÓN,CALIDAD
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+DEMORA DEL SUBCONTRATISTA DE MONTAJE DE LUMINARIAS,SUBCONTRATISTA
+no se pudo avanzar con movimiento de suelos,MATERIALES
+acopio insuficiente de material para movimiento de suelos,MATERIALES
+"sin asfalto, la planta no despachó",MATERIALES
+SE ROMPIÓ LA RETROEXCAVADORA ...,EQUIPOS
+faltaron ayudantes en el frente,MANO_OBRA
+demoras en obra,MATERIALES
+"caneria de agua no relevada, esperando al ente",INTERFERENCIAS
+"falta de material para tendido de cable, el proveedor no entregó",MATERIALES
+poco personal para colocacion de hormigon,MANO_OBRA
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+falta andamio certificado,SEGURIDAD
+"falta de material para mampostería, el proveedor no entregó",MATERIALES
+"sin asfalto, la planta no despacho",MATERIALES
+"tormenta eléctrica, se retiró al personal",CLIMA
+"ensayo de laboratorio no conforme, se detiene curado y sellado",CALIDAD
+demoras en obra ...,INTERFERENCIAS
+falta de EPP para el personal nuevo ...,SEGURIDAD
+pendiente de resolver,MATERIALES
+se rehace carpeta asfaltica por defecto de ejecucion,CALIDAD
+"faltan ladrillos en obra, entrega demorada !!",MATERIALES
+"INSPECCIÓN DE SEGURIDAD, SE FRENÓ EL TRABAJO EN ALTURA",SEGURIDAD
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+la terminadora quedó parada por falla hidráulica,EQUIPOS
+consulta a la inspección sin respuesta,PROYECTO
+"los operarios no vinieron, sin cobertura !!",MANO_OBRA
+demoras en obra,CLIMA
+terreno anegado por la lluvia de ayer,CLIMA
+"demora en la entrega de cable, no se pudo avanzar con fresado de carpeta",MATERIALES
+"ensayo de compactacion no aprobado, se rehace",CALIDAD
+falta definición en planos de losa de cubierta !!,PROYECTO
+"falto la cuadrilla de compactacion de subrasante, ausentismo",MANO_OBRA
+"SE PINCHÓ EL CAMIÓN VOLCADOR, DEMORA EN EL ACARREO",EQUIPOS
+"poste a trasladar, esperando a la empresa de energia",INTERFERENCIAS
+"ESPERANDO AL SUBCONTRATISTA, NO TERMINO SU TAREA PREVIA",SUBCONTRATISTA
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"subcontrato sin personal, se reprograma (ver foto)",SUBCONTRATISTA
+"falta de material para demarcación horizontal, el proveedor no entregó",MATERIALES
+ocupación del terreno por terceros,INTERFERENCIAS
+"no llegaron las columnas, el proveedor reprogramo",MATERIALES
+falta permiso municipal para cortar la calle ...,INTERFERENCIAS
+"falta de material para instalación eléctrica, el proveedor no entregó",MATERIALES
+consulta a la inspección sin respuesta,PROYECTO
+falta andamio certificado,SEGURIDAD
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+acopio insuficiente de material para curado y sellado,MATERIALES
+"equipo de demarcacion horizontal sin repuestos, parado",EQUIPOS
+"no llego el hormigon, demora del proveedor",MATERIALES
+"calor extremo, se cortó la jornada antes",CLIMA
+demoras en obra,MATERIALES
+"se terminó el cemento, esperando reposición (ver foto)",MATERIALES
+"FALTO LA CUADRILLA DE FRESADO DE CARPETA, AUSENTISMO",MANO_OBRA
+se detuvo riego de liga por condición insegura en el frente,SEGURIDAD
+FALTA HIERRO PARA ARMADURAS,MATERIALES
+montaje de columnas incompleto,SEGURIDAD
+"MIXER EN EL TALLER, SIN HORMIGÓN COLOCADO",EQUIPOS
+"sin asfalto, la planta no despachó",MATERIALES
+se detuvo mamposteria por condicion insegura en el frente urgente,SEGURIDAD
+"equipo de excavacion de zanjas sin repuestos, parado",EQUIPOS
+FALTARON AYUDANTES EN EL FRENTE,MANO_OBRA
+"MOTONIVELADORA SIN DISPONIBILIDAD, LA USAN EN OTRA OBRA",EQUIPOS
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"los operarios no vinieron, sin cobertura",MANO_OBRA
+"accidente leve, parada para investigacion",SEGURIDAD
+FALTA DE PERSONAL ESPECIALIZADO PARA LOSA DE CUBIERTA,MANO_OBRA
+charla de seguridad extendida y capacitación,SEGURIDAD
+"esperando al subcontratista, no termino su tarea previa",SUBCONTRATISTA
+"no llegaron las columnas, el proveedor reprogramó",MATERIALES
+"pronostico adverso, se suspendio demarcacion horizontal",CLIMA
+"subcontrato sin personal, se reprograma",SUBCONTRATISTA
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"falla en el compactador, se frenó montaje de columnas",EQUIPOS
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"retrabajo de aserrado de juntas, fuera de plomo",CALIDAD
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"subcontrato sin personal, se reprograma !!",SUBCONTRATISTA
+"lluvia, no se pudo trabajar en aserrado de juntas",CLIMA
+esperando aprobacion del proyecto ejecutivo,PROYECTO
+"tormenta eléctrica, se retiró al personal",CLIMA
+esperando aprobación del proyecto ejecutivo,PROYECTO
+falta hierro para armaduras,MATERIALES
+"motoniveladora sin disponibilidad, la usan en otra obra (ver foto)",EQUIPOS
+no se pudo avanzar con instalación eléctrica,MATERIALES
+EL SUBCONTRATISTA SE ATRASO CON LA TAREA PREVIA,SUBCONTRATISTA
+"plano desactualizado, hay que replantear",PROYECTO
+la terminadora quedo parada por falla hidraulica,EQUIPOS
+demoras en obra,INTERFERENCIAS
+"pronostico adverso, se suspendio compactacion de subrasante",CLIMA
+"falta de material para base granular, el proveedor no entregó",MATERIALES
+faltaron ayudantes en el frente,MANO_OBRA
+"avería de la grúa, no se pudo montar",EQUIPOS
+hormigón rechazado por asentamiento,CALIDAD
+FALTA HIERRO PARA ARMADURAS,MATERIALES
+problemas varios,PROYECTO
+se reprogramó por indicación de la jefatura,OTROS
+se rehace mampostería por defecto de ejecución,CALIDAD
+hormigón rechazado por asentamiento,CALIDAD
+"MIXER EN EL TALLER, SIN HORMIGÓN COLOCADO",EQUIPOS
+"tormenta electrica, se retiro al personal",CLIMA
+se atraso tendido de cable,EQUIPOS
+DEMORA DEL SUBCONTRATISTA DE COLOCACIÓN DE HORMIGÓN,SUBCONTRATISTA
+"falta detalle constructivo, esperando ingenieria",PROYECTO
+falta hierro para armaduras,MATERIALES
+esperando permiso de corte de energía ...,INTERFERENCIAS
+LA TERMINADORA QUEDO PARADA POR FALLA HIDRAULICA,EQUIPOS
+incompatibilidad entre planos y obra real,PROYECTO
+ausentismo alto por el fin de semana largo,MANO_OBRA
+falta definición en planos de montaje de luminarias,PROYECTO
+MOVIMIENTO DE SUELOS INCOMPLETO (ver foto),EQUIPOS
+se retiró parte de la cuadrilla a otra obra,MANO_OBRA
+"mixer en el taller, sin hormigón colocado",EQUIPOS
+"se termino el cemento, esperando reposicion",MATERIALES
+"la ART observo el apuntalamiento, se corrige",SEGURIDAD
+"cañería de agua no relevada, esperando al ente",INTERFERENCIAS
+"plano desactualizado, hay que replantear",PROYECTO
+TERRENO ANEGADO POR LA LLUVIA DE AYER,CLIMA
+se rompió la retroexcavadora,EQUIPOS
+se rompio la retroexcavadora ...,EQUIPOS
+"la inspección observó el armado, se corrige",CALIDAD
+EL SUBCONTRATISTA SE ATRASÓ CON LA TAREA PREVIA,SUBCONTRATISTA
+"falta detalle constructivo, esperando ingenieria (ver foto)",PROYECTO
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"falla en el compactador, se frenó excavación de fundaciones",EQUIPOS
+falta andamio certificado,SEGURIDAD
+se atrasó riego de liga,CLIMA
+"calor extremo, se cortó la jornada antes",CLIMA
+montaje de columnas incompleto,CLIMA
+"pronostico adverso, se suspendio montaje de luminarias",CLIMA
+"LLOVIÓ TODA LA MAÑANA, TERRENO SATURADO",CLIMA
+aserrado de juntas incompleto urgente,CLIMA
+"pronóstico adverso, se suspendió colocación de hormigón",CLIMA
+compactacion de subrasante incompleto,CLIMA
+"sin asfalto, la planta no despacho",MATERIALES
+"la ART observó el apuntalamiento, se corrige",SEGURIDAD
+demoras en obra,MANO_OBRA
+"demora en la entrega de cable, no se pudo avanzar con curado y sellado",MATERIALES
+"no llego el hormigon, demora del proveedor",MATERIALES
+orden de cambio pendiente de aprobación,PROYECTO
+"faltan ladrillos en obra, entrega demorada",MATERIALES
+se rompio la retroexcavadora (ver foto),EQUIPOS
+"demora en la entrega de cable, no se pudo avanzar con demarcación horizontal",MATERIALES
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+"CALOR EXTREMO, SE CORTÓ LA JORNADA ANTES urgente",CLIMA
+ausentismo alto por el fin de semana largo,MANO_OBRA
+"sin gente suficiente, faltaron oficiales",MANO_OBRA
+falta definicion en planos de losa de cubierta,PROYECTO
+"lluvia, no se pudo trabajar en carpeta asfáltica",CLIMA
+"falla en el compactador, se frenó montaje de columnas",EQUIPOS
+se atrasó aserrado de juntas,MANO_OBRA
+"SE PINCHO EL CAMION VOLCADOR, DEMORA EN EL ACARREO !!",EQUIPOS
+"faltó la cuadrilla de riego de liga, ausentismo",MANO_OBRA
+"barro en el frente de obra, no se puede ingresar con equipos",CLIMA
+consulta a la inspección sin respuesta,PROYECTO
+mampostería incompleto urgente,MATERIALES
+tendido de cable incompleto,SUBCONTRATISTA
+CONSULTA A LA INSPECCION SIN RESPUESTA,PROYECTO
+"se pincho el camion volcador, demora en el acarreo",EQUIPOS
+"LOS OPERARIOS NO VINIERON, SIN COBERTURA",MANO_OBRA
+"llovio toda la manana, terreno saturado",CLIMA
+"CANERIA DE AGUA NO RELEVADA, ESPERANDO AL ENTE",INTERFERENCIAS
+el contratista de electricidad no llegó a obra,SUBCONTRATISTA
+"tormenta eléctrica, se retiró al personal",CLIMA
+pendiente de resolver,PROYECTO
+ocupacion del terreno por terceros,INTERFERENCIAS
+se rompió la retroexcavadora,EQUIPOS
+"esperando al subcontratista, no terminó su tarea previa",SUBCONTRATISTA
+"falta de material para conexionado y tableros, el proveedor no entregó !!",MATERIALES
+falta de personal especializado para aserrado de juntas,MANO_OBRA
+problemas varios,MANO_OBRA

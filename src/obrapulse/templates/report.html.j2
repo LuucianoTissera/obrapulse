@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ObraPulse · Reporte de cumplimiento de planificación</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --tx:#1c2430; --mut:#667085; --br:#e4e7ec; --ac:#1f6feb; --bad:#d92d20; --ok:#12b76a; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f141a; --card:#171e27; --tx:#e6eaf0; --mut:#98a2b3; --br:#2a3340; } }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--tx); line-height:1.5; }
+  main { max-width: 1080px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { margin:0 0 4px; font-size: 1.6rem; } h2 { margin: 32px 0 12px; font-size: 1.15rem; }
+  .sub { color:var(--mut); font-size:.9rem; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(190px,1fr)); gap:12px; margin-top:16px; }
+  .card { background:var(--card); border:1px solid var(--br); border-radius:12px; padding:14px 16px; }
+  .kpi .v { font-size:1.9rem; font-weight:700; } .kpi .l { color:var(--mut); font-size:.8rem; text-transform:uppercase; letter-spacing:.04em; }
+  table { width:100%; border-collapse:collapse; font-size:.88rem; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--br); }
+  th { color:var(--mut); font-weight:600; font-size:.78rem; text-transform:uppercase; }
+  .wrap { overflow-x:auto; } img { max-width:100%; height:auto; border-radius:8px; }
+  .tag { display:inline-block; padding:1px 8px; border-radius:999px; font-size:.75rem; background:var(--br); }
+  .alert { border-left:4px solid var(--bad); } ol, ul { margin:6px 0 6px 20px; padding:0; }
+  .note { font-size:.82rem; color:var(--mut); } .bad { color:var(--bad); font-weight:600; } .ok { color:var(--ok); font-weight:600; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Reporte de cumplimiento de planificación</h1>
+  <div class="sub">Período {{ periodo.desde }} → {{ periodo.hasta }} · generado {{ generado }}</div>
+
+  <div class="grid">
+    <div class="card kpi"><div class="l">PPC global</div><div class="v">{{ "%.1f"|format(kpi.ppc*100) }}%</div></div>
+    <div class="card kpi"><div class="l">SPI (avance en valor)</div><div class="v">{{ "%.2f"|format(kpi.spi) }}</div></div>
+    <div class="card kpi"><div class="l">Valor no ejecutado</div><div class="v">${{ "%.1f"|format(kpi.valor_perdido/1e6) }}M</div></div>
+    <div class="card kpi"><div class="l">Horas-hombre perdidas</div><div class="v">{{ "{:,.0f}".format(kpi.hh_perdidas) }}</div></div>
+    <div class="card kpi"><div class="l">Desvíos sin causa</div><div class="v">{{ kpi.desvios_sin_causa }}<span style="font-size:1rem"> / {{ kpi.desvios }}</span></div></div>
+    <div class="card kpi"><div class="l">A revisión humana</div><div class="v">{{ calidad_datos.a_revision }}</div></div>
+  </div>
+
+  {% if anomalias %}
+  <h2>⚠ Alertas: caída anómala del PPC (última semana)</h2>
+  <div class="card alert wrap"><table>
+    <tr><th>Obra</th><th>PPC histórico</th><th>PPC reciente</th><th>Desvíos / tareas</th><th>Valor no ejecutado</th><th>Causa dominante</th><th>p-valor</th></tr>
+    {% for a in anomalias %}<tr><td>{{ a.obra }}</td><td>{{ "%.0f"|format(a.ppc_base*100) }}%</td><td class="bad">{{ "%.0f"|format(a.ppc_reciente*100) }}%</td><td>{{ a.desvios_recientes }} / {{ a.tareas_recientes }}</td><td>${{ "{:,.0f}".format(a.valor_perdido_reciente) }}</td><td>{{ a.causa_dominante }} ({{ "%.0f"|format(a.pct_causa) }}%)</td><td>{{ a.p_value }}</td></tr>{% endfor %}
+  </table>
+  <div class="note">Test binomial unilateral (α = 0,01): ¿el incumplimiento de la última semana supera significativamente el histórico de la obra?</div></div>
+  {% endif %}
+
+  <h2>Estado por obra</h2>
+  <div class="card wrap"><table>
+    <tr><th>Obra</th><th>Tareas</th><th>PPC</th><th>SPI</th><th>Valor no ejecutado</th><th>HH perdidas</th><th>% HH perdidas</th></tr>
+    {% for o in obras %}<tr><td>{{ o.obra }}</td><td>{{ o.tareas }}</td>
+      <td class="{{ 'ok' if o.ppc >= 0.8 else 'bad' }}">{{ "%.1f"|format(o.ppc*100) }}%</td>
+      <td class="{{ 'ok' if o.spi >= 0.95 else 'bad' }}">{{ "%.2f"|format(o.spi) }}</td>
+      <td>${{ "{:,.0f}".format(o.valor_perdido) }}</td><td>{{ "{:,.0f}".format(o.hh_perdidas) }}</td><td>{{ "%.1f"|format(o.pct_hh_perdidas*100) }}%</td></tr>{% endfor %}
+  </table></div>
+
+  <h2>PPC semanal</h2>
+  <div class="card"><img alt="PPC semanal" src="data:image/png;base64,{{ chart_ppc }}"></div>
+
+  <h2>Pareto de causas de no cumplimiento</h2>
+  <div class="card"><img alt="Pareto" src="data:image/png;base64,{{ chart_pareto }}"></div>
+  <div class="card wrap" style="margin-top:12px"><table>
+    <tr><th>Causa</th><th>Desvíos</th><th>Valor no ejecutado</th><th>HH perdidas</th><th>%</th><th>% acum.</th></tr>
+    {% for p in pareto %}<tr><td>{{ p.nombre }}</td><td>{{ p.desvios }}</td><td>${{ "{:,.0f}".format(p.valor_perdido) }}</td><td>{{ p.hh_perdidas }}</td><td>{{ p.pct }}</td><td>{{ p.pct_acum }}</td></tr>{% endfor %}
+  </table></div>
+
+  <h2>Curvas S por obra</h2>
+  <div class="card"><img alt="Curvas S" src="data:image/png;base64,{{ chart_curva_s }}"></div>
+
+  <h2>Actividades con menor cumplimiento</h2>
+  <div class="card wrap"><table>
+    <tr><th>Obra</th><th>Actividad</th><th>Cumplimiento</th><th>Productividad (u/HH)</th><th>Unidad</th></tr>
+    {% for p in productividad %}<tr><td>{{ p.obra }}</td><td>{{ p.actividad }}</td><td>{{ "%.0f"|format(p.cumplimiento*100) }}%</td><td>{{ p.u_por_hh }}</td><td>{{ p.unidad }}</td></tr>{% endfor %}
+  </table></div>
+
+  <h2>Análisis de causa raíz asistido · principales problemas</h2>
+  {% for r in rca %}
+  <div class="card" style="margin-bottom:12px">
+    <strong>{{ r.categoria_nombre }}</strong> · {{ r.obra }}
+    <span class="tag">{{ r.desvios }} desvíos · ${{ "{:,.0f}".format(r.valor_perdido) }} · {{ r.hh_perdidas }} HH</span>
+    <span class="tag">fuente: {{ r.fuente }}</span>
+    <div class="note">Ejemplos: {{ r.ejemplos|join(' · ') }}</div>
+    <strong>5 Porqués (hipótesis)</strong><ol>{% for q in r.porques %}<li>{{ q }}</li>{% endfor %}</ol>
+    <strong>Acciones sugeridas</strong><ul>{% for a in r.acciones %}<li>{{ a }}</li>{% endfor %}</ul>
+  </div>
+  {% endfor %}
+
+  <h2>Calidad de datos y de la clasificación</h2>
+  <div class="card">
+    <ul>
+      <li>Partes procesados: <b>{{ calidad_datos.partes_validos }}</b> · rechazados (cuarentena): <b>{{ calidad_datos.partes_rechazados }}</b></li>
+      <li>Desvíos: <b>{{ calidad_datos.desvios }}</b> · sin causa registrada: <b>{{ calidad_datos.sin_causa }}</b> ({{ "%.0f"|format(calidad_datos.sin_causa / calidad_datos.desvios * 100 if calidad_datos.desvios else 0) }}%)</li>
+      <li>Método de clasificación: {% for k, v in calidad_datos.metodos.items() %}<span class="tag">{{ k }}: {{ v }}</span> {% endfor %}</li>
+      <li>Llamadas al LLM: <b>{{ calidad_datos.llm_calls }}</b> · confianza menor a {{ calidad_datos.umbral }} → revisión humana</li>
+    </ul>
+    <div class="note">Definiciones: PPC = tareas cumplidas (≥95% de lo planificado) / tareas planificadas. SPI = valor ejecutado / valor planificado acumulado. Las sugerencias de causa raíz son hipótesis generadas automáticamente; deben validarse en obra antes de actuar. Datos sintéticos de demostración.</div>
+  </div>
+</main>
+</body>
+</html>
