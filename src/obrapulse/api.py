@@ -163,8 +163,12 @@ def create_app(
             if desvios is not None and "requiere_revision" in desvios
             else 0
         )
-        corridas = storage.read_table(db, "corridas") if storage.table_exists(db, "corridas") else None
-        ultima_corrida = corridas.iloc[-1].to_dict() if corridas is not None and not corridas.empty else {}
+        corridas = (
+            storage.read_table(db, "corridas") if storage.table_exists(db, "corridas") else None
+        )
+        ultima_corrida = (
+            corridas.iloc[-1].to_dict() if corridas is not None and not corridas.empty else {}
+        )
         return {
             "partes_validos": validos,
             "partes_rechazados": rechazados,
