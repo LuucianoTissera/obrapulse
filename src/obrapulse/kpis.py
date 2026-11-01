@@ -109,8 +109,13 @@ def pareto(desvios: pd.DataFrame, by: str = "categoria") -> pd.DataFrame:
         .reset_index()
     )
     total = p["valor_perdido"].sum()
-    p["pct"] = (p["valor_perdido"] / total * 100).round(2) if total else 0.0
-    p["pct_acum"] = p["pct"].cumsum().round(2)
+    if total:
+        pct = p["valor_perdido"] / total * 100
+        p["pct_acum"] = pct.cumsum().round(2)
+        p["pct"] = pct.round(2)
+    else:
+        p["pct"] = 0.0
+        p["pct_acum"] = 0.0
     p["valor_perdido"] = p["valor_perdido"].round(0)
     p["hh_perdidas"] = p["hh_perdidas"].round(1)
     return p

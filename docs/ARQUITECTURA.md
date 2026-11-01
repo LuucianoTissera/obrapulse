@@ -41,3 +41,12 @@
 | SQLite | PostgreSQL |
 | `cron` de GitHub Actions | Scheduler corporativo (cron / Airflow / Task Scheduler) |
 | Reporte HTML | Power BI sobre la API |
+
+
+## Integraciones externas
+
+- **Power BI:** consume la API REST de FastAPI mediante consultas Power Query. Esta ruta lee la información persistida por el pipeline Python.
+- **Power Apps / Dataverse / Power Automate:** módulo complementario para alta y seguimiento de desvíos. El flujo actual se dispara al agregar una fila en Dataverse y ejecuta una acción `Redactar` de prueba.
+- **Sincronización pendiente:** el flujo de Power Automate aún no invoca FastAPI ni escribe en SQLite. La integración directa requiere un endpoint accesible desde el flujo, autenticación y tratamiento de reintentos/duplicados.
+
+Ver `POWER_PLATFORM.md` para la configuración y las evidencias de la prueba.

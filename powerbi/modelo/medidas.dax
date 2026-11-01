@@ -1,0 +1,24 @@
+-- Crear estas medidas en Power BI Desktop sobre la tabla Partes.
+
+Registros = COUNTROWS(Partes)
+
+Actividades cumplidas =
+CALCULATE(COUNTROWS(Partes), Partes[cumplida] = TRUE())
+
+PPC = DIVIDE([Actividades cumplidas], [Registros], 0)
+
+Desvíos =
+CALCULATE(COUNTROWS(Partes), Partes[cumplida] = FALSE())
+
+Valor planificado = SUM(Partes[valor_plan])
+
+Valor ejecutado = SUM(Partes[valor_ejec])
+
+SPI = DIVIDE([Valor ejecutado], [Valor planificado], 0)
+
+Valor perdido = SUM(Partes[valor_perdido])
+
+Horas-hombre perdidas = SUM(Partes[hh_perdidas])
+
+% de ejecución =
+DIVIDE(SUM(Partes[cantidad_ejecutada]), SUM(Partes[cantidad_planificada]), 0)

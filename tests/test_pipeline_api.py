@@ -86,6 +86,16 @@ def test_api_flow(settings):
     assert 0 < client.get("/kpis").json()["ppc"] < 1
     assert client.get("/kpis?obra=NOEXISTE").status_code == 404
     assert len(client.get("/obras").json()) == 4
+    detalle = client.get("/datos?limite=10").json()
+    assert len(detalle) == 10
+    assert {"fecha", "obra", "cumplida", "valor_plan", "valor_ejec"}.issubset(detalle[0])
+    filtrados = client.get("/datos?obra=VIAL-01&fecha_desde=2026-08-01&limite=10")
+    assert filtrados.status_code == 200
+    assert all(row["obra"] == "VIAL-01" for row in filtrados.json())
+    curva = client.get("/curva-s").json()
+    assert len(curva) > 0 and {"pv_acum", "ev_acum"}.issubset(curva[0])
+    calidad = client.get("/calidad-datos").json()
+    assert calidad["partes_validos"] > 0 and "partes_rechazados" in calidad
     assert client.get("/pareto?por=obra").status_code == 200
     assert client.get("/pareto?por=DROP").status_code == 422
     assert client.get("/anomalies").status_code == 200

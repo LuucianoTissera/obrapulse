@@ -2,7 +2,7 @@
 
 **Control automático del cumplimiento de planificación de obra (PPC) y análisis de causas de incumplimiento con IA.**
 
-[![CI](https://github.com/<TU-USUARIO>/obrapulse/actions/workflows/ci.yml/badge.svg)](https://github.com/<TU-USUARIO>/obrapulse/actions)
+[![CI](https://github.com/LuucianoTissera/obrapulse/actions/workflows/ci.yml/badge.svg)](https://github.com/LuucianoTissera/obrapulse/actions)
 ![Python](https://img.shields.io/badge/python-3.11%20|%203.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -113,14 +113,31 @@ obrapulse serve      # http://127.0.0.1:8000/docs  (Swagger)
 | `POST /classify` | Clasifica una observación en texto libre → causa, confianza, método, ¿revisión? |
 | `GET /kpis?obra=VIAL-01` | PPC, SPI, valor y HH perdidas |
 | `GET /obras` | Resumen por obra |
+| `GET /datos` | Detalle enriquecido de partes, con filtros de obra/fecha y paginación (Power BI) |
+| `GET /curva-s` | Serie por fecha y obra: PV, EV y acumulados para la curva S |
+| `GET /calidad-datos` | Partes válidos/rechazados y registros que requieren revisión |
 | `GET /pareto?por=categoria\|obra\|actividad` | Pareto de valor no ejecutado |
 | `GET /anomalies` | Obras con caída anómala del PPC en la última semana |
 | `GET /report` | Último reporte HTML |
+
+### Power Query y Power BI
+
+Las consultas M listas para importar, el modelo recomendado, las medidas DAX y el diseño del dashboard están en [`powerbi/README.md`](powerbi/README.md). La integración utiliza `/datos`, `/obras`, `/curva-s`, `/pareto`, `/anomalies` y `/calidad-datos`; requiere ejecutar `obrapulse run` para actualizar los datos procesados.
 
 ```bash
 curl -X POST localhost:8000/classify -H 'content-type: application/json' \
   -d '{"descripcion":"no llegó el hormigón, demora del proveedor"}'
 ```
+
+## Integración con Microsoft Power Platform
+
+ObraPulse incluye una integración de análisis con **Power BI mediante Power Query y la API REST de FastAPI**. Las consultas M consumen los endpoints de datos, resumen de obras, curva S, Pareto, anomalías y calidad de datos.
+
+Como módulo complementario de gestión, se construyó una aplicación en **Power Apps** conectada a una tabla **Dataverse** (`Desvío de Obra`) y un flujo de **Power Automate** que detecta el registro de un nuevo desvío y envía un aviso por correo (Outlook) al responsable. La evidencia con capturas está en [`docs/EVIDENCIAS.md`](docs/EVIDENCIAS.md).
+
+> Alcance actual: Power Apps, Dataverse y Power Automate funcionan entre sí para registrar y detectar nuevos desvíos. Ese flujo todavía no llama directamente a la API Python ni modifica la base SQLite. La arquitectura, configuración y evidencias esperadas están documentadas en [`docs/POWER_PLATFORM.md`](docs/POWER_PLATFORM.md).
+
+Para la conexión de Power BI con FastAPI y las consultas M, consultar [`powerbi/README.md`](powerbi/README.md).
 
 ## Configuración (variables de entorno, ver `.env.example`)
 
@@ -182,7 +199,7 @@ tests/             40 tests (KPIs verificados a mano, validación, fallbacks, AP
 - Ciclo de retroalimentación: las correcciones humanas reentrenan el modelo (active learning).
 - Alertas proactivas (email / Teams / WhatsApp) al detectar caídas de PPC.
 - Restricciones y *look-ahead* a 3 semanas (liberación de restricciones del Last Planner).
-- Dashboard en Power BI sobre la API; costo y desvío presupuestario (CPI).
+- Ampliación de indicadores de costos y desvío presupuestario (CPI).
 
 ## Desarrollo
 
